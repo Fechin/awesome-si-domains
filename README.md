@@ -2,9 +2,9 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 44 curated .si domains for intelligent agents, multimodal products, scientific discovery, and the infrastructure behind them.
+> 44 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
-**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
+**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
 Contact **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** with the domain you want and your offer. Bundle enquiries are welcome.
 
@@ -28,15 +28,57 @@ The registry is also reporting increased new `.si` registrations and publishing 
 
 The domain-specific sections below are **our original brand and product analysis**: concrete ways each name could participate in the SI era, from tools built with today's models to longer-term intelligent systems.
 
+## Many ways to read a name
+
+**A short name can support several distinct businesses.** An established acronym offers one starting point; a new phrase can give the same letters an entirely different audience, promise, and product. A word can also carry literal meanings, metaphors, and an expressive brand voice. The profiles explore these possibilities individually, with recommendations to help a buyer choose a coherent direction.
+
+Consider **BYO SI**:
+
+| Reading | Brand promise | Possible product |
+| :--- | :--- | :--- |
+| **Build Your Own** | “Build the intelligence you need.” | A studio for custom agents, workflow assembly, or personalized software. |
+| **Bring Your Own** | “Your models. Your knowledge. Your rules.” | A platform where customers connect their own models, documents, tools, or infrastructure. |
+| **Be Your Own** | “Own your next move.” | A personal intelligence workspace for independent creators, founders, or professionals. |
+
+Those are three separate naming routes, with more in the BYO profile. The same exploration runs through the whole collection: a data acronym might become a visual design brand, a scientific initialism might express an agent workflow, and a familiar word might name an unexpected product through a useful metaphor.
+
+**How to read the profile tables:** **Established** identifies a documented meaning or expression, with a linked source. **Original brand concept** identifies a proposed phrase, metaphor, or positioning developed for this collection. Each reading is paired with a possible product and buyer; the strongest routes include suggested taglines. The comparison tables show several leading directions for each name.
+
+<details>
+<summary><strong>More ways the SI ending can support a brand</strong></summary>
+
+**Super Intelligence remains this collection's central theme.** Depending on the product, SI can also suggest a more specific kind of intelligence. Existing disciplines and proposed brand readings provide additional ways to connect the extension to a clear product story.
+
+| SI reading | Context | Possible naming territory |
+| :--- | :--- | :--- |
+| **Super Intelligence** | The primary naming theme of this collection; see the sourced policy and branding context above. | Agent platforms, ambitious intelligent products, research, and infrastructure. |
+| **Spatial Intelligence** | An existing research and product direction described by [World Labs](https://www.worldlabs.ai/about). | World models, 3D creation, robotics, and tools that reason about places and objects. |
+| **Swarm Intelligence** | An established field involving cooperating entities, with optimization and robotics applications. [Springer research volume](https://link.springer.com/book/10.1007/978-3-540-74089-6). | Coordinated agents, distributed problem solving, and simulation. |
+| **Systems Intelligence** | An established human and organizational research concept involving interaction and feedback. [Aalto research](https://research.aalto.fi/en/publications/essays-on-systems-intelligence/). | Organizational learning, collaborative decisions, and systems-oriented advisory tools. |
+| **Strategic Intelligence** | An established decision-support expression, including the [World Economic Forum's platform](https://www.weforum.org/join-us/pro-access/). | Research briefings, scenario exploration, and enterprise knowledge products. |
+| **Social Intelligence** | A research subject in human and artificial agents. [Original Social-AI position paper](https://arxiv.org/abs/2404.11023). | Communication practice, collaboration, and the human experience of agents. |
+| **Scientific Intelligence** | Original brand concept: intelligence organized around investigation and evidence. | Laboratory software, research assistants, and scientific computing. |
+| **Synthetic Intelligence** | Original brand concept: a product identity emphasizing model-based intelligence. | Generated experiences, simulation, and configurable model services. |
+| **Service Intelligence** | Original brand concept: intelligence built around serving a customer or completing a useful task. | Hospitality, support, commerce, and specialist service agents. |
+| **SI measurement system** | An established scientific reading: the International System of Units. [NIST SI reference](https://www.nist.gov/pml/owm/metric-si/si-units). | Unit-aware calculations, measurement tools, instrument data, and STEM education; especially coherent with names such as `sums.si` and `daq.si`. |
+| **si as a musical note** | An established language reading: Spanish names the seventh note of the scale *si*. [RAE dictionary](https://dle.rae.es/si). | Music learning, composition, and audio tools; a second story for `audiox.si` or `soundx.si`. |
+| **Language and wordplay** | Spanish *si* can introduce a condition; Italian *sì* means “yes” and includes an accent. [RAE](https://dle.rae.es/si), [Treccani](https://www.treccani.it/vocabolario/si/). | Original brand concepts: “what if?” exploration and scenario tools, or an affirmative voice for a service brand. |
+
+The contexts above document the named fields and public products. Their possible applications to these domains are our own naming analysis.
+
+</details>
+
 ## Explore the collection
+
+**44 domains · 421 meanings and brand readings · 132 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
-| **[English words](#english-words)** | 8 | Memorable SI identities for contextual agents, generative creativity, numerical reasoning, and personal experiences. |
-| **[Brandable names](#brandable-names)** | 14 | Distinctive brands for multimodal intelligence, semantic search, commerce agents, and evidence tools. |
-| **[Three-letter names](#three-letter-names)** | 22 | Focused SI brands for enterprise workflows, data infrastructure, engineering, and scientific discovery. |
+| **[English words](#english-words)** | 8 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
+| **[Brandable names](#brandable-names)** | 14 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
+| **[Three-letter names](#three-letter-names)** | 22 | Documented acronyms plus original phrase expansions spanning agents, data, creativity, enterprise, and science. |
 
-**Browse prices in the tables, then expand any domain for its full profile.** Every profile begins with its **Super Intelligence positioning**, eight specific **SI product directions**, and **SI buyer fit**, followed by the name's meaning, highlights, broader applications, and value rationale.
+**Browse prices in the tables, then expand any domain for its full profile.** Start with its **strongest naming routes**, then open the full reading table to compare possible products and buyers. Each profile also develops one SI product route in depth, with eight concrete directions, then provides the name's original meaning, highlights, broader applications, and value rationale.
 
 All asking prices are in **USD**. Buy now, make an offer, or enquire about a **payment plan of up to six months** on Dynadot or Spaceship, subject to the options shown at checkout.
 
@@ -45,27 +87,53 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ## English words
 
-Eight memorable words that can give Super Intelligence products a clear human idea: guidance, creativity, attention, everyday assistance, and numerical reasoning.
+Eight recognizable words with multiple meanings, expressions, and metaphors for SI products. Compare the human ideas each name can carry.
 
-| Domain | Asking price (USD) | Super Intelligence direction | Buy / offer |
+| Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
-| **cues.si** | $75,990 | Contextual assistance and guidance agents | [View listing](https://www.dynadot.com/market/user-listings/cues.si) |
-| **dibs.si** | $39,990 | Preference matching and commerce agents | [View listing](https://www.dynadot.com/market/user-listings/dibs.si) |
-| **doze.si** | $21,990 | Personalized storytelling and calm experiences | [View listing](https://www.dynadot.com/market/user-listings/doze.si) |
-| **dues.si** | $21,990 | Membership administration and contribution workflows | [View listing](https://www.dynadot.com/market/user-listings/dues.si) |
-| **hues.si** | $59,990 | Generative visual creativity and design systems | [View listing](https://www.dynadot.com/market/user-listings/hues.si) |
-| **jiff.si** | $21,990 | Task automation and compact agent utilities | [View listing](https://www.dynadot.com/market/user-listings/jiff.si) |
-| **rapt.si** | $21,990 | Research synthesis and immersive narratives | [View listing](https://www.dynadot.com/market/user-listings/rapt.si) |
-| **sums.si** | $59,990 | Mathematical reasoning and numerical workflows | [View listing](https://www.dynadot.com/market/user-listings/sums.si) |
+| **cues.si** | $75,990 | Signals / performance / guided action | [View listing](https://www.dynadot.com/market/user-listings/cues.si) |
+| **dibs.si** | $39,990 | Claims / preference discovery / shared access | [View listing](https://www.dynadot.com/market/user-listings/dibs.si) |
+| **doze.si** | $21,990 | Rest / quiet computing / creative incubation | [View listing](https://www.dynadot.com/market/user-listings/doze.si) |
+| **dues.si** | $21,990 | Membership / earned recognition / obligations | [View listing](https://www.dynadot.com/market/user-listings/dues.si) |
+| **hues.si** | $59,990 | Color / viewpoints / expressive identities | [View listing](https://www.dynadot.com/market/user-listings/hues.si) |
+| **jiff.si** | $21,990 | Brief moments / compact tools / workflow units | [View listing](https://www.dynadot.com/market/user-listings/jiff.si) |
+| **rapt.si** | $21,990 | Attention / immersive stories / careful inquiry | [View listing](https://www.dynadot.com/market/user-listings/rapt.si) |
+| **sums.si** | $59,990 | Numbers / synthesis / collective reasoning | [View listing](https://www.dynadot.com/market/user-listings/sums.si) |
 
 ### Explore the individual domains
 
 <details>
-<summary><strong>cues.si</strong> — Contextual assistance and guidance agents · <strong>$75,990</strong></summary>
+<summary><strong>cues.si</strong> — Signals / performance / guided action · <strong>$75,990</strong></summary>
 
 ### cues.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Cues SI can tell several different stories: a helpful signal, a performer's entrance, a player's instrument, or a prompt that turns intention into action. These routes give the name both practical and expressive possibilities. A buyer could make it an intelligence layer for interpreting context, a creative-production identity, or a sports-learning brand. The choice of story matters: guidance feels supportive, stagecraft feels coordinated, and cue sports introduces precision and practice. The short plural can hold a family of related tools.
+
+**Strongest naming routes**
+
+- **Contextual guidance:** “The next step, in context.” A supportive SI identity for decisions and workflows.
+- **Creative coordination:** “Every entrance has its cue.” A brand for collaborative production and performance.
+- **Practice and precision:** “Read the table. Shape the shot.” A sports-learning direction with a literal cue connection.
+
+<details>
+<summary><strong>All 6 readings for cues.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — signal to act** | A cue can indicate that someone should do something. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/cue_1). | Context-aware assistance; operations and support teams. |
+| **Established — stage entrance** | In theatre, a cue can tell a performer when to begin. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/cue_1). | SI production coordination; theatre and live-event software. |
+| **Established — pool or snooker instrument** | Cue also names the stick used in these games. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/cue_1). | Sports instruction, equipment discovery, or practice analysis. |
+| **Original brand concept — attention markers** | Intelligence that points out what deserves a closer look. | Research interfaces; analysts and knowledge workers. |
+| **Original brand concept — creative starting points** | A collection of small invitations to make something new. | Writing, design, and learning platforms. |
+| **Original brand concept — shared timing** | Several people or agents finding a coordinated moment to act. | Collaborative workflow products and production teams. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Cues SI**, the name puts useful guidance at the center of a Super Intelligence brand. Cues are the signals that help someone decide what comes next; the SI interpretation could turn that idea into an assistant that works with a user's stated goals, relevant documents, and current task. The strongest positioning would make intelligence feel timely and practical: a relevant question, a clear suggestion, or a prepared next step. The word also leaves room for specialized agents serving learners, speakers, support teams, and performers, while a shared Cues SI identity connects them through the same principle of well-timed assistance.
 
@@ -130,11 +198,37 @@ The appeal rests on a compact word with several coherent meanings, allowing buye
 </details>
 
 <details>
-<summary><strong>dibs.si</strong> — Preference matching and commerce agents · <strong>$39,990</strong></summary>
+<summary><strong>dibs.si</strong> — Claims / preference discovery / shared access · <strong>$39,990</strong></summary>
 
 ### dibs.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Dibs SI can move beyond shopping into the larger question of who wants what, and how a choice becomes an organized claim. Its informal tone can make reservations, resource allocation, and community participation feel approachable. Different stories are possible: personal preference discovery, shared access, an agent acting on stated wishes, or demand gathered before something is offered. A focused product could emphasize one route while retaining the same concise identity for related tools. The brand's central action would remain easy to explain.
+
+**Strongest naming routes**
+
+- **Preference-led commerce:** “Find your first choice.” SI that helps shoppers articulate and compare preferences.
+- **Shared resources:** “A fair place to call dibs.” An approachable identity for organized access.
+- **Opportunity matching:** “Claim a place to contribute.” A brand for participation, projects, and community roles.
+
+<details>
+<summary><strong>All 6 readings for dibs.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — first claim or choice** | Dibs expresses priority in having or choosing something. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/dibs). | Reservations and limited-release commerce. |
+| **Original brand concept — preference lens** | Intelligence that helps a person discover which option they actually want. | Conversational discovery; retailers and experience platforms. |
+| **Original brand concept — shared access** | A friendly way to organize competing requests for common resources. | Clubs, workplaces, libraries, and equipment-sharing services. |
+| **Original brand concept — representative agent** | An assistant preparing a claim or request from the user's instructions. | Commerce agents and customer-service tools. |
+| **Original brand concept — demand first** | Gather expressions of interest before deciding what to supply. | Community buying, creators, and small-batch businesses. |
+| **Original brand concept — opportunity board** | Help people select a role, task, or open place they can contribute to. | Volunteer groups, project teams, and student communities. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Dibs SI**, the domain suggests intelligence that helps people find something worth choosing. The familiar idea of calling dibs gives a commerce or discovery product a friendly action-oriented identity: understand what someone wants, compare suitable possibilities, and help them express a choice. An SI brand could focus on interpreting preferences across budget, availability, style, or practical constraints, then presenting options with understandable reasons. The name could support consumer shopping, shared-resource services, or business sourcing, with the product's chosen category defining what users are claiming and how decisions lead to reviewed actions.
 
@@ -199,11 +293,37 @@ Dibs offers a name with a built-in action: see something appealing, then claim i
 </details>
 
 <details>
-<summary><strong>doze.si</strong> — Personalized storytelling and calm experiences · <strong>$21,990</strong></summary>
+<summary><strong>doze.si</strong> — Rest / quiet computing / creative incubation · <strong>$21,990</strong></summary>
 
 ### doze.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Doze SI can describe a calm experience for people or a quieter rhythm for software. Its sleep association suits storytelling and rest-oriented products, while a separate technical usage creates a route toward deferred work and resource-conscious computing. Further metaphors include ideas resting before development and an assistant that stays unobtrusive until needed. These are meaningfully different positioning choices: a warm consumer identity, an infrastructure name, or a creative workspace. A buyer can choose the interpretation that best fits the audience and product behavior.
+
+**Strongest naming routes**
+
+- **Calm content:** “Stories for a quieter moment.” SI-assisted narrative and listening experiences.
+- **Quiet computing:** “Work on the right schedule.” Deferred tasks and considered resource use.
+- **Creative incubation:** “Let the idea rest. Keep the thread.” A home for unfinished creative work.
+
+<details>
+<summary><strong>All 6 readings for doze.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — light, brief sleep** | Doze describes a short period of light sleep. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/doze_1). | Rest-oriented content and personal routine products. |
+| **Established technical usage — deferred activity** | Android uses Doze for a power-saving state that defers background activity. [Android Developers](https://developer.android.com/training/monitoring-device-state/doze-standby). | An independently branded concept for scheduling or resource-management tools. |
+| **Original brand concept — quiet companion** | Assistance designed to be unobtrusive and available when requested. | Personal SI interfaces and ambient computing. |
+| **Original brand concept — creative incubation** | Give unfinished ideas a place to rest, accumulate notes, and return later. | Writers, designers, researchers, and ideation software. |
+| **Original brand concept — gentle media** | A creative identity for calm narration and unhurried stories. | Audio publishers, family-content studios, and hospitality media. |
+| **Original brand concept — pause and return** | A clear ritual for suspending a workflow and resuming it with context. | Productivity tools and persistent agent workspaces. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Doze SI**, the name creates a softer identity for intelligence designed around quiet moments. Its connection with light sleep makes bedtime storytelling, gentle narration, and evening routines especially coherent product territories. A prospective SI experience could work with a listener's chosen themes, preferred length, and voice style to prepare original content or organize a personal wind-down plan. The brand could feel warm and creative while leaving room for different audiences: adults seeking calm audio, families sharing stories, travelers organizing familiar routines, or publishers building a library of restful listening experiences around one concise name.
 
@@ -268,11 +388,37 @@ The name's main strength is its clear thematic focus. A buyer could use that foc
 </details>
 
 <details>
-<summary><strong>dues.si</strong> — Membership administration and contribution workflows · <strong>$21,990</strong></summary>
+<summary><strong>dues.si</strong> — Membership / earned recognition / obligations · <strong>$21,990</strong></summary>
 
 ### dues.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Dues SI can speak to belonging, responsibility, and earned recognition rather than fees alone. Membership administration is the clearest literal route, but the related language also opens stories about contribution, experience, and what someone deserves to receive. A prospective brand might serve organizations coordinating participation, professionals documenting their development, or teams clarifying commitments. These angles should remain distinct in the product's message: paying a fee, gaining experience, and receiving recognition are different activities even when they share a useful linguistic neighborhood.
+
+**Strongest naming routes**
+
+- **Membership intelligence:** “Keep the community moving.” A focused organizational SI identity.
+- **Earned recognition:** “Make the contribution visible.” A brand for documented work and development.
+- **Commitment coordination:** “Know what you owe the team.” Clear responsibilities and reviewed follow-through.
+
+<details>
+<summary><strong>All 6 readings for dues.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — membership charges** | Dues can be fees associated with joining or belonging to a group. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/due_2). | Associations, clubs, and membership software. |
+| **Established related form — one's due** | The singular noun can describe something a person deserves by right. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/due_2). | Recognition and contribution-recording products. |
+| **Established expression — paying one's dues** | The expression can concern work and experience that earn respect. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/due_2). | Professional development, portfolios, and mentoring. |
+| **Original brand concept — commitment map** | Make a person's or team's agreed responsibilities visible and understandable. | SI coordination tools and collaborative workspaces. |
+| **Original brand concept — reciprocity record** | Show how different contributions support a shared activity. | Community organizations and participatory project teams. |
+| **Original brand concept — belonging infrastructure** | The practical foundation that keeps a member community functioning. | Creator platforms, cultural organizations, and community-service builders. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Dues SI**, the name points toward intelligence for organizations supported by recurring member contributions. Its literal meaning gives the brand a specific problem to address: keeping membership records, obligations, and communications understandable. A prospective SI product could combine conversational explanations with prepared administrative actions, helping an operator move from a question about a renewal to a reviewed message or organized record. The result is a focused business identity with several audiences, including clubs, associations, creator communities, and local organizations. The strongest product story would connect efficient administration with the shared activities that members are paying to sustain.
 
@@ -337,11 +483,37 @@ For a buyer operating in memberships, the word can describe the problem being so
 </details>
 
 <details>
-<summary><strong>hues.si</strong> — Generative visual creativity and design systems · <strong>$59,990</strong></summary>
+<summary><strong>hues.si</strong> — Color / viewpoints / expressive identities · <strong>$59,990</strong></summary>
 
 ### hues.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Hues SI can extend from color into the wider idea of different ways to see and express something. A visual tool might foreground palettes and style; a research product could foreground perspectives; a creative identity could use hues as a metaphor for mood or personal expression. The plural helps these routes feel like a collection of possibilities. Buyers can choose a vivid design story, a thoughtful analytical story, or a culturally expressive master brand without making all three part of the same first product.
+
+**Strongest naming routes**
+
+- **Visual intelligence:** “Give the idea its colors.” A creative SI workspace for visual direction.
+- **Perspective intelligence:** “See the question in more hues.” Research organized around differing viewpoints.
+- **Expressive identity:** “A palette that feels like you.” A brand for personal and organizational style.
+
+<details>
+<summary><strong>All 6 readings for hues.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — colors and shades** | Hue names a color or particular shade. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/hue). | Generative design, materials, and visual tools. |
+| **Established — varieties of belief or opinion** | A formal sense of hue refers to a kind of belief or opinion. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/hue). | Perspective comparison and research synthesis. |
+| **Original brand concept — emotional palette** | Use color as an organizing metaphor for mood and creative tone. | Storytelling, music discovery, and expressive interfaces. |
+| **Original brand concept — identity signatures** | Give a person or organization a recognizable visual vocabulary. | Branding studios, creator tools, and design-system products. |
+| **Original brand concept — scenario spectrum** | Present several possible directions rather than one assumed future. | Planning workspaces and scenario-exploration tools. |
+| **Original brand concept — cultural mosaic** | Different creative traditions forming a collection with many voices. | Arts platforms, cultural publishers, and multilingual creative services. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Hues SI**, the domain gives a Super Intelligence brand a clear creative territory: color, visual exploration, and the decisions that shape an image. The plural suggests a range of possibilities, making the name suitable for a creative workspace where users describe a direction, inspect alternatives, and refine their selections. A prospective product could connect image generation with palette organization, reference material, and reusable brand specifications. Hues SI could begin with one focused design task and later introduce related tools, while the compact word keeps the identity connected to visual craft across software, studios, retail imagery, and creative education.
 
@@ -406,11 +578,37 @@ Hues gives a buyer a concise name with a coherent creative territory and several
 </details>
 
 <details>
-<summary><strong>jiff.si</strong> — Task automation and compact agent utilities · <strong>$21,990</strong></summary>
+<summary><strong>jiff.si</strong> — Brief moments / compact tools / workflow units · <strong>$21,990</strong></summary>
 
 ### jiff.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Jiff SI can be more than a speed-themed utility brand. Its brief-moment association supports small units of work, captured observations, concise communication, and an assistant's promise to return with a prepared result. A buyer might develop a compact toolbox, a micro-learning identity, or a workflow vocabulary in which a “jiff” is a deliberately defined task unit. Those created readings give the word room to grow beyond one function. The informal tone works best when the interface is approachable and the chosen purpose is explained clearly.
+
+**Strongest naming routes**
+
+- **Compact utilities:** “Small tools. Clear results.” A practical family of SI-assisted functions.
+- **Workflow vocabulary:** “One jiff at a time.” A name for deliberately bounded agent tasks.
+- **Moment capture:** “Catch the thought while it's here.” A concise personal knowledge identity.
+
+<details>
+<summary><strong>All 6 readings for jiff.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — a brief moment** | Jiff is an informal variant of jiffy, meaning a short interval. [Collins](https://www.collinsdictionary.com/us/dictionary/english/jiffy). | Concise utility and communication products. |
+| **Original brand concept — unit of work** | A buyer-defined “jiff” could be one small, reviewable task. | Agent workflow builders and task orchestration. |
+| **Original brand concept — captured moment** | Preserve an observation before it slips away. | Notes, field research, and personal knowledge tools. |
+| **Original brand concept — pocket workshop** | A compact collection of tools for everyday adjustments and preparation. | Utility-app suites and small-business software. |
+| **Original brand concept — short learning turn** | One focused exchange that introduces or practices an idea. | Education products and professional micro-learning. |
+| **Original brand concept — return-ready assistant** | An agent takes a request, then brings back a result to inspect. | Asynchronous SI companions and delegated-work interfaces. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Jiff SI**, the domain suggests intelligence built around everyday tasks that people want to move through with less friction. Jiff's informal association with a brief moment gives the name a lively utility-product tone. A prospective SI brand could turn a request into a small, inspectable workflow: interpret the input, prepare the required material, and present an action for confirmation. The most coherent starting point would be a narrowly defined task with a visible result. Related utilities could then share the Jiff SI identity, creating a recognizable collection for individuals, developers, or small teams handling repetitive work.
 
@@ -475,11 +673,37 @@ The name's appeal lies in brevity and the possibility of positioning a product a
 </details>
 
 <details>
-<summary><strong>rapt.si</strong> — Research synthesis and immersive narratives · <strong>$21,990</strong></summary>
+<summary><strong>rapt.si</strong> — Attention / immersive stories / careful inquiry · <strong>$21,990</strong></summary>
 
 ### rapt.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Rapt SI can frame intelligence around the quality of attention. A buyer could emphasize close inquiry, captivating storytelling, deliberate focus, or a carefully chosen collection. Each interpretation gives the same short word a different commercial personality: analytical, artistic, practical, or editorial. The SI reading can connect the name with tools that help people stay with a subject, develop a narrative, or examine material more closely. Strong positioning would select one primary experience while preserving room for related offerings.
+
+**Strongest naming routes**
+
+- **Deep inquiry:** “Stay with the question.” A focused SI research identity.
+- **Immersive creativity:** “A world worth your attention.” Narrative and cultural experiences.
+- **Deliberate work:** “Give the task your best attention.” Tools organized around concentration and context.
+
+<details>
+<summary><strong>All 6 readings for rapt.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — absorbed attention** | Rapt describes being deeply interested and absorbed in something. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/rapt). | Focused learning, reading, and research experiences. |
+| **Original brand concept — world worth entering** | An invitation to become immersed in a creative setting. | Interactive fiction, games, and cultural experiences. |
+| **Original brand concept — attention stewardship** | Treat a user's available concentration as something to allocate thoughtfully. | Focus tools and deliberate-work software. |
+| **Original brand concept — careful witness** | Stay close to source material before producing an interpretation. | Interview research, documentary production, and analytical workspaces. |
+| **Original brand concept — absorbing selection** | An editorial identity for material chosen to reward close engagement. | Publishers, discovery services, and specialist media. |
+| **Original brand concept — whole-case workspace** | Keep the relevant pieces of a complex inquiry in one coherent place. | Research teams and knowledge-intensive organizations. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Rapt SI**, the domain gives intelligence a theme of sustained attention and absorbing experiences. Its dictionary meaning makes it suitable for a research workspace that helps someone stay with a complex subject, or a creative product that invites close engagement with a story. A prospective SI system could organize supplied material, connect passages, and develop questions for deeper exploration. A narrative application could use the same identity for interactive fiction or guided cultural experiences. The shared brand idea is depth: giving a topic, text, or creative world a focused place where users can explore its details.
 
@@ -544,11 +768,37 @@ Rapt allows a buyer to frame a brand around absorbing experiences or deliberate 
 </details>
 
 <details>
-<summary><strong>sums.si</strong> — Mathematical reasoning and numerical workflows · <strong>$59,990</strong></summary>
+<summary><strong>sums.si</strong> — Numbers / synthesis / collective reasoning · <strong>$59,990</strong></summary>
 
 ### sums.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Sums SI can move between calculation, explanation, and the act of bringing pieces together. Numbers remain its most direct story, but related expressions open routes toward concise summaries and collective work. A buyer could choose an educational identity, a numerical business tool, a synthesis product, or a workspace combining several contributions. These directions share an organizing idea: parts becoming an understandable whole. The name can therefore support both quantitative and knowledge-oriented products, provided the initial category is clear in its tagline and presentation.
+
+**Strongest naming routes**
+
+- **Numerical reasoning:** “Make the numbers understandable.” A focused mathematical SI identity.
+- **Knowledge synthesis:** “Bring the main points together.” A compact brand for useful summaries.
+- **Collective intelligence:** “Build the whole from the parts.” Collaborative and multi-agent workspaces.
+
+<details>
+<summary><strong>All 6 readings for sums.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — arithmetic totals** | A sum can be the result of adding numbers. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/sum_1). | Mathematics learning and numerical reasoning tools. |
+| **Established — monetary amounts** | Sum also names an amount of money. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/sum_1). | Business calculation and organized budgeting workflows. |
+| **Established expression — sum up** | The phrase concerns presenting the main points concisely. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/sum-up). | Research synthesis, briefings, and meeting summaries. |
+| **Original brand concept — more than the parts** | Different contributions forming a more useful combined result. | Multi-agent orchestration and collaborative knowledge products. |
+| **Original brand concept — does it add up?** | An identity built around inspecting consistency and assumptions. | Data review, estimation, and operational analysis. |
+| **Original brand concept — parts-to-whole design** | Break a complex task into pieces, then assemble a coherent output. | Planning software and structured agent workflows. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Read as **Sums SI**, the domain offers a clear identity for intelligence that works with numbers, calculations, and structured quantitative questions. The word connects naturally with arithmetic, totals, and monetary amounts, so a product could establish its subject before a visitor reads a detailed explanation. A prospective SI system could interpret a user's problem, prepare a calculation, and present the steps and assumptions for inspection. Pairing conversational explanations with computational tools would provide a coherent product direction. Sums SI could serve learners, analysts, or business operators, with a focused launch determining which numerical problems it helps users work through.
 
@@ -614,33 +864,59 @@ The word communicates a recognizable area of activity while allowing the buyer t
 
 ## Brandable names
 
-Fourteen distinctive identities for voice agents, multimodal intelligence, semantic discovery, intelligent commerce, and practical agent workspaces.
+Fourteen expressive names that can be read through their components, visual wordplay, language associations, and original product stories.
 
-| Domain | Asking price (USD) | Super Intelligence direction | Buy / offer |
+| Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
-| **adpair.si** | $31,990 | Advertising agents | [View listing](https://www.dynadot.com/market/user-listings/adpair.si) |
-| **audiox.si** | $47,990 | Voice and audio intelligence | [View listing](https://www.dynadot.com/market/user-listings/audiox.si) |
-| **easysearch.si** | $31,990 | Semantic discovery | [View listing](https://www.dynadot.com/market/user-listings/easysearch.si) |
-| **eluxe.si** | $31,990 | Luxury concierge intelligence | [View listing](https://www.dynadot.com/market/user-listings/eluxe.si) |
-| **giftguide.si** | $31,990 | Gifting concierge | [View listing](https://www.dynadot.com/market/user-listings/giftguide.si) |
-| **guidex.si** | $31,990 | Guided workflow agents | [View listing](https://www.dynadot.com/market/user-listings/guidex.si) |
-| **homeguide.si** | $31,990 | Intelligent home guidance | [View listing](https://www.dynadot.com/market/user-listings/homeguide.si) |
-| **iber.si** | $25,990 | Multilingual business intelligence | [View listing](https://www.dynadot.com/market/user-listings/iber.si) |
-| **joia.si** | $47,990 | Jewelry and joy concierge | [View listing](https://www.dynadot.com/market/user-listings/joia.si) |
-| **oazis.si** | $31,990 | Personal agent workspace | [View listing](https://www.dynadot.com/market/user-listings/oazis.si) |
-| **soundx.si** | $47,990 | Sonic interface intelligence | [View listing](https://www.dynadot.com/market/user-listings/soundx.si) |
-| **timebank.si** | $31,990 | Time coordination agents | [View listing](https://www.dynadot.com/market/user-listings/timebank.si) |
-| **timecard.si** | $31,990 | Workforce intelligence | [View listing](https://www.dynadot.com/market/user-listings/timecard.si) |
-| **truthcheck.si** | $31,990 | Verification for intelligent agents | [View listing](https://www.dynadot.com/market/user-listings/truthcheck.si) |
+| **adpair.si** | $31,990 | Advertising / paired intelligence / complementary systems | [View listing](https://www.dynadot.com/market/user-listings/adpair.si) |
+| **audiox.si** | $47,990 | Recorded audio / creative exchange / cross-modal work | [View listing](https://www.dynadot.com/market/user-listings/audiox.si) |
+| **easysearch.si** | $31,990 | Finding / calm discovery / search-to-action | [View listing](https://www.dynadot.com/market/user-listings/easysearch.si) |
+| **eluxe.si** | $31,990 | Refined experiences / abundant detail / digital elegance | [View listing](https://www.dynadot.com/market/user-listings/eluxe.si) |
+| **giftguide.si** | $31,990 | Presents / natural talents / generous attention | [View listing](https://www.dynadot.com/market/user-listings/giftguide.si) |
+| **guidex.si** | $31,990 | Navigation / knowledge guides / guided execution | [View listing](https://www.dynadot.com/market/user-listings/guidex.si) |
+| **homeguide.si** | $31,990 | Homes / belonging / personal knowledge bases | [View listing](https://www.dynadot.com/market/user-listings/homeguide.si) |
+| **iber.si** | $25,990 | Regional bridges / compact master brand / discovery | [View listing](https://www.dynadot.com/market/user-listings/iber.si) |
+| **joia.si** | $47,990 | Jewels / joy / valued people and communities | [View listing](https://www.dynadot.com/market/user-listings/joia.si) |
+| **oazis.si** | $31,990 | Refuge / fertile ideas / knowledge meeting points | [View listing](https://www.dynadot.com/market/user-listings/oazis.si) |
+| **soundx.si** | $47,990 | Voice / sonic experiences / sound reasoning | [View listing](https://www.dynadot.com/market/user-listings/soundx.si) |
+| **timebank.si** | $31,990 | Time exchange / attention reserves / agent budgets | [View listing](https://www.dynadot.com/market/user-listings/timebank.si) |
+| **timecard.si** | $31,990 | Work records / planning cards / time-linked memories | [View listing](https://www.dynadot.com/market/user-listings/timecard.si) |
+| **truthcheck.si** | $31,990 | Evidence / assumptions / reviewable claims | [View listing](https://www.dynadot.com/market/user-listings/truthcheck.si) |
 
 ### Explore the individual domains
 
 <details>
-<summary><strong>adpair.si</strong> — Advertising agents · <strong>$31,990</strong></summary>
+<summary><strong>adpair.si</strong> — Advertising / paired intelligence / complementary systems · <strong>$31,990</strong></summary>
 
 ### adpair.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+AdPair SI can begin with advertising matches and expand into the wider idea of complementary partners. A creative team could interpret the pair as message and audience, concept and evidence, or human judgment and an assistant. Another buyer could give the same construction an analog-and-digital visual reading for tools connecting physical processes with software. Each is an original narrative built around a useful relationship. The clearest launch would explain which two sides the product helps bring together.
+
+**Strongest naming routes**
+
+- **Advertising relationships:** “Match the message to the moment.” A focused commercial SI identity.
+- **Complementary intelligence:** “A useful partner for the work.” Human-and-agent collaboration.
+- **Paired exploration:** “Two directions. A clearer choice.” Creative decision and comparison tools.
+
+<details>
+<summary><strong>All 6 readings for adpair.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established components — ad + pair** | Ad names an advertisement; pair can describe two associated things or people. [Ad](https://www.oxfordlearnersdictionaries.com/us/definition/english/ad_1), [pair](https://www.oxfordlearnersdictionaries.com/definition/english/pair_1). | Advertising and media-matching products. |
+| **Original brand concept — message and audience** | An appropriate creative message meeting an intended audience. | Campaign planning and media intelligence. |
+| **Original brand concept — idea and evidence** | Keep a proposed creative direction alongside the material supporting it. | Creative research, testing workspaces, and agencies. |
+| **Original brand concept — human and agent** | A complementary working pair with distinct responsibilities. | Collaborative SI assistants and professional tools. |
+| **Original brand concept — paired alternatives** | Two contrasting drafts or approaches presented for a reasoned choice. | Design exploration, copy review, and experimentation software. |
+| **Original brand concept — analog and digital pair** | A buyer-created A/D-style reading connecting physical work with digital assistance. | Industrial interfaces and hybrid creative studios. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 AdPair SI could position advertising as an intelligent matching problem: pairing a message with the right context, a creator with a suitable brief, and a campaign goal with a practical media plan. The domain's **ad + pair + SI** structure gives the buyer a concise story for a network of specialist agents rather than a single reporting screen. A proposed product could coordinate brief interpretation, creative generation, placement research, and campaign review. Google's function-calling documentation describes connecting models to external data and actions, a useful foundation for that workflow. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -700,11 +976,37 @@ Its naming appeal comes from the combination of category clarity and functional 
 </details>
 
 <details>
-<summary><strong>audiox.si</strong> — Voice and audio intelligence · <strong>$47,990</strong></summary>
+<summary><strong>audiox.si</strong> — Recorded audio / creative exchange / cross-modal work · <strong>$47,990</strong></summary>
 
 ### audiox.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+AudioX SI can use X as an open creative device: an exchange, an unknown to investigate, a crossing of media, or a multiplication sign between audio and intelligence. Each reading gives the same recognizable medium a different business direction. One buyer might build a tool studio, another a marketplace, and another a research interface for listening to recordings. The sound-related core keeps these stories connected. The buyer can define the selected X interpretation as a memorable product narrative around the created AudioX label.
+
+**Strongest naming routes**
+
+- **Audio intelligence:** “Listen. Understand. Create.” A broad SI identity with a clear medium.
+- **Creative exchange:** “Where sound meets its collaborators.” A catalogue or collaboration direction.
+- **Cross-modal production:** “Give the scene a voice.” Tools connecting audio with other creative materials.
+
+<details>
+<summary><strong>All 6 readings for audiox.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established component — audio** | Audio relates to sound that is recorded or broadcast. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/audio_1). | Recorded-media tools and audio publishers. |
+| **Original brand concept — Audio × SI** | A visual multiplication metaphor for bringing intelligence into an audio workflow. | Generative audio and conversational production products. |
+| **Original brand concept — audio exchange** | A meeting place for sound assets, requests, and creative collaborators. | Licensed catalogues, studios, and audio marketplaces. |
+| **Original brand concept — the unknown in audio** | Investigate a recording's structure, content, or unanswered questions. | Research interfaces and media-analysis teams. |
+| **Original brand concept — crossing media** | Audio meets text, imagery, spatial scenes, or interactive storytelling. | Multimodal creative tools and game studios. |
+| **Original brand concept — experimental studio** | A concise master brand for trying new sound-production approaches. | Independent laboratories, creative agencies, and developer-tool teams. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 AudioX SI could be the identity for an intelligence platform that listens, speaks, composes, and collaborates through audio. **Audio** makes the medium explicit, while **X + SI** can frame an expandable product family spanning voice agents, production assistants, and generative music tools. Its strongest story is an audio-native workspace where spoken requests become useful creative or operational outcomes. Google's Live API documents real-time voice and vision interactions with tool integration, illustrating the architecture available for interactive voice products. The domain could brand a focused implementation of that idea with its own models, integrations, and editorial standards. [Technical context: Google Live API](https://ai.google.dev/gemini-api/docs/live-api)
 
@@ -765,11 +1067,37 @@ The name's appeal is its balance of an explicit category and an adaptable brand 
 </details>
 
 <details>
-<summary><strong>easysearch.si</strong> — Semantic discovery · <strong>$31,990</strong></summary>
+<summary><strong>easysearch.si</strong> — Finding / calm discovery / search-to-action · <strong>$31,990</strong></summary>
 
 ### easysearch.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+EasySearch SI can make several different kinds of searching approachable: finding a document, choosing an experience, investigating a question, or locating a practical next step. The name's useful promise centers on the user's experience. A buyer can emphasize ease of expression, ease of comparison, or a calmer way to explore uncertain choices. These routes widen the audience from enterprise retrieval to commerce, education, and personal discovery. A clear subject in the tagline would establish what the first product helps people find.
+
+**Strongest naming routes**
+
+- **Conversational retrieval:** “Ask naturally. Find the relevant material.” A practical knowledge SI identity.
+- **Personal discovery:** “Find what fits your day.” An approachable experience or commerce brand.
+- **Search-to-action:** “From a question to a prepared next step.” Agent-enabled workflow positioning.
+
+<details>
+<summary><strong>All 6 readings for easysearch.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established components — easy + search** | Easy can mean requiring little difficulty; search concerns trying to find something. [Easy](https://www.oxfordlearnersdictionaries.com/us/definition/english/easy_1), [search](https://www.oxfordlearnersdictionaries.com/definition/english/search_1). | Search interfaces and focused retrieval products. |
+| **Original brand concept — speak the question** | Start from ordinary language instead of requiring a specialist query format. | Conversational knowledge access and learning tools. |
+| **Original brand concept — discovery at ease** | A relaxed brand experience for exploring rather than rushing to a result. | Travel, culture, and experience discovery. |
+| **Original brand concept — find the right fit** | Compare options against a person's stated requirements and preferences. | Commerce, service matching, and professional directories. |
+| **Original brand concept — search to action** | A result becomes the beginning of an inspectable next step. | Workflow agents and organizational assistants. |
+| **Original brand concept — inquiry made approachable** | Help a learner form a question and examine possible answers. | Education, research literacy, and explanatory media. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 EasySearch SI could turn a clear consumer promise into an intelligence-oriented discovery brand: explain what you need, refine the intent, and explore grounded results. The readable **easy search** phrase supplies the benefit, while **SI** identifies a product story built around semantic understanding and research agents. A proposed application could combine question clarification, retrieval, comparison, and cited synthesis rather than presenting another results list. Microsoft documents hybrid retrieval that combines keyword and vector search, giving a practical basis for balancing exact identifiers with conceptual similarity. The buyer could build a specialist discovery product around that foundation. [Technical context: Microsoft](https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview)
 
@@ -830,11 +1158,37 @@ The attraction is a readable benefit-led name with room for many searchable coll
 </details>
 
 <details>
-<summary><strong>eluxe.si</strong> — Luxury concierge intelligence · <strong>$31,990</strong></summary>
+<summary><strong>eluxe.si</strong> — Refined experiences / abundant detail / digital elegance · <strong>$31,990</strong></summary>
 
 ### eluxe.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+ELuxe SI can hold a refined consumer identity, a detail-conscious engineering identity, or a thoughtful editorial voice. Its visible luxe component offers richer material than expensive goods alone: comfort, exceptional pleasures, and abundance of detail are useful naming routes. The initial E can be a buyer's chosen signature or an original digital interpretation. A product might emphasize selection, careful preparation, or the feeling of being well served. The full ELuxe label remains a created brand construction whose particular story the buyer can define.
+
+**Strongest naming routes**
+
+- **Digital concierge:** “A considered experience, personally prepared.” A refined service identity.
+- **Detail-conscious intelligence:** “Make room for the details.” Research and design preparation tools.
+- **Editorial curation:** “Choose the details that matter.” Lifestyle, objects, and experience discovery.
+
+<details>
+<summary><strong>All 6 readings for eluxe.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established related word — refinement and comfort** | French luxe includes refinement associated with lavishness and comfort. [Académie française](https://www.dictionnaire-academie.fr/article/A9L1404). | Design-led hospitality and personal-service concepts. |
+| **Established related sense — abundance of detail** | French expressions with luxe can describe profusion or abundance. [Académie française](https://www.dictionnaire-academie.fr/article/A9L1404). | Detail-focused research, design, and technical preparation. |
+| **Established related sense — exceptional pleasure** | Luxe can also describe an occasional costly pleasure. [Académie française](https://www.dictionnaire-academie.fr/article/A9L1404). | Experience curation and thoughtful-gifting businesses. |
+| **Original brand concept — electronic elegance** | E + luxe as a buyer-created identity for considered digital service. | SI concierge products and premium interface studios. |
+| **Original brand concept — elegant precision** | Refinement expressed through careful specifications and restrained design. | Engineering studios, product-development tools, and design software. |
+| **Original brand concept — everyday rituals** | Small selected details that make ordinary routines feel considered. | Lifestyle publishers, curated retail, and personal planning. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 ELuxe SI could express a luxury experience supported by intelligent assistance: a concierge that understands preferences, investigates options, and assembles considered proposals. The compact **ELuxe + SI** identity allows the buyer to present technology through taste and service rather than through an engineering-heavy name. A proposed platform could combine conversational briefs, visual references, product knowledge, and booking tools to support a personal shopper or hospitality team. Shopify's Sidekick demonstrates an existing commerce-assistant pattern that uses store context, everyday language, and reviewable actions. That is relevant implementation context, while the ELuxe proposition would be the buyer's own creation. [Commerce context: Shopify](https://help.shopify.com/en/manual/ai-powered-tools/sidekick)
 
@@ -895,11 +1249,37 @@ The naming case rests on a concise label and a documented luxury-related root. I
 </details>
 
 <details>
-<summary><strong>giftguide.si</strong> — Gifting concierge · <strong>$31,990</strong></summary>
+<summary><strong>giftguide.si</strong> — Presents / natural talents / generous attention · <strong>$31,990</strong></summary>
 
 ### giftguide.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+GiftGuide SI can help someone choose a present or help them explore a personal gift in the sense of talent. It can also turn generosity into a broader metaphor: giving time, sharing knowledge, or paying thoughtful attention to another person. Those stories point toward different buyers, from retailers to educators and community organizations. The guide component provides a helpful role across them. A carefully selected route could build a clear first product while preserving a warmer master-brand narrative about recognizing what another person values.
+
+**Strongest naming routes**
+
+- **Thoughtful presents:** “Start with the person.” SI-assisted gift discovery with an explained rationale.
+- **Talent exploration:** “Find the gift. Guide its growth.” A mentoring and creative-learning identity.
+- **Practical generosity:** “Give something that helps.” Experiences, time, and community contribution.
+
+<details>
+<summary><strong>All 6 readings for giftguide.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established component — gift as present** | Gift can name something given to another person. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/gift_1). | Present discovery and occasion-planning products. |
+| **Established component — gift as talent** | Gift can also describe a natural ability. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/gift_1). | Learning exploration, mentoring, and creative development. |
+| **Original brand concept — gift of time** | Generosity expressed through an experience or practical help. | Service gifting and community participation platforms. |
+| **Original brand concept — gift of knowledge** | Useful material selected and shared for someone else's benefit. | Education, explainers, and guided learning. |
+| **Original brand concept — attention to the recipient** | The act of noticing interests and circumstances before making a choice. | Relationship-aware planning and thoughtful commerce. |
+| **Original brand concept — generosity navigator** | Help a group decide how it wants to contribute and participate. | Community organizations and giving-project coordination. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 GiftGuide SI could become a gifting concierge that asks useful questions, interprets a recipient's interests, and explains why a present fits. **GiftGuide** makes the task explicit; **SI** adds a coherent intelligent-assistance story spanning recommendation, personalization, and delivery planning. A proposed product could work across physical goods, experiences, and digital gifts, maintaining a reasoned shortlist as preferences change. Google's Live API explicitly lists shopping assistants with personalized recommendations as a voice-agent use case. That supports a conversational implementation direction without suggesting the domain already operates such a service. The strongest brand promise is considered help with a personal decision. [Technical context: Google](https://ai.google.dev/gemini-api/docs/live-api)
 
@@ -960,11 +1340,37 @@ Its appeal comes from an explicit category and a useful customer task. The name 
 </details>
 
 <details>
-<summary><strong>guidex.si</strong> — Guided workflow agents · <strong>$31,990</strong></summary>
+<summary><strong>guidex.si</strong> — Navigation / knowledge guides / guided execution · <strong>$31,990</strong></summary>
 
 ### guidex.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+GuideX SI can be a navigator, an explanatory reference, or a decision aid, with X giving the buyer an open marker for destination and exploration. A route-finding brand, a knowledge product, and a task-execution assistant would therefore tell different stories under the same compact construction. The name could also suggest an exchange of guidance among people or specialist agents. Its most useful breadth comes from the varied roles of a guide; the chosen product can establish which kind of help it provides and where that help leads.
+
+**Strongest naming routes**
+
+- **Goal navigation:** “A guide to your next destination.” Exploration and personal planning.
+- **Knowledge guidance:** “Understand the path before you take it.” A clear explanatory SI identity.
+- **Guided execution:** “From instructions to a prepared next step.” Workflow and onboarding software.
+
+<details>
+<summary><strong>All 6 readings for guidex.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established component — navigator** | A guide can be a person showing others the way. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/guide_1). | Travel, exploration, and orientation products. |
+| **Established component — explanatory reference** | A guide can be a book, app, or resource providing help and instructions. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/guide_1). | Knowledge publishing and learning interfaces. |
+| **Established component — decision aid** | A guide can also be information that helps someone form a judgment. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/guide_1). | Comparison tools and analytical workspaces. |
+| **Original brand concept — X marks a destination** | Guidance organized around a user-selected goal or place. | Personal planning and experience discovery. |
+| **Original brand concept — Guide × SI** | Explanations connected with prepared, reviewable actions. | Guided workflow and onboarding agents. |
+| **Original brand concept — guidance exchange** | A shared place where specialist perspectives can be brought together. | Expert networks, mentoring communities, and agent platforms. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 GuideX SI could brand an agent that understands where a user is in a process and helps them take the next useful step. The **guide** root supplies the service promise; **X** offers a compact signature for exploration or a destination, and **SI** frames an intelligence-led product. A proposed system could combine conversational guidance, screen or image context, and connected tools to support onboarding, troubleshooting, or learning. Google documents function calling as a way to connect models with knowledge sources and external actions. GuideX could turn that mechanism into a recognizable guidance experience with a clearly chosen audience. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -1025,11 +1431,37 @@ The name offers a recognizable assistance-related root with room for a distinct 
 </details>
 
 <details>
-<summary><strong>homeguide.si</strong> — Intelligent home guidance · <strong>$31,990</strong></summary>
+<summary><strong>homeguide.si</strong> — Homes / belonging / personal knowledge bases · <strong>$31,990</strong></summary>
 
 ### homeguide.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+HomeGuide SI can address a building, the experience of settling in, or a central place where personal information belongs. It can also draw on home's connections with habitat and origin, widening the story toward nature and cultural discovery. Buyers might choose practical household coordination, a welcoming relocation identity, or a personal knowledge base that feels like a digital home. These are separate routes with different audiences. The guide component keeps the role helpful, whether the user is arranging a room, understanding a place, or organizing everyday life.
+
+**Strongest naming routes**
+
+- **Household intelligence:** “A clearer guide to life at home.” Practical planning and information.
+- **Belonging:** “Find your bearings. Feel at home.” Relocation and local discovery.
+- **Digital home base:** “Give your everyday knowledge a home.” Personal organization with an SI lens.
+
+<details>
+<summary><strong>All 6 readings for homeguide.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established component — place of residence** | Home names the place where someone lives. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/home_1). | Household planning and housing-information tools. |
+| **Established component — habitat** | Home can describe where a plant or animal lives. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/home_1). | Nature education, gardening, and habitat discovery. |
+| **Established component — place of origin** | The home of something can mean where it originated. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/home_1). | Cultural guides and regional knowledge products. |
+| **Original brand concept — belonging and arrival** | Help someone become familiar with a new place and its routines. | Relocation, hospitality, and neighborhood orientation. |
+| **Original brand concept — digital home base** | A central place for personal records, plans, and relevant knowledge. | Personal SI workspaces and document organizers. |
+| **Original brand concept — household coordination layer** | Connect the information behind a household's recurring decisions. | Family planning and home-service workflow products. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 HomeGuide SI could position intelligence around the entire household decision process: understanding the home, comparing options, and coordinating the next task. The clear **home + guide + SI** identity suits a multimodal assistant that works with photographs, manuals, measurements, and the owner's priorities. A proposed product could help organize renovations, maintenance, furnishing, and household administration within one coherent workspace. Google's image-understanding documentation demonstrates combining image inputs with written questions and generating structured observations. That offers relevant technical context for visual home assistance, while any practical recommendations would depend on the buyer's product, information quality, and specialist review. [Technical context: Google Cloud](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/capabilities/image-understanding)
 
@@ -1090,11 +1522,37 @@ Its naming appeal lies in connecting a durable subject with an intelligible func
 </details>
 
 <details>
-<summary><strong>iber.si</strong> — Multilingual business intelligence · <strong>$25,990</strong></summary>
+<summary><strong>iber.si</strong> — Regional bridges / compact master brand / discovery · <strong>$25,990</strong></summary>
 
 ### iber.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Iber can serve as a compact master-brand label with a regional cue or a buyer-created standalone identity. An Iberia-inspired reading could support cultural discovery, language services, or commerce across related markets. Other metaphors could emphasize a bridge between systems, a workshop for practical invention, or a foundation for a family of products. Those broader stories come from deliberate branding choices. Iber SI gives the buyer room to define a concise identity through a tagline, visual system, and a clearly chosen first offering.
+
+**Strongest naming routes**
+
+- **Regional intelligence:** “Local knowledge, connected perspectives.” An Iberia-inspired brand choice.
+- **Product master brand:** “Practical intelligence, under one name.” A concise identity for a tool family.
+- **System bridge:** “Bring the working pieces together.” Integration and coordination software.
+
+<details>
+<summary><strong>All 6 readings for iber.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established related form — ibero-** | RAE defines ibero- as relating to the Iberian Peninsula; using the shorter Iber as a cue is an original choice. [RAE–ASALE](https://dle.rae.es/ibero-). | Region-focused intelligence and cultural services. |
+| **Original brand concept — regional bridge** | Bring information and perspectives from different local markets together. | Language products, commerce tools, and local research. |
+| **Original brand concept — compact master brand** | A short identity whose meaning is built through a coherent product family. | SI platforms and independent software companies. |
+| **Original brand concept — invention workshop** | A recognizable studio name for turning practical ideas into prototypes. | Product studios and applied-intelligence teams. |
+| **Original brand concept — interoperability bridge** | A metaphor for connecting tools, records, and working environments. | Integration products and enterprise agent infrastructure. |
+| **Original brand concept — discovery compass** | An inviting identity for exploring places, creators, or specialized knowledge. | Travel, cultural media, and discovery services. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Iber SI could be a concise master brand for a multilingual business-intelligence agent. The four-letter **Iber** label leaves room for the buyer's own identity; a deliberate Iberian interpretation could support research and coordination across Spanish- and Portuguese-speaking business contexts. **SI** adds a technology-oriented signature without requiring an invented expansion of the letters IBER. A proposed product could connect research, document interpretation, and operational tools into a shared workspace. Google describes function calling as connecting models with external knowledge and actions, a practical basis for that agent story. The buyer could also adopt Iber SI as a geographically neutral enterprise product name. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -1155,11 +1613,38 @@ Its appeal comes from brevity and flexibility, with an optional regional story s
 </details>
 
 <details>
-<summary><strong>joia.si</strong> — Jewelry and joy concierge · <strong>$47,990</strong></summary>
+<summary><strong>joia.si</strong> — Jewels / joy / valued people and communities · <strong>$47,990</strong></summary>
 
 ### joia.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Joia offers several verified language routes that can inspire different brand personalities: treasured objects, joy, praise, and participation in a community. An SI product could emphasize choosing something precious, creating an enjoyable experience, recognizing people, or organizing a membership. These meanings belong to particular languages and usages, so the buyer should select the story that fits its audience. Further original metaphors, such as finding gems of knowledge or preserving treasured moments, widen the name into publishing, learning, hospitality, and personal creative tools.
+
+**Strongest naming routes**
+
+- **Precious-object intelligence:** “Discover what you will treasure.” A craft and curation identity.
+- **Joyful experiences:** “Make room for a joyful moment.” Creative, cultural, and hospitality services.
+- **Knowledge gems:** “Keep the ideas worth keeping.” A concise SI publishing or learning brand.
+
+<details>
+<summary><strong>All 7 readings for joia.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — Portuguese jewel** | Joia can name a precious ornament or gemstone. [Priberam](https://dicionario.priberam.org/joia). | Jewelry discovery, craftsmanship, and object curation. |
+| **Established — Catalan joy** | Catalan joia includes great joy or pleasure. [Optimot / IEC](https://aplicacions.llengua.gencat.cat/llc/AppJava/index.html?input_cercar=joia&method=cerca_generica&tipusCerca=cerca.tot). | Celebration, hospitality, and enjoyable creative experiences. |
+| **Established — Brazilian informal praise** | In informal Brazilian usage, joia can describe something excellent or attractive. [Priberam](https://dicionario.priberam.org/joia). | An upbeat consumer or creative-service identity. |
+| **Established — Portuguese admission fee** | A documented noun sense concerns a payment on entering an association or club. [Priberam](https://dicionario.priberam.org/joia). | Membership onboarding and community administration. |
+| **Established figurative sense — valued person** | Portuguese joia can refer to a person with admirable qualities or value. [Priberam](https://dicionario.priberam.org/joia). | Recognition, mentoring, and community participation. |
+| **Original brand concept — gems of knowledge** | Useful ideas selected and presented as things worth keeping. | Research curation, learning, and specialist publishing. |
+| **Original brand concept — treasured moments** | A warm identity for preserving personally meaningful experiences. | Memory tools, family storytelling, and creative journals. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Joia SI could combine the name's jewelry and joy-related associations with an intelligent, personal shopping experience. The compact **Joia + SI** identity suits a product that helps someone express taste, discover meaningful objects, and plan a considered purchase. A proposed agent could discuss an occasion, interpret visual inspiration, compare documented product details, and prepare questions for a designer or retailer. Google's image-understanding examples demonstrate reasoning over supplied images alongside written prompts, providing relevant context for a visual discovery interface. The brand's emotional story would come from Joia, while SI would signal the buyer's chosen intelligence-oriented product direction. [Technical context: Google Cloud](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/capabilities/image-understanding)
 
@@ -1220,11 +1705,37 @@ The naming appeal rests on brevity and real linguistic substance. Jewelry is the
 </details>
 
 <details>
-<summary><strong>oazis.si</strong> — Personal agent workspace · <strong>$31,990</strong></summary>
+<summary><strong>oazis.si</strong> — Refuge / fertile ideas / knowledge meeting points · <strong>$31,990</strong></summary>
 
 ### oazis.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+Oazis can take an oasis-inspired story toward refuge, growth, gathering, or access to something useful in a difficult landscape. The stylized spelling gives the buyer a created label, while the metaphor can support different industries. A consumer product might emphasize calm; a creative platform might emphasize conditions for ideas to grow; a knowledge service might emphasize a welcome source of guidance. Oazis SI could therefore become a place-oriented digital identity, a hospitality brand, or a thoughtful workspace with a clearly chosen purpose.
+
+**Strongest naming routes**
+
+- **Digital refuge:** “A place to find your bearings.” A calm SI workspace.
+- **Creative growth:** “Give the idea room to grow.” A studio or collaborative learning identity.
+- **Knowledge wellspring:** “Useful guidance in a difficult landscape.” Research and explanatory services.
+
+<details>
+<summary><strong>All 6 readings for oazis.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established related word — oasis** | Standard English oasis has water-and-growth and figurative-haven meanings; Oazis is an original stylized association. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/oasis). | Nature-oriented and calm-experience brand concepts. |
+| **Original brand concept — digital refuge** | A deliberately quieter place to think, organize, and choose what to engage with. | Focus tools and personal SI workspaces. |
+| **Original brand concept — fertile ideas** | A supportive environment where early concepts can develop. | Creative platforms, learning communities, and product studios. |
+| **Original brand concept — knowledge wellspring** | Gather useful source material around a difficult question. | Research, education, and explanatory services. |
+| **Original brand concept — meeting point** | A welcoming place where people and resources can find one another. | Community platforms and collaboration spaces. |
+| **Original brand concept — restful destination** | A place-centered story built around a considered stay or visit. | Hospitality, retreat discovery, and travel curation. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 Oazis SI could present intelligence as a calmer place to think and act. The oasis-inspired label gives the product a refuge metaphor, while **SI** supports a purposeful agent workspace that filters information, organizes priorities, and prepares useful next steps. A proposed assistant could coordinate selected notes, messages, projects, and schedules without making the user navigate every connected service independently. Google's function-calling documentation describes the bridge between language requests and external tools, providing technical context for this coordination story. The distinctive proposition would be a carefully designed experience that makes complex work feel more manageable, expressed through the compact Oazis SI identity. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -1285,11 +1796,39 @@ Its appeal comes from a compact form and a coherent metaphor that can support se
 </details>
 
 <details>
-<summary><strong>soundx.si</strong> — Sonic interface intelligence · <strong>$47,990</strong></summary>
+<summary><strong>soundx.si</strong> — Voice / sonic experiences / sound reasoning · <strong>$47,990</strong></summary>
 
 ### soundx.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+SoundX SI has unusually broad material for a brand: audible sound, a musical identity, reliable judgment, solid condition, exploratory questioning, and even depth measurement. The X can add an original story of experimentation or crossing disciplines. A buyer could therefore build around voice and listening, evaluated reasoning, industrial condition analysis, or an immersive creative experience. The routes are distinct enough to serve different audiences. The strongest positioning would choose one sense as the anchor and use the others selectively to enrich the brand narrative.
+
+**Strongest naming routes**
+
+- **Voice and sonic experience:** “Give intelligence a sound.” Audio and immersive-media positioning.
+- **Sound reasoning:** “Show the basis for the answer.” Evidence-oriented analytical products.
+- **Sound systems:** “Understand the condition behind the signal.” Quality, maintenance, and measurement workflows.
+
+<details>
+<summary><strong>All 8 readings for soundx.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — audible sound** | Sound can name something heard or the audio in media. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/sound_1). | Voice interfaces, audio production, and media tools. |
+| **Established — musical identity** | A musician's sound can refer to the effect or character of their music. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/sound_1). | Creative identity, music discovery, and production studios. |
+| **Established — reliable judgment** | The adjective sound can describe sensible, dependable reasoning or advice. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/sound_3). | Reasoning review and evidence-oriented SI workspaces. |
+| **Established — solid condition** | Sound can also describe something in good, undamaged condition. [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/sound_3). | Maintenance, asset-condition records, and quality-review tools. |
+| **Established expression — sound someone out** | The phrase concerns finding out a person's views. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/sound-out). | Interview research and customer-discovery tools. |
+| **Established — sounding depth** | A technical verb sense concerns measuring water depth. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/sound_2). | Marine data and measurement-oriented software concepts. |
+| **Established — water passage** | Sound can also name a narrow passage joining larger bodies of water. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/american_english/sound_1). | Marine knowledge and geographic discovery products. |
+| **Original brand concept — sonic experience × SI** | A creative crossing of sound, space, narrative, and intelligence. | Games, immersive experiences, and multimodal studios. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 SoundX SI could brand intelligence expressed through sonic interfaces: a product that creates, interprets, and adapts the sound of a digital or physical experience. **Sound** centers the sensory output, **X** supplies an experimental signature, and **SI** provides a coherent intelligent-design story. A proposed platform could connect generative sound ideas with interactive scenes, game events, brand interfaces, or venue requirements. MDN documents spatialization that changes a sound's perceived position relative to a listener, offering a concrete implementation foundation for interactive audio experiences. The buyer could combine that established technique with its own generation and control agents. [Technical context: MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Web_audio_spatialization_basics)
 
@@ -1350,11 +1889,37 @@ The naming appeal lies in a recognizable subject paired with a compact brand sig
 </details>
 
 <details>
-<summary><strong>timebank.si</strong> — Time coordination agents · <strong>$31,990</strong></summary>
+<summary><strong>timebank.si</strong> — Time exchange / attention reserves / agent budgets · <strong>$31,990</strong></summary>
 
 ### timebank.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+TimeBank SI can describe reciprocal help, a reserve of usable time, or a clearer way to allocate attention and agent work. A buyer could use the bank metaphor to organize capacity, preserve future room in a schedule, or keep a record of how time was used. Another route treats the bank as an archive of moments and eras. These alternatives widen the name beyond community exchange while keeping its core image understandable: time collected, accounted for, or deliberately allocated.
+
+**Strongest naming routes**
+
+- **Community reciprocity:** “Make time useful to one another.” A grounded exchange identity.
+- **Attention reserves:** “Keep time for what matters next.” A deliberate planning brand.
+- **Agent budgeting:** “Put the time budget beside the task.” Inspectable SI work allocation.
+
+<details>
+<summary><strong>All 6 readings for timebank.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established concept — community timebanking** | Participants exchange help through time credits, with hours valued equally. [Timebanking UK](https://timebanking.org/howitworks/). | Community skills exchange and participation tools. |
+| **Original brand concept — future time reserve** | Protect room in a schedule for priorities that have not yet arrived. | Personal planning and capacity-management products. |
+| **Original brand concept — attention capital** | Treat focused time as a resource to allocate deliberately. | Focus workspaces and knowledge-worker planning. |
+| **Original brand concept — agent time budget** | Give delegated tasks explicit runtime allowances and review points. | SI orchestration and agent-operations interfaces. |
+| **Original brand concept — capacity pool** | Make available team time visible before work is assigned. | Service organizations and collaborative scheduling. |
+| **Original brand concept — archive of time** | A bank of dated memories, records, or historical material. | Personal memory, cultural archives, and temporal research. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 TimeBank SI could make time exchange and time allocation understandable through an intelligent coordination layer. The recognizable **time bank** concept supplies a strong product metaphor, while **SI** adds a story about agents that match availability, interpret requests, and explain proposed exchanges. A community implementation could assist coordinators without changing the program's agreed credit rules; a commercial implementation could organize clearly defined service-hour allocations. Google documents function calling for scheduling and accessing external information, useful foundations for either workflow. The name works best when the buyer makes its specific model explicit and shows how the intelligence helps people coordinate their time. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -1415,11 +1980,37 @@ The naming case combines a documented concept with room for carefully defined ad
 </details>
 
 <details>
-<summary><strong>timecard.si</strong> — Workforce intelligence · <strong>$31,990</strong></summary>
+<summary><strong>timecard.si</strong> — Work records / planning cards / time-linked memories · <strong>$31,990</strong></summary>
 
 ### timecard.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+TimeCard SI can retain its practical connection to working hours while opening a visual and narrative interpretation of time. A card can represent a planned block, a remembered moment, an access window, or a message meant for the future. Those original readings offer room for products in team operations, personal planning, events, and memory keeping. The combination is concrete enough to explain with a simple interface. A buyer could make the “card” a recognizable unit of interaction and build its SI experience around that chosen unit.
+
+**Strongest naming routes**
+
+- **Work intelligence:** “A clearer record of the working day.” Practical time administration.
+- **Visual planning:** “Give the next hour a card.” A distinctive scheduling interface.
+- **Time-linked memory:** “Keep the moment with its context.” Journaling and personal SI knowledge.
+
+<details>
+<summary><strong>All 6 readings for timecard.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established — workplace time record** | A time card records a worker's start and finish times or hours. [Cambridge](https://dictionary.cambridge.org/dictionary/english/time-card). | Working-time records and reviewed administrative workflows. |
+| **Original brand concept — planning card** | A visual card represents a block of intended activity. | Personal scheduling and team planning interfaces. |
+| **Original brand concept — access window** | A card represents when a person or service may use a resource. | Reservations, events, and shared-resource coordination. |
+| **Original brand concept — memory card** | A dated card preserves a moment and its surrounding context. | Journaling, family stories, and personal knowledge tools. |
+| **Original brand concept — postcard to the future** | A message or reflection prepared to be revisited at a selected time. | Creative writing and reflective planning products. |
+| **Original brand concept — routine prompt card** | A small instruction is attached to a recurring time or occasion. | Guided routines, learning practice, and task assistance. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 TimeCard SI could position a familiar workforce record as the starting point for an intelligent work assistant. **TimeCard** establishes the operational subject; **SI** supplies a product story about understanding entries, resolving questions, and preparing useful summaries. A proposed agent could help workers describe completed tasks, suggest project tags, compare entries with schedules, and organize manager review. Google's function-calling guidance describes connecting models to external systems and computations, a useful foundation for a time-record workflow that uses actual business data. The compelling identity is practical workforce intelligence, with clear separation between suggested interpretations and the records a worker or manager confirms. [Technical context: Google](https://ai.google.dev/gemini-api/docs/function-calling)
 
@@ -1480,11 +2071,37 @@ Its appeal is functional clarity rather than an abstract invented identity. A bu
 </details>
 
 <details>
-<summary><strong>truthcheck.si</strong> — Verification for intelligent agents · <strong>$31,990</strong></summary>
+<summary><strong>truthcheck.si</strong> — Evidence / assumptions / reviewable claims · <strong>$31,990</strong></summary>
 
 ### truthcheck.si
 
-**Super Intelligence positioning**
+**Broader meanings and brand readings**
+
+TruthCheck SI can operate as a brand for disciplined inquiry across claims, assumptions, source trails, and consistency. A research product might foreground evidence; a software tool might foreground testing an assertion; a reflective workspace might foreground questions worth asking before a decision. The name is strongest when the check has a clear object and an inspectable basis. Those varied routes extend the identity beyond news checking into education, data work, organizational review, and personal reasoning while preserving a direct connection with examining what is being asserted.
+
+**Strongest naming routes**
+
+- **Evidence review:** “Follow the claim to its sources.” A traceable research identity.
+- **Assumption clarity:** “Ask what the plan is assuming.” Reflective and organizational SI tools.
+- **Claim testing:** “Make the check inspectable.” Evaluation and data-review software.
+
+<details>
+<summary><strong>All 6 readings for truthcheck.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| **Established components — truth + examination** | Truth concerns facts; check can mean examining correctness or acceptability. [Truth](https://www.oxfordlearnersdictionaries.com/us/definition/english/truth), [check](https://www.oxfordlearnersdictionaries.com/us/definition/english/check_1). | Evidence-based claim review and research tools. |
+| **Established expression — moment of truth** | The expression can describe a point of testing or an important decision. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/truth). | Evaluation workspaces and decision preparation. |
+| **Original brand concept — assumption check** | Make the premises behind a plan explicit before acting on them. | Planning, product discovery, and reflective SI tools. |
+| **Original brand concept — source trail** | Organize where a statement or piece of content came from. | Media research and traceable knowledge workspaces. |
+| **Original brand concept — consistency lens** | Compare different records or assertions for contradictions to review. | Data-quality and analytical workflow products. |
+| **Original brand concept — claim against a case** | Inspect an assertion using a specified example, dataset, or test condition. | Software testing, education, and experimental research. |
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 TruthCheck SI could become the evidence layer around intelligent systems: a brand for checking what an agent says, showing where its support comes from, and recording what remains unresolved. **TruthCheck** makes the task legible, while **SI** places it directly within the agent and generative-media product story. A proposed platform could combine source retrieval, claim decomposition, citation inspection, and reviewer workflows across text, images, and audio. C2PA explicitly distinguishes content provenance from determining whether content is accurate or factual. That distinction would help shape a credible verification product that explains the result of each check rather than treating authenticity as proof of truth. [Technical context: C2PA](https://spec.c2pa.org/specifications/specifications/2.2/explainer/Explainer.html)
 
@@ -1546,41 +2163,83 @@ Its naming appeal comes from a specific, legible purpose and several credible pr
 
 ## Three-letter names
 
-Twenty-two compact names that connect Super Intelligence with enterprise systems, physical data, scientific research, and intelligent infrastructure.
+Twenty-two short letter combinations with documented technical meanings and original phrase expansions. Each letter can open several naming routes.
 
-| Domain | Asking price (USD) | Super Intelligence direction | Buy / offer |
+| Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
-| **byo.si** | $39,990 | Bring Your Own Intelligence | [View listing](https://www.dynadot.com/market/user-listings/byo.si) |
-| **cpq.si** | $39,990 | Intelligent Quoting Agents | [View listing](https://www.dynadot.com/market/user-listings/cpq.si) |
-| **daq.si** | $31,990 | Physical Intelligence Data | [View listing](https://www.dynadot.com/market/user-listings/daq.si) |
-| **dqm.si** | $31,990 | Trusted Agent Data | [View listing](https://www.dynadot.com/market/user-listings/dqm.si) |
-| **iaq.si** | $31,990 | Intelligent Indoor Environments | [View listing](https://www.dynadot.com/market/user-listings/iaq.si) |
-| **lqg.si** | $31,990 | Model Guided Control | [View listing](https://www.dynadot.com/market/user-listings/lqg.si) |
-| **lvq.si** | $31,990 | Prototype Based Intelligence | [View listing](https://www.dynadot.com/market/user-listings/lvq.si) |
-| **lzw.si** | $39,990 | Efficient Intelligence Infrastructure | [View listing](https://www.dynadot.com/market/user-listings/lzw.si) |
-| **mrz.si** | $21,990 | Document Intelligence Agents | [View listing](https://www.dynadot.com/market/user-listings/mrz.si) |
-| **ncq.si** | $31,990 | Intelligent I/O Systems | [View listing](https://www.dynadot.com/market/user-listings/ncq.si) |
-| **qfn.si** | $31,990 | Intelligent Electronics Engineering | [View listing](https://www.dynadot.com/market/user-listings/qfn.si) |
-| **qnh.si** | $21,990 | Intelligent Aviation Learning | [View listing](https://www.dynadot.com/market/user-listings/qnh.si) |
-| **rmq.si** | $39,990 | Intelligent Query Infrastructure | [View listing](https://www.dynadot.com/market/user-listings/rmq.si) |
-| **tzp.si** | $21,990 | Intelligent Materials Research | [View listing](https://www.dynadot.com/market/user-listings/tzp.si) |
-| **uxr.si** | $21,990 | Intelligent Experience Research | [View listing](https://www.dynadot.com/market/user-listings/uxr.si) |
-| **vdi.si** | $31,990 | Agent Computing Workspaces | [View listing](https://www.dynadot.com/market/user-listings/vdi.si) |
-| **vdr.si** | $31,990 | Intelligent Diligence Workspaces | [View listing](https://www.dynadot.com/market/user-listings/vdr.si) |
-| **xlf.si** | $21,990 | Frontier Intelligence Studio | [View listing](https://www.dynadot.com/market/user-listings/xlf.si) |
-| **zcl.si** | $21,990 | Intelligent Connected Devices | [View listing](https://www.dynadot.com/market/user-listings/zcl.si) |
-| **zfp.si** | $21,990 | Intelligent Protein Research | [View listing](https://www.dynadot.com/market/user-listings/zfp.si) |
-| **zld.si** | $31,990 | Intelligent Water Engineering | [View listing](https://www.dynadot.com/market/user-listings/zld.si) |
-| **zlp.si** | $21,990 | Intelligent Spectroscopy Research | [View listing](https://www.dynadot.com/market/user-listings/zlp.si) |
+| **byo.si** | $39,990 | Build / Bring / Be Your Own SI | [View listing](https://www.dynadot.com/market/user-listings/byo.si) |
+| **cpq.si** | $39,990 | Quoting / Context Provenance / Compute Planning | [View listing](https://www.dynadot.com/market/user-listings/cpq.si) |
+| **daq.si** | $31,990 | Sensor Data / Audio Quality / Distributed Queries | [View listing](https://www.dynadot.com/market/user-listings/daq.si) |
+| **dqm.si** | $31,990 | Data Quality / Query Mesh / Decision Monitoring | [View listing](https://www.dynadot.com/market/user-listings/dqm.si) |
+| **iaq.si** | $31,990 | Agent Queries / Answer Quality / Adaptive Questions | [View listing](https://www.dynadot.com/market/user-listings/iaq.si) |
+| **lqg.si** | $31,990 | Query Graphs / Local Gateways / Quality Guards | [View listing](https://www.dynadot.com/market/user-listings/lqg.si) |
+| **lvq.si** | $31,990 | Vector Queries / Voice Questions / Logic Validation | [View listing](https://www.dynadot.com/market/user-listings/lvq.si) |
+| **lzw.si** | $39,990 | Zoning Intelligence / Latent Exploration / Zero Waste | [View listing](https://www.dynadot.com/market/user-listings/lzw.si) |
+| **mrz.si** | $21,990 | Model Reasoning / Memory Retrieval / Mixed Reality | [View listing](https://www.dynadot.com/market/user-listings/mrz.si) |
+| **ncq.si** | $31,990 | Conversation Queries / Compute Queues / Story Consistency | [View listing](https://www.dynadot.com/market/user-listings/ncq.si) |
+| **qfn.si** | $31,990 | Compact Models / Query Navigation / Evidence Notebooks | [View listing](https://www.dynadot.com/market/user-listings/qfn.si) |
+| **qnh.si** | $21,990 | Human handoffs / semantic discovery / procurement agents | [View listing](https://www.dynadot.com/market/user-listings/qnh.si) |
+| **rmq.si** | $39,990 | Research memory / robotic missions / business questions | [View listing](https://www.dynadot.com/market/user-listings/rmq.si) |
+| **tzp.si** | $21,990 | Global scheduling / team agents / practical zoology | [View listing](https://www.dynadot.com/market/user-listings/tzp.si) |
+| **uxr.si** | $21,990 | User research / XML agents / reporting intelligence | [View listing](https://www.dynadot.com/market/user-listings/uxr.si) |
+| **vdi.si** | $31,990 | Verified data / visual design / agent desktops | [View listing](https://www.dynadot.com/market/user-listings/vdi.si) |
+| **vdr.si** | $31,990 | Data rooms / visual review / voice routing | [View listing](https://www.dynadot.com/market/user-listings/vdr.si) |
+| **xlf.si** | $21,990 | Scientific research / localization / music learning | [View listing](https://www.dynadot.com/market/user-listings/xlf.si) |
+| **zcl.si** | $21,990 | App-building agents / context memory / creative intelligence | [View listing](https://www.dynadot.com/market/user-listings/zcl.si) |
+| **zfp.si** | $21,990 | Agent platforms / fleet planning / personal focus | [View listing](https://www.dynadot.com/market/user-listings/zfp.si) |
+| **zld.si** | $31,990 | Durable memory / logistics dispatch / generative home design | [View listing](https://www.dynadot.com/market/user-listings/zld.si) |
+| **zlp.si** | $21,990 | Portable agents / durable workflows / intelligent learning | [View listing](https://www.dynadot.com/market/user-listings/zlp.si) |
 
 ### Explore the individual domains
 
 <details>
-<summary><strong>byo.si</strong> — Bring Your Own Intelligence · <strong>$39,990</strong></summary>
+<summary><strong>byo.si</strong> — Build / Bring / Be Your Own SI · <strong>$39,990</strong></summary>
 
 ### byo.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+BYO supports three notably different promises: **Bring Your Own** emphasizes control over existing components; **Build Your Own** emphasizes creation; **Be Your Own** emphasizes personal agency. Google Cloud documents the first as a technical abbreviation, while the CodeCrafters project documents the second as a familiar maker phrase rather than establishing a universal BYO abbreviation. The remaining readings below are original naming proposals. Together they let an SI brand address developers, independent professionals, research teams, creators, or curious consumers. A founder could choose a specific promise for the first product and retain the short parent name for later tools that support customers' choices, evidence, and ambitions.
+
+**Strongest naming routes**
+
+- **Build Your Own — “Make the intelligence you imagine.”** Position the brand as an agent construction environment where users assemble, test, and export their own tools. Creation and learning are the primary value.
+- **Bring Your Own — “Your models. Your tools. Your intelligence.”** Position the brand around configurable infrastructure and interoperability. Existing customer assets, preferences, and deployment choices are the starting point.
+- **Be Your Own — “Keep your judgment at the center.”** Position the brand as personal support for independent work, reflection, or creative practice. The product helps customers articulate decisions and retain authorship.
+
+<details>
+<summary><strong>All 20 readings for byo.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Bring Your Own | **Established · [Google Cloud documentation](https://docs.cloud.google.com/media-cdn/docs/overview)** uses BYO for customer-provided domains; the broader brand promise is customer control. | An agent workspace accepting a customer's models, credentials, tools, and deployment preferences; enterprise platform teams. |
+| Build Your Own | **Established · [CodeCrafters project](https://github.com/codecrafters-io/build-your-own-x)** documents the maker phrase; its use as a BYO brand reading is proposed. | A visual agent builder with inspectable workflows and exportable projects; developers and technical educators. |
+| Be Your Own | **Original brand concept.** Personal agency: customers remain the authors of their decisions and creative identities. | A private planning and reflection assistant; independent professionals who want support without surrendering judgment. |
+| Benchmark Your Outcomes | **Original brand concept.** Evaluate systems through the results they produce on a buyer's own tasks. | A custom evaluation studio comparing agent workflows against reviewable task criteria; engineering teams. |
+| Balance Your Objectives | **Original brand concept.** Make competing goals visible before selecting a course of action. | A decision workspace exploring budget, time, energy, and service tradeoffs; operational planners. |
+| Back Your Opinions | **Original brand concept.** Strengthen an argument by connecting claims with sources and counterarguments. | An evidence notebook for analysts, writers, and students preparing defensible research or presentations. |
+| Budget Your Orchestration | **Original brand concept.** Allocate spending across models, tools, and steps in an agent workflow. | An agent cost planner with scenario comparisons and configurable spending controls; platform operators. |
+| Blueprint Your Organization | **Original brand concept.** Map responsibilities, information flows, and recurring work before changing them. | A process discovery assistant turning interviews and documents into editable organizational maps; operations consultants. |
+| Bridge Your Organizations | **Original brand concept.** Coordinate information exchange across independently managed businesses or institutions. | A partner collaboration workspace translating requests into shared tasks with explicit access boundaries; alliance managers. |
+| Brand Your Offering | **Original brand concept.** Articulate the audience, promise, and presentation of a new product. | An SI-assisted positioning and creative exploration studio; founders, designers, and product marketing teams. |
+| Broaden Your Outlook | **Original brand concept.** Explore a question through several disciplines and perspectives. | A research companion assembling contrasting explanations and suggested reading paths; lifelong learners. |
+| Build Your Observatory | **Original brand concept.** Organize an observation system around a chosen subject or environment. | A configurable sensor and research dashboard for citizen science, field studies, or astronomy clubs. |
+| Broadcast Your Observations | **Original brand concept.** Turn collected observations into understandable updates with traceable supporting material. | A publishing assistant for field researchers, public-interest reporting teams, and community science projects. |
+| Book Your Odyssey | **Original brand concept.** Plan an extended journey around personal interests and practical constraints. | A travel research and itinerary workspace preparing options for user-approved booking; travel entrepreneurs. |
+| Browse Your Options | **Original brand concept.** Explore alternatives through a transparent, user-controlled comparison process. | A comparison assistant for software, courses, or household purchases; consumer research product teams. |
+| Bookmark Your Originals | **Original brand concept.** Preserve the connection between an idea, its drafts, and its creator's records. | A personal creative archive linking notes, images, and versions; independent artists and writers. |
+| Boost Your Operations | **Original brand concept.** Improve a defined business workflow through practical automation and human review. | A task-specific agent toolkit for scheduling, reporting, and administrative handoffs; small business operators. |
+| Business Yield Optimization | **Original brand concept.** Explore operational output, resource use, and constraints; “yield” refers to process output, without a return guarantee. | A scenario analysis workspace for manufacturing or service operations; planners comparing buyer-defined production measures. |
+| Bright Youth Opportunities | **Original brand concept.** Help younger learners explore educational and career possibilities. | A source-linked opportunity discovery companion comparing courses, projects, and entry pathways; education and youth program teams. |
+| Build, Yield, Observe | **Original brand concept.** Three experimental actions: construct a workflow, produce outputs, then inspect the evidence. | An agent evaluation studio linking workflow versions with generated results and review notes; developers and research educators. |
+
+**Letter palette:** B: Build, Bring, Be, Benchmark, Business, Bright; Y: Your, Yield, Youth; O: Own, Outcomes, Objectives, Optimization, Opportunities, Observe.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `byo.si` can express **Bring Your Own Super Intelligence** as a proposed brand promise: customers choose the models, tools, knowledge, and infrastructure behind their intelligent workflows. Its established bring-your-own reading makes this direction more understandable than an unexplained initialism. Google Cloud already documents evaluation of third-party and bring-your-own-model endpoints, providing a concrete technical context for model choice. The SI opportunity is an independent control layer that helps customers assemble, compare, and govern those components. It could begin as a practical model gateway and expand into an agent platform without tying the identity to one provider. [Context: Google Cloud model evaluation documentation](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/evaluation-overview?hl=en)
 
@@ -1632,11 +2291,45 @@ BYO has a clear connection to **bring your own**, a phrase already used in techn
 </details>
 
 <details>
-<summary><strong>cpq.si</strong> — Intelligent Quoting Agents · <strong>$39,990</strong></summary>
+<summary><strong>cpq.si</strong> — Quoting / Context Provenance / Compute Planning · <strong>$39,990</strong></summary>
 
 ### cpq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+CPQ has two substantially different documented technical readings: sales configuration and quoting, and a distributed-storage technique called Continuous Partial Quorums. These supply a commercial route and an infrastructure route without requiring invented historical meanings. Original concepts can extend the letters toward provenance, computing capacity, software review, creativity, or customer discovery. The useful common thread is a structured question or queue that turns a complex task into something inspectable. An SI brand could therefore serve revenue teams, developers, analysts, or product researchers. Its strongest expression would identify the particular object being configured, checked, or scheduled, instead of relying on an unexplained claim of general intelligence.
+
+**Strongest naming routes**
+
+- **Configure Price Quote — “From customer intent to a reviewable quote.”** Build an SI-assisted quoting product for a clearly defined catalog or industry, with explainable configurations and approval points.
+- **Context Provenance Quality — “Keep every answer close to its evidence.”** Build a context inspection and evaluation layer for teams deploying agents against their own information.
+- **Compute Plan Queue — “Give every intelligence job a clear place in line.”** Build an infrastructure operations product that helps teams plan workloads, allocate resources, and examine scheduling decisions.
+
+<details>
+<summary><strong>All 12 readings for cpq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Configure Price Quote | **Established · [Salesforce category explanation](https://www.salesforce.com/sales/cpq/what-is-cpq/)** describes the commercial workflow behind CPQ. | A conversational quoting workbench with product rules and approval steps; manufacturers and revenue operations teams. |
+| Continuous Partial Quorums | **Established · [Original research paper](https://arxiv.org/abs/1507.03162)** names a technique for consistency and latency tuning in distributed storage. | A research and experimentation toolkit explaining consistency choices; database engineers and distributed systems educators. |
+| Context Provenance Quality | **Original brand concept.** Assess whether retrieved context has understandable origins and supports an answer. | An evidence inspection layer for retrieval-assisted agents; enterprise knowledge and evaluation teams. |
+| Compute Plan Queue | **Original brand concept.** Make the scheduling of computational work explicit and adjustable. | A workload planning console coordinating model jobs, resources, and priorities; AI infrastructure operators. |
+| Code Proof Questions | **Original brand concept.** Turn a software change into focused questions about its expected behavior. | A code review assistant proposing checks and explaining uncertainty; engineering teams and developer tool founders. |
+| Conversational Planning Questions | **Original brand concept.** Clarify a plan through a sequence of responsive questions. | A guided planning interface for projects, events, or service intake; professional workflow software teams. |
+| Creative Prompt Queue | **Original brand concept.** Organize generation requests into a reviewable production pipeline. | A shared creative job board tracking briefs, revisions, and approvals; studios and in-house content teams. |
+| Continuous Performance Qualification | **Original brand concept.** Treat evaluation as a recurring release activity with defined acceptance criteria. | An agent release workbench checking representative tasks before deployment; product quality and platform teams. |
+| Collaborative Proposal Quality | **Original brand concept.** Coordinate the factual, structural, and editorial review of proposals. | A proposal workspace linking claims to source material and review owners; consultancies and bid teams. |
+| Capability Policy Questions | **Original brand concept.** Ask which actions an agent may take under a defined policy. | A permissions design and testing assistant; enterprise security architects and automation platform teams. |
+| Contextual Product Questions | **Original brand concept.** Answer product questions in relation to a customer's actual situation. | A source-linked catalog research assistant; retailers and specialist product information services. |
+| Customer Preference Queries | **Original brand concept.** Translate stated preferences into transparent, editable searches and recommendations. | A preference exploration engine for travel, learning, or shopping services; consumer product teams. |
+
+**Letter palette:** C: Configure, Continuous, Context, Compute, Code, Creative; P: Price, Partial, Provenance, Plan, Proof, Policy; Q: Quote, Quorums, Quality, Queue, Questions, Queries.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `cpq.si` can position an SI brand around **configure, price, quote**: intelligence applied to turning customer requirements into a commercial proposal. This is an established enterprise category, and Salesforce already describes agents that create and modify quotes while using product, pricing, and eligibility rules. An independent CPQ SI brand could specialize in a segment such as industrial equipment, complex subscriptions, or distribution. Its strongest story would combine conversational assistance with explicit catalog constraints, traceable calculations, and approval steps. That makes the intelligence proposition specific: helping sellers reason through a configuration and explain a quote, rather than treating price as unconstrained model output. [Context: Salesforce quoting and ordering agents](https://www.salesforce.com/agentforce/use-cases/communications/quoting-order-management/?bc=OTH)
 
@@ -1688,11 +2381,45 @@ CPQ means **configure, price, quote** in enterprise sales software. Salesforce d
 </details>
 
 <details>
-<summary><strong>daq.si</strong> — Physical Intelligence Data · <strong>$31,990</strong></summary>
+<summary><strong>daq.si</strong> — Sensor Data / Audio Quality / Distributed Queries · <strong>$31,990</strong></summary>
 
 ### daq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+DAQ connects naturally with collecting measurements, but that established meaning need not define every future brand. Data Acquisition conventionally uses Q from inside “acquisition”; it is an explicitly sourced exception to the three-word naming pattern. Delivered Audio Quality supplies a separate documented meaning concerning speech intelligibility. Original three-word readings can instead point toward distributed queries, agent interfaces, document research, annotation, or decision review. This gives the domain room across physical-world intelligence, voice experiences, and information work. The most coherent SI positioning would explain what enters the system, which question is asked, and how a person can inspect the resulting information or quality assessment.
+
+**Strongest naming routes**
+
+- **Data Acquisition — “Give intelligence a view of the physical world.”** Build a measurement-centered product that keeps raw observations, experimental context, and assisted analysis connected.
+- **Delivered Audio Quality — “Evaluate the voice your users actually hear.”** Build a voice experience testing product with listening evidence, task context, and human review.
+- **Distributed Analytical Queries — “Ask across sources. Inspect the evidence.”** Build an analytical interface that makes cross-source questions and their supporting results understandable.
+
+<details>
+<summary><strong>All 12 readings for daq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Data Acquisition | **Established · [NI overview](https://www.ni.com/en/shop/data-acquisition.html)** describes measurement collection; DAQ takes D and A plus the internal Q in acquisition. | A sensor-to-analysis workspace connecting instrument observations with model-assisted interpretation; laboratory and industrial software teams. |
+| Delivered Audio Quality | **Established · [NTIA research report](https://its.ntia.gov/publications/download/99-370.pdf)** uses DAQ for a measure concerning speech intelligibility. | A voice experience evaluation workbench organizing listening tests and annotations; audio researchers and voice-agent developers. |
+| Distributed Analytical Queries | **Original brand concept.** Investigate data spanning several independently managed sources. | An analyst assistant planning federated searches and showing source-specific results; enterprise data teams. |
+| Dynamic Agent Queries | **Original brand concept.** Generate and revise tool queries as a task's information needs become clearer. | A query orchestration layer connecting agents with documented APIs; developer platform teams. |
+| Data Access Queue | **Original brand concept.** Organize requests for access and the steps needed to review them. | A request triage assistant summarizing dataset scope, proposed uses, and approval owners; data governance teams. |
+| Document Analysis Questions | **Original brand concept.** Explore documents through explicit questions rather than unsupported summaries. | A source-linked research notebook for reports, manuals, or contracts; analysts and professional knowledge teams. |
+| Design Assessment Questions | **Original brand concept.** Review a design through concrete questions about audience, usability, and constraints. | A critique workbench linking observations with design artifacts; product designers and research agencies. |
+| Dataset Annotation Quality | **Original brand concept.** Inspect the consistency and completeness of dataset labels. | An annotation review console suggesting disputed examples for human examination; dataset operations teams. |
+| Decision Audit Queue | **Original brand concept.** Prioritize decisions that need explanation, documentation, or an additional reviewer. | An agent action review inbox; operations teams coordinating consequential automation workflows. |
+| Data Answer Quality | **Original brand concept.** Evaluate whether an answer accurately reflects its underlying data and assumptions. | A benchmark workspace for analytical assistants; business intelligence and agent evaluation teams. |
+| Dialogue Assurance Queries | **Original brand concept.** Probe how a conversational system handles selected interactions and edge cases. | A conversation test designer preparing reviewable scenario suites; support automation developers. |
+| Discovery Analysis Questions | **Original brand concept.** Turn an early research objective into a structured sequence of investigations. | An opportunity exploration workspace for product discovery or scientific literature planning; research teams. |
+
+**Letter palette:** D: Data, Delivered, Distributed, Dynamic, Document, Design; A: Acquisition, Audio, Analytical, Agent, Access, Assessment; Q: Quality, Queries, Queue, Questions.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `daq.si` connects **data acquisition** with the information foundation of physical intelligence. NI defines DAQ around capturing electrical and physical measurements; robotics research such as NVIDIA's GR00T demonstrates the broader role of observations and learned behavior in embodied systems. The proposed SI brand would sit where real-world measurements become useful context for models and engineering teams. It could organize synchronized sensor streams, experiment records, and machine observations rather than presenting itself as another text-only assistant. This gives the name an industrial identity with room for robotics, instrument software, and laboratory intelligence products. Actual measurement quality would remain a property of the implemented system. [Contexts: NI DAQ overview](https://www.ni.com/en/shop/data-acquisition.html), [NVIDIA GR00T research](https://research.nvidia.com/labs/gear/gr00t-n1_5/)
 
@@ -1744,11 +2471,45 @@ DAQ is the established abbreviation for **data acquisition**. NI describes it as
 </details>
 
 <details>
-<summary><strong>dqm.si</strong> — Trusted Agent Data · <strong>$31,990</strong></summary>
+<summary><strong>dqm.si</strong> — Data Quality / Query Mesh / Decision Monitoring · <strong>$31,990</strong></summary>
 
 ### dqm.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+DQM already spans two documented software contexts: managing data quality and using a dynamic query mode. Those meanings establish a credible technical starting point, while the letters also support original concepts about decisions, dialogue, documents, design, and delivery. “Quality” offers a unifying theme, but query networks, quotas, and queues create additional routes beyond a generic quality dashboard. An SI product could specialize in the material agents consume, the answers they produce, or the workflows around their deployment. The strongest brand should make its chosen unit of inspection explicit, such as a dataset, conversation, design requirement, or proposed action, with clear evidence and reviewer controls.
+
+**Strongest naming routes**
+
+- **Distributed Query Mesh — “Connect the questions across your data.”** Position the brand as a query coordination layer that makes source selection, dependencies, and evidence visible.
+- **Decision Quality Monitor — “Make the reasoning reviewable.”** Position the brand around decision records and reviewer workflows, with checks tailored to a buyer's actual operations.
+- **Dialogue Quality Metrics — “Measure the conversation beyond its fluency.”** Position the brand as an evaluation product for conversational systems, organized around explicit tasks and human feedback.
+
+<details>
+<summary><strong>All 12 readings for dqm.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Data Quality Management | **Established · [IBM documentation](https://www.ibm.com/docs/en/iii/10.0.0?topic=reference-data-quality-management-dqm)** uses DQM for validation and cleanup processes. | An agent data readiness workbench tracking checks and exceptions; data engineering and governance teams. |
+| Dynamic Query Mode | **Established · [IBM documentation](https://www.ibm.com/docs/en/openpages/9.0.0?topic=models-defining-query-mode-framework-model)** identifies DQM as a reporting model query mode. | A query troubleshooting and explanation assistant; analytics administrators and reporting consultancies. |
+| Decision Quality Monitor | **Original brand concept.** Examine decision records for missing evidence, unresolved assumptions, and review status. | A monitoring workspace for agent-supported operational decisions; management and evaluation teams. |
+| Dialogue Quality Metrics | **Original brand concept.** Define and inspect conversational quality beyond a fluent writing style. | A conversation evaluation toolkit covering task completion, source use, and reviewer feedback; support product teams. |
+| Document Quality Manager | **Original brand concept.** Coordinate factual, structural, and editorial checks across a document collection. | An evidence-linked documentation maintenance assistant; publishers and enterprise knowledge teams. |
+| Distributed Query Mesh | **Original brand concept.** Coordinate questions and results across connected information sources. | A query routing and lineage workspace; organizations combining databases, search indexes, and agent tools. |
+| Digital Quality Mentor | **Original brand concept.** Teach practical quality practices through contextual explanation and exercises. | A guided learning assistant for software testing or digital production; educators and professional training providers. |
+| Design Quality Map | **Original brand concept.** Link design goals, review findings, and open questions in an inspectable map. | A design review workspace for product teams comparing alternatives and tracking research evidence. |
+| Data Quota Manager | **Original brand concept.** Allocate limits for data consumption, storage, or retrieval activity. | A usage planning assistant with configurable budgets; platform operators and data service providers. |
+| Decision Queue Manager | **Original brand concept.** Route unresolved decisions to appropriate owners with the relevant context attached. | A cross-team review inbox for agent-generated proposals; professional services and operations teams. |
+| Discovery Question Map | **Original brand concept.** Connect research questions, supporting observations, and remaining uncertainties. | A discovery notebook for customer research or scientific project planning; product and research teams. |
+| Deployment Quality Monitor | **Original brand concept.** Follow evaluation results and operational observations across a product release. | An agent deployment review dashboard; engineering teams maintaining task-specific automation products. |
+
+**Letter palette:** D: Data, Dynamic, Decision, Dialogue, Distributed, Deployment; Q: Quality, Query, Quota, Queue, Question; M: Management, Mode, Monitor, Metrics, Mesh, Map.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `dqm.si` can make **data quality management** the foundation of an SI brand about dependable agent inputs. IBM's current discussion of autonomous agents emphasizes accurate, governed data and the consequences when one workflow's output feeds another. That creates a concrete product direction: an intelligence layer that checks freshness, structure, permissions, and source lineage before information is used. The name could support more than a cleanup utility; it could become the workspace where organizations define what data an agent may rely on and investigate failures. Its strongest positioning would show the checks and evidence, allowing customers to distinguish a quality signal from a model's confident wording. [Context: IBM on data intelligence for autonomous agents](https://www.ibm.com/think/perspectives/evolving-role-data-intelligence-autonomous-ai-agents)
 
@@ -1800,11 +2561,46 @@ DQM has an established association with **data quality management**. IBM uses th
 </details>
 
 <details>
-<summary><strong>iaq.si</strong> — Intelligent Indoor Environments · <strong>$31,990</strong></summary>
+<summary><strong>iaq.si</strong> — Agent Queries / Answer Quality / Adaptive Questions · <strong>$31,990</strong></summary>
 
 ### iaq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+IAQ has documented uses in indoor environmental quality and in the names of educational and psychological research questionnaires. These are separate established contexts, rather than interchangeable product categories. Original SI readings can place the same letters around agent queries, answer assessment, adaptive questioning, identity, audio, or image review. This makes the brand especially flexible for products organized around asking and evaluating. A technical buyer could build a query service; an education buyer could build a responsive learning interface; a research buyer could organize questionnaire evidence. Any such product would need its own scope and validation; the domain's existing research associations do not confer clinical or assessment approval.
+
+**Strongest naming routes**
+
+- **Intelligent Agent Queries — “Give each agent a precise way to ask.”** Build a developer platform for structured tool requests and inspectable retrieval workflows.
+- **Intelligent Answer Quality — “Judge the answer, not just the wording.”** Build an evaluation product connecting generated responses with supporting material, task criteria, and human review.
+- **Interactive Adaptive Questions — “Let the next question follow what you learn.”** Build a responsive interview, tutoring, or discovery experience where the questioning sequence is the product's central value.
+
+<details>
+<summary><strong>All 13 readings for iaq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Indoor Air Quality | **Established · [US EPA introduction](https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality)** uses IAQ for air quality inside and around buildings. | An environmental observations and maintenance planning workspace; building operators and sensor software companies. |
+| Independent Activities Questionnaire | **Established · [ETS research report](https://www.ets.org/research/policy_research_reports/publications/report/1967/imch.html)** names a questionnaire about independent accomplishments. | A research evidence organizer for achievement-related studies; educational researchers and assessment designers. |
+| International Anxiety Questionnaire | **Established · [Original research paper](https://pubmed.ncbi.nlm.nih.gov/36215152/)** names a self-report instrument studied by its authors. | An authorized research data curation workspace; questionnaire researchers, without implying diagnostic capability. |
+| Intelligent Agent Queries | **Original brand concept.** Give agent requests a structured, inspectable interface. | A query service with tool schemas, request tracing, and source-linked responses; agent platform developers. |
+| Intelligent Answer Quality | **Original brand concept.** Assess the support, relevance, and completeness of generated answers. | A human-reviewed answer evaluation suite; knowledge product and enterprise agent teams. |
+| Interactive Adaptive Questions | **Original brand concept.** Choose the next question from what the interaction has already established. | A responsive tutoring, discovery, or intake interface; education and professional workflow product teams. |
+| Integrated Agent Queue | **Original brand concept.** Coordinate pending work across several agents and their human reviewers. | A shared task orchestration inbox; organizations deploying multiple specialized assistants. |
+| Identity Assurance Questions | **Original brand concept.** Organize questions about an identity claim and the evidence supporting it. | An identity review preparation assistant; onboarding and access administration teams. |
+| Intelligent Audio Queries | **Original brand concept.** Search audio through questions linked to relevant excerpts and timestamps. | A recording research tool for lectures, interviews, or media archives; educators and producers. |
+| Image Assessment Quality | **Original brand concept.** Review image outputs against explicit criteria and documented observations. | A visual generation evaluation workbench; creative production and computer vision product teams. |
+| Industrial Automation Questions | **Original brand concept.** Explore equipment and workflow questions using manuals and operational records. | A source-linked industrial knowledge assistant; integrators and maintenance planning teams. |
+| Inclusive Access Questions | **Original brand concept.** Examine who can use a product and where access barriers arise. | A guided accessibility research and issue organization tool; design teams and public service providers. |
+| Inference Audit Queue | **Original brand concept.** Collect selected model outputs for inspection with their context attached. | A review queue for inference traces and evaluation samples; AI quality and platform operations teams. |
+
+**Letter palette:** I: Indoor, Independent, International, Intelligent, Interactive, Inference; A: Air, Activities, Agent, Answer, Adaptive, Audit; Q: Quality, Questionnaire, Queries, Questions, Queue.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `iaq.si` brings **indoor air quality** into an SI brand for intelligent indoor environments. The EPA's definition provides a grounded subject: conditions in and around buildings as they relate to occupants. The forward-looking opportunity is to connect measurements, building records, and operational context so an assistant can help people understand observations and plan investigations. A focused product could explain a trend alongside room use and maintenance history, rather than presenting an isolated sensor number. This supports a practical intelligence identity across buildings, offices, schools, and household monitoring. Proposed tools would need to distinguish measured evidence, inferred explanations, and decisions reserved for qualified staff. [Context: EPA indoor air quality introduction](https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality)
 
@@ -1856,11 +2652,45 @@ IAQ stands for **indoor air quality**, the term the US Environmental Protection 
 </details>
 
 <details>
-<summary><strong>lqg.si</strong> — Model Guided Control · <strong>$31,990</strong></summary>
+<summary><strong>lqg.si</strong> — Query Graphs / Local Gateways / Quality Guards · <strong>$31,990</strong></summary>
 
 ### lqg.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+LQG has two distinct established technical associations: Linear Quadratic Gaussian control design and Loop Quantum Gravity, a theoretical research approach. Neither requires the brand to promise a universal intelligence breakthrough. Original readings create practical alternatives around query graphs, local infrastructure, learning evaluation, and guided inquiry. The letters work particularly well for a product that connects structured questions with a navigable graph or a controlled gateway. They also support educational and laboratory services that help people inspect quality rather than simply accept generated answers. A buyer can choose an engineering, physics, information architecture, or learning route and explain that choice plainly in the product's own identity.
+
+**Strongest naming routes**
+
+- **Language Query Graph — “Turn questions into connected reasoning.”** Position the brand as a visual way to inspect an agent's research plan, tool dependencies, and supporting information.
+- **Local Query Gateway — “Keep the intelligence close to your data.”** Position the brand as configurable retrieval infrastructure running within a customer's selected environment.
+- **Learning Quality Guard — “Test what the system is learning.”** Position the brand around defined evaluation tasks and human review for learning systems, datasets, or educational content.
+
+<details>
+<summary><strong>All 12 readings for lqg.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Linear Quadratic Gaussian | **Established · [MathWorks design documentation](https://www.mathworks.com/help/control/getstart/linear-quadratic-gaussian-lqg-design.html)** describes LQG control design. | A model-assisted control design and experiment notebook; control engineers and technical educators. |
+| Loop Quantum Gravity | **Established · [Max Planck Einstein Online](https://www.einstein-online.info/en/loops/)** describes this approach to quantum gravity research. | A source-linked theoretical physics exploration assistant; researchers, students, and science publishers. |
+| Language Query Graph | **Original brand concept.** Represent language-driven questions and their dependencies as an editable graph. | A visual research orchestration workbench connecting questions, tools, and evidence; agent developers. |
+| Local Query Gateway | **Original brand concept.** Route information requests through a customer-controlled local interface. | An on-premises retrieval gateway linking agents with internal sources; enterprise infrastructure teams. |
+| Learning Quality Guard | **Original brand concept.** Inspect learning workflows against defined quality criteria. | An evaluation and review tool for training data or tutoring content; model and education product teams. |
+| Latent Query Generator | **Original brand concept.** Explore candidate searches suggested by representations or task context. | A query exploration laboratory for semantic retrieval experiments; search researchers and data teams. |
+| Logic Question Guide | **Original brand concept.** Help users ask questions about the structure and assumptions of an argument. | A reasoning practice and argument review assistant; students, writers, and professional trainers. |
+| Live Quality Gauge | **Original brand concept.** Present current quality observations in a concise operational view. | A configurable dashboard for selected agent evaluation signals; product operations teams. |
+| Longitudinal Question Graph | **Original brand concept.** Track how research questions and evidence change over time. | A long-running investigation notebook; academic groups, policy researchers, and product discovery teams. |
+| Language Quality Grader | **Original brand concept.** Review language against stated audience, clarity, and style criteria. | A human-supervised writing evaluation product; publishers, localization teams, and education providers. |
+| Local Quota Governor | **Original brand concept.** Apply user-defined resource limits near the systems consuming them. | A local model usage and capacity planning tool; infrastructure teams operating customer-controlled deployments. |
+| Lab Quality Guide | **Original brand concept.** Organize questions about experimental records and laboratory procedures. | A laboratory documentation and review assistant; research operations and scientific software teams. |
+
+**Letter palette:** L: Linear, Loop, Language, Local, Learning, Latent; Q: Quadratic, Quantum, Query, Quality, Question, Quota; G: Gaussian, Gravity, Graph, Gateway, Guard, Generator.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `lqg.si` can position an SI engineering brand where **linear-quadratic-Gaussian control** meets model-assisted design. LQG combines a controller and state estimator within a defined mathematical framework; MathWorks also documents reinforcement learning in control-system applications. These are related technical contexts, not interchangeable methods. The branding opportunity is a workspace that helps engineers compare assumptions, run simulations, and inspect evidence across conventional and learned approaches. LQG SI could make mathematical structure part of its identity, with intelligence helping navigate the design process rather than replacing its requirements. That distinction creates a specific proposition for customers working with physical systems and uncertain observations. [Contexts: LQG design](https://www.mathworks.com/help/control/getstart/linear-quadratic-gaussian-lqg-design.html), [learning for control applications](https://www.mathworks.com/help/reinforcement-learning/ug/reinforcement-learning-for-control-systems-applications.html)
 
@@ -1912,11 +2742,45 @@ LQG denotes **linear-quadratic-Gaussian** control. MathWorks explains the design
 </details>
 
 <details>
-<summary><strong>lvq.si</strong> — Prototype Based Intelligence · <strong>$31,990</strong></summary>
+<summary><strong>lvq.si</strong> — Vector Queries / Voice Questions / Logic Validation · <strong>$31,990</strong></summary>
 
 ### lvq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+LVQ's established machine-learning meaning, Learning Vector Quantization, supplies a research-oriented identity, but its naming space is broader than one classification method. Original readings can emphasize local retrieval, conversational voice, verification, visual questions, or exploration of personal goals. “Vector” gives a precise technical route, while “Voice,” “Validation,” and “Vision” offer clearly different customer experiences. The final Q can describe a query, question, queue, quiz, or quest, so the brand can serve infrastructure, collaborative review, education, or guided discovery. A founder should select the interaction that defines the product and use the domain as its compact signature, without suggesting every proposed reading is an established abbreviation.
+
+**Strongest naming routes**
+
+- **Local Vector Query — “Find meaning where your data lives.”** Build a retrieval product emphasizing customer-selected deployment, inspectable searches, and understandable source results.
+- **Live Voice Questions — “A conversation that keeps up with you.”** Build a spoken research or learning experience where questions, notes, and follow-up actions remain visible to the user.
+- **Logic Validation Queries — “Ask what makes the reasoning hold.”** Build a reasoning review environment that surfaces assumptions and supports examination rather than claiming infallible conclusions.
+
+<details>
+<summary><strong>All 12 readings for lvq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Learning Vector Quantization | **Established · [MathWorks reference](https://www.mathworks.com/help/deeplearning/ref/lvqnet.html)** documents the machine-learning method behind LVQ. | A classification research and teaching workspace with experiment records; machine-learning educators and applied research teams. |
+| Local Vector Query | **Original brand concept.** Search vector representations inside a customer-controlled environment. | A local semantic retrieval interface for documents and internal datasets; enterprise developers. |
+| Language Validation Queue | **Original brand concept.** Route generated or translated text through defined review steps. | An editorial approval inbox with linguistic checks and reviewer assignments; localization and publishing teams. |
+| Live Voice Questions | **Original brand concept.** Explore questions through an ongoing spoken interaction. | A voice research or tutoring companion with inspectable notes; education and conversational product teams. |
+| Latent Vector Quest | **Original brand concept.** Explore relationships in learned representation spaces through a guided interface. | An embedding visualization playground with comparison tasks; researchers and technical learning communities. |
+| Learning Verification Questions | **Original brand concept.** Check understanding through questions chosen to expose specific gaps. | A formative learning assistant preparing instructor-reviewable exercises; teachers and professional trainers. |
+| Logic Validation Queries | **Original brand concept.** Ask focused questions about whether reasoning follows its stated assumptions. | An argument review and proof exploration workbench; technical writers and reasoning tool developers. |
+| Local Visual Questions | **Original brand concept.** Ask questions about images or visual records processed in a selected local environment. | An on-device visual research interface; field documentation teams and privacy-conscious application developers. |
+| Longitudinal Value Quantification | **Original brand concept.** Examine how a defined measure of value changes over time. | A scenario and outcome tracking tool for product programs; analysts evaluating their own chosen metrics. |
+| Language Vocabulary Quiz | **Original brand concept.** Make vocabulary practice interactive and responsive to prior answers. | A multilingual learning product preparing contextual exercises; language educators and learning app founders. |
+| Life Vision Quest | **Original brand concept.** Explore personal ambitions through reflective questions and practical planning. | A journaling and goal exploration companion; independent creators and personal development product teams. |
+| Live Verification Queue | **Original brand concept.** Organize newly generated claims or outputs for timely human checking. | A shared review console linking outputs with evidence and owners; research and content operations teams. |
+
+**Letter palette:** L: Learning, Local, Language, Live, Latent, Logic; V: Vector, Validation, Voice, Verification, Vocabulary, Value; Q: Quantization, Query, Questions, Quest, Quiz, Queue.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `lvq.si` connects **learning vector quantization** with an SI identity centered on classification and representative examples. The documented LVQ method groups input vectors and maps them to target classes, giving the brand an actual machine-learning foundation. Its forward-looking opportunity is a product that helps users understand what a classifier is distinguishing, inspect nearby examples, and organize evidence about errors. The domain need not imply that one older method solves every modern AI problem. Instead, LVQ SI could develop a recognizable specialization in prototype-based learning, model comparison, and understandable classification workflows, while supporting other approaches under clearly described product names. [Context: MathWorks LVQ documentation](https://www.mathworks.com/help/deeplearning/ref/lvqnet.html)
 
@@ -1968,11 +2832,45 @@ LVQ means **learning vector quantization**, a neural-network classification appr
 </details>
 
 <details>
-<summary><strong>lzw.si</strong> — Efficient Intelligence Infrastructure · <strong>$39,990</strong></summary>
+<summary><strong>lzw.si</strong> — Zoning Intelligence / Latent Exploration / Zero Waste · <strong>$39,990</strong></summary>
 
 ### lzw.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+LZW has a well-established connection to the Lempel Ziv Welch compression algorithm, an association that can anchor a compact technical brand. Original expansions offer other routes without borrowing that algorithm's history: local zoning, exploration of latent representations, multilingual workspaces, learning workshops, logistics, and material reuse. Z is a useful constraint rather than a reason to force random words; “Zone,” “Zoning,” and “Zero” each express a different organizing idea. An SI brand could therefore help users navigate a place, an information space, or a resource lifecycle. The strongest candidates below connect the unusual middle letter with a specific customer workflow and a product that can be explained in plain language.
+
+**Strongest naming routes**
+
+- **Local Zoning Wizard — “Make local rules easier to explore.”** Build a location-specific research service that links planning questions with the relevant official documents and expert review steps.
+- **Latent Zone Walker — “Explore the spaces your models create.”** Build an interactive representation exploration product for research, model interpretation, or creative experiments.
+- **Lifecycle Zero Waste — “Plan the next life of every material.”** Build a resource planning product connecting inventory, reuse ideas, and operational constraints across a defined lifecycle.
+
+<details>
+<summary><strong>All 12 readings for lzw.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Lempel Ziv Welch | **Established · [NIST algorithm reference](https://xlinux.nist.gov/dads/HTML/lempelZivWelch.html)** names the compression algorithm; the three letters come from its associated surnames. | A compression education, benchmarking, or data tooling brand; systems developers and technical publishers. |
+| Local Zoning Wizard | **Original brand concept.** Explore location-specific planning rules through a guided interface. | A source-linked zoning research assistant preparing questions for qualified review; planners and property research teams. |
+| Latent Zone Walker | **Original brand concept.** Navigate regions of a model's representation space interactively. | An embedding exploration and experiment workbench; machine-learning researchers and creative tool developers. |
+| Lifecycle Zero Waste | **Original brand concept.** Organize reuse and material recovery opportunities across a product's lifecycle. | A material inventory and reuse planning assistant; circular-design teams and manufacturing service providers. |
+| Language Zone Workspace | **Original brand concept.** Give multilingual information work a shared, organized environment. | A multilingual agent workspace linking terminology, source documents, and reviews; international research teams. |
+| Local Zone Watcher | **Original brand concept.** Observe a defined area through locally managed signals and records. | An edge-device observations dashboard; facility operators and environmental monitoring software teams. |
+| Learning Zone Workshop | **Original brand concept.** Create a hands-on space for guided exploration and experimentation. | An agent-assisted workshop platform with practical projects; educators and professional training providers. |
+| Logistics Zone Wayfinding | **Original brand concept.** Explore movement and routing choices within a logistics environment. | A layout and route simulation assistant; warehouse planners and logistics software developers. |
+| Lab Zoning Workbench | **Original brand concept.** Plan the arrangement of laboratory areas, resources, and workflows. | A collaborative layout exploration tool organizing constraints for expert review; research facility planning teams. |
+| Lunar Zone Watch | **Original brand concept.** Organize observations and research about selected lunar regions. | An astronomy education and imagery research workspace; science publishers and observation communities. |
+| Location Zone Workflow | **Original brand concept.** Connect location-defined areas with tasks and information handoffs. | A configurable fieldwork coordination product; inspection, event operations, and service delivery teams. |
+| Local Zero Waste | **Original brand concept.** Coordinate neighborhood-level reuse opportunities and practical resource exchanges. | A community material matching and collection planning assistant; reuse networks and municipal project teams. |
+
+**Letter palette:** L: Lempel, Local, Latent, Lifecycle, Language, Logistics; Z: Ziv, Zone, Zoning, Zero; W: Welch, Wizard, Walker, Waste, Workspace, Wayfinding.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `lzw.si` can position an SI infrastructure brand around **Lempel-Ziv-Welch** and the broader discipline of representing information efficiently. NIST documents LZW as a dictionary-based compression algorithm, supplying a credible technical origin. The SI opportunity is not to claim that every model should use that codec; it is to build tools that help intelligent applications understand, manage, and move their files and artifacts. A focused offering could inspect formats, explain encoding failures, or compare storage choices for a particular workload. That creates a developer-oriented identity spanning compression, reproducibility, and practical information handling, with performance claims based on measured implementations. [Context: NIST LZW definition](https://xlinux.nist.gov/dads/HTML/lempelZivWelch.html)
 
@@ -2024,11 +2922,45 @@ LZW is the established abbreviation for **Lempel-Ziv-Welch**, a dictionary-based
 </details>
 
 <details>
-<summary><strong>mrz.si</strong> — Document Intelligence Agents · <strong>$21,990</strong></summary>
+<summary><strong>mrz.si</strong> — Model Reasoning / Memory Retrieval / Mixed Reality · <strong>$21,990</strong></summary>
 
 ### mrz.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+MRZ has a documented identity-document meaning and a separate use for a virus antibody panel in published research. These established meanings show why context matters: the same letters can describe very different subjects. Original readings can instead make “Zone” the organizing concept for reasoning, memory, mixed reality, markets, materials, or collaborative research. That creates a natural parent brand for a focused workspace rather than a forced acronym for one feature. An SI buyer could choose a technical environment, an immersive experience, or an evidence-centered research service. The product's description should state that chosen identity; existing scientific or document terminology supplies naming context, not organizational affiliation or diagnostic authority.
+
+**Strongest naming routes**
+
+- **Model Reasoning Zone — “A place to inspect how answers take shape.”** Build an environment for examining outputs, evidence, assumptions, and experiments around a defined model workflow.
+- **Memory Retrieval Zone — “Bring the relevant memory into the moment.”** Build a personal or organizational knowledge product with explicit source references and user-controlled retrieval boundaries.
+- **Mixed Reality Zone — “Put intelligence into the world you see.”** Build a spatial product for learning, visual collaboration, or contextual information, with a distinctive immersive identity.
+
+<details>
+<summary><strong>All 12 readings for mrz.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Machine Readable Zone | **Established · [ICAO document specification](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf)** uses MRZ for the machine-readable portion of specified travel documents. | A document extraction research and quality review toolkit; identity software developers and document processing teams. |
+| Measles Rubella Zoster | **Established · [Original research study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8463395/)** explains MRZ using measles, rubella, and varicella zoster; Z refers to zoster. | An evidence and dataset organization workspace for immunology research; scientific software teams, without diagnostic claims. |
+| Model Reasoning Zone | **Original brand concept.** Create an inspectable workspace for model responses, assumptions, and supporting context. | A reasoning exploration and evaluation environment; agent developers and research teams. |
+| Memory Retrieval Zone | **Original brand concept.** Organize relevant memories and records around the current task. | A personal or enterprise memory workspace with source access controls; knowledge product founders. |
+| Mixed Reality Zone | **Original brand concept.** Place interactive intelligence within an immersive spatial experience. | A spatial learning or collaborative visualization product; mixed reality studios and education developers. |
+| Multiagent Research Zone | **Original brand concept.** Coordinate specialized research agents within a shared evidence workspace. | A research orchestration product with attributed contributions and review checkpoints; analysis teams. |
+| Market Research Zone | **Original brand concept.** Investigate markets through sources, interviews, and explicit hypotheses. | A customer and competitor research workspace; product strategy teams and independent research agencies. |
+| Materials Research Zone | **Original brand concept.** Connect materials literature, experimental records, and candidate design questions. | A model-assisted scientific knowledge workspace; materials researchers and engineering software companies. |
+| Mission Readiness Zone | **Original brand concept.** Organize the information and unresolved tasks needed before an operation begins. | A review and rehearsal workspace for expeditions, events, or technical projects; operational planning teams. |
+| Model Review Zone | **Original brand concept.** Collect model evaluation artifacts and decisions in one review environment. | A model release review portal; engineering, product quality, and governance teams. |
+| Managed Retrieval Zone | **Original brand concept.** Bound a retrieval service by defined sources, access rules, and inspection tools. | A configurable enterprise search environment; IT teams and specialist knowledge service providers. |
+| Molecular Research Zone | **Original brand concept.** Organize molecular research questions and associated computational or literature evidence. | A research planning notebook for computational chemistry groups; scientific platform developers. |
+
+**Letter palette:** M: Machine, Model, Memory, Mixed, Multiagent, Materials; R: Readable, Reasoning, Retrieval, Reality, Research, Review; Z: Zone, Zoster.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `mrz.si` can turn the **machine readable zone** association into a focused SI brand for document intelligence. ICAO defines the standardized document zone, while Google Cloud's Document AI includes passport information extraction as a concrete adjacent AI capability. The proposed opportunity is a workflow that connects captured fields, document evidence, and follow-up tasks without treating extracted text as an unquestionable identity decision. MRZ SI could serve developers integrating travel-document processing or businesses organizing document-heavy onboarding. Its concise technical identity gives the brand a clear entry point, with room for broader intelligent extraction and review tools as the product develops. [Contexts: ICAO document standard](https://www.icao.int/sites/default/files/publications/DocSeries/9303_p3_cons_en.pdf), [Google Document AI parsers](https://docs.cloud.google.com/document-ai/docs/pretrained-overview)
 
@@ -2080,11 +3012,45 @@ MRZ means **machine readable zone** in travel-document standards. ICAO's Doc 930
 </details>
 
 <details>
-<summary><strong>ncq.si</strong> — Intelligent I/O Systems · <strong>$31,990</strong></summary>
+<summary><strong>ncq.si</strong> — Conversation Queries / Compute Queues / Story Consistency · <strong>$31,990</strong></summary>
 
 ### ncq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+NCQ's established uses include storage command queuing and a named nursing research questionnaire. The first points toward system coordination; the second illustrates a structured-question route in a very different field. Original brand readings expand these possibilities into natural conversation, neural context, computing queues, customer qualification, citation navigation, and narrative review. This gives an SI business several distinct audiences: infrastructure operators, customer-facing product teams, researchers, or creative studios. “Query,” “Queue,” and “Questions” describe recognizable interactions, while the first two letters specify what is being organized. A strong launch identity would select one of those interactions and show how the product handles its particular context and evidence.
+
+**Strongest naming routes**
+
+- **Natural Conversation Queries — “Ask naturally. See what was queried.”** Build a conversational knowledge product that exposes the searches and source material behind its responses.
+- **Neural Compute Queue — “Coordinate the work behind intelligence.”** Build an infrastructure operations product for workload scheduling, resource planning, and reviewer-visible execution status.
+- **Narrative Consistency Questions — “Keep every story true to its own world.”** Build a creative research and continuity tool grounded in a project's characters, timelines, and established facts.
+
+<details>
+<summary><strong>All 12 readings for ncq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Native Command Queuing | **Established · [Seagate technical explanation](https://www.seagate.com/ca/en/support/kb/serial-ata-sata-native-command-queuing-ncq-faqs-193785en/)** identifies the SATA storage feature. | A storage workload research and visualization toolkit; systems educators and infrastructure developers. |
+| Nursing Care Questionnaire | **Established · [Original BMJ research abstract](https://bmjopenquality.bmj.com/content/14/Suppl_3/A200.1.full.pdf)** names a questionnaire used in a nursing care study. | A survey evidence and reporting workspace; nursing quality researchers, without implying clinical decision approval. |
+| Natural Conversation Queries | **Original brand concept.** Turn everyday language into visible, reviewable information requests. | A conversational search interface showing its query and supporting sources; knowledge product teams. |
+| Neural Context Queries | **Original brand concept.** Explore context selected through learned representations and task information. | A retrieval experiment and inspection workbench; machine-learning and search researchers. |
+| Native Cloud Queries | **Original brand concept.** Investigate information through interfaces appropriate to a selected cloud environment. | A cloud resource and data exploration assistant; platform administrators and integration developers. |
+| New Customer Qualification | **Original brand concept.** Structure the discovery of a prospective customer's needs and fit. | A transparent sales intake and preparation assistant; service businesses and revenue operations teams. |
+| Narrative Consistency Questions | **Original brand concept.** Examine whether a story stays consistent with its own established facts. | A continuity research and review assistant for novels, games, or screenplays; writers and narrative studios. |
+| Network Capacity Quotient | **Original brand concept.** Brand a buyer-defined indicator for exploring capacity; no standardized metric is implied. | A network scenario planning dashboard explaining its chosen assumptions and measures; infrastructure analysts. |
+| Neural Compute Queue | **Original brand concept.** Coordinate pending computational work for model training or inference. | A resource scheduling and workload inspection console; AI platform operators. |
+| Network Cost Queries | **Original brand concept.** Investigate the drivers and alternatives behind network-related spending. | A cost research assistant linking usage observations with configurable scenarios; IT finance teams. |
+| Nonprofit Community Questions | **Original brand concept.** Organize questions from a community around sources, services, and participation. | A community knowledge and consultation workspace; nonprofit program teams and civic product builders. |
+| Navigable Citation Queries | **Original brand concept.** Make source-linked questions and citation trails easy to explore. | A research interface moving between claims, sources, and follow-up searches; academic and professional analysts. |
+
+**Letter palette:** N: Native, Nursing, Natural, Neural, New, Narrative; C: Command, Care, Conversation, Context, Compute, Consistency; Q: Queuing, Questionnaire, Queries, Qualification, Questions, Queue.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `ncq.si` can borrow its **native command queuing** foundation for an SI infrastructure identity about understanding queues and I/O behavior. Seagate documents NCQ as a storage mechanism for reordering supported commands, giving the name a real systems-engineering connection. The forward-looking brand opportunity is to help operators investigate where intelligent workloads wait for data and how configuration changes affect observed performance. It could start with trace analysis and grow into a broader infrastructure assistant for model pipelines. Proposed products should distinguish the original SATA feature from other scheduling techniques: the brand can expand, while its explanations remain precise about the technology being measured. [Context: Seagate NCQ documentation](https://www.seagate.com/ca/en/support/kb/serial-ata-sata-native-command-queuing-ncq-faqs-193785en/)
 
@@ -2136,11 +3102,45 @@ NCQ stands for **native command queuing**, a storage feature explained in Seagat
 </details>
 
 <details>
-<summary><strong>qfn.si</strong> — Intelligent Electronics Engineering · <strong>$31,990</strong></summary>
+<summary><strong>qfn.si</strong> — Compact Models / Query Navigation / Evidence Notebooks · <strong>$31,990</strong></summary>
 
 ### qfn.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+QFN has an established semiconductor packaging association: Quad Flat No-Lead, where N represents the no-lead descriptor. That gives a hardware buyer a precise technical route, but the short name also supports original software and research identities. Quantized models, query navigation, quality networks, evidence notebooks, fair resource allocation, and feedback systems are distinct possibilities rather than competing definitions of the existing package term. The initials suit brands that move from a question or quality requirement toward an organized network, node, or notebook. An SI business could choose compact deployment, information navigation, or collaborative evidence work, then communicate that chosen promise without implying a semiconductor vendor relationship or universal model performance.
+
+**Strongest naming routes**
+
+- **Quantized Foundation Networks — “Intelligence sized for the place it runs.”** Build a compact-model experimentation product that compares deployment options through defined tasks and resource observations.
+- **Query Flow Navigator — “Follow the question through the system.”** Build a visual inspection product for retrieval, tool use, and intermediate results in agent workflows.
+- **Qualified Findings Notebook — “Keep findings connected to their support.”** Build an evidence-centered research workspace where conclusions, assumptions, and reviews remain linked.
+
+<details>
+<summary><strong>All 12 readings for qfn.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+| --- | --- | --- |
+| Quad Flat No-Lead | **Established · [Texas Instruments package reference](https://www.ti.com/packaging/docs/searchtipackages.tsp?packageName=QFN)** identifies QFN packaging; N covers the no-lead descriptor. | A component information and package comparison assistant; electronics designers and hardware research publishers. |
+| Quantized Foundation Networks | **Original brand concept.** Brand tools concerned with compact implementations of foundation-model networks. | A model deployment experiment and evaluation workbench; edge intelligence developers. |
+| Query Flow Navigator | **Original brand concept.** Trace how a question moves through sources, tools, and intermediate steps. | A visual agent research debugger; developer teams operating retrieval and tool workflows. |
+| Quality First Networks | **Original brand concept.** Organize a network of contributors around explicit quality practices. | A collaborative review platform connecting domain experts and project owners; research or production service teams. |
+| Quantum Field Navigator | **Original brand concept.** Explore quantum field theory literature and related learning paths. | A source-linked physics research and education companion; scientific publishers and students. |
+| Question Focused Navigation | **Original brand concept.** Organize an information interface around a user's current research question. | A document and knowledge navigation product for complex collections; libraries and enterprise knowledge teams. |
+| Queue Flow Network | **Original brand concept.** Represent work queues and handoffs as a connected operational system. | A multiagent workflow planning console; organizations coordinating automation and human review. |
+| Qualified Findings Notebook | **Original brand concept.** Preserve findings with their evidence, assumptions, and review status. | A research notebook for analysts who need inspectable conclusions; professional research teams. |
+| Quick Feedback Network | **Original brand concept.** Connect a draft or experiment with timely, relevant reviewers. | A feedback coordination service for prototypes and creative work; product studios and distributed teams. |
+| Quota Fairness Navigator | **Original brand concept.** Explore how limited resources are allocated under explicit rules. | A scenario planning tool for compute or service capacity distribution; platform and operations teams. |
+| Quality Failure Notifications | **Original brand concept.** Turn detected quality issues into actionable, context-rich review messages. | A monitoring and triage layer for selected agent checks; product quality and developer operations teams. |
+| Query Federation Node | **Original brand concept.** Connect a query environment with several separately managed information sources. | A configurable federated retrieval component; enterprise integration and search infrastructure developers. |
+
+**Letter palette:** Q: Quad, Quantized, Query, Quality, Quantum, Qualified; F: Flat, Foundation, Flow, First, Field, Findings; N: No-Lead, Networks, Navigator, Navigation, Notebook, Node.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `qfn.si` can position an SI engineering brand around **quad flat no lead** packaging and the work of making electronics. Texas Instruments documents the package family; NVIDIA's semiconductor materials describe AI in inspection, simulation, and engineering workflows. Those contexts support a proposed independent product that helps engineers connect package documents, design files, and inspection evidence. The domain's specificity is useful: QFN SI could begin with package-level assistance instead of promising an entire chip-design stack. Its wider opportunity includes component selection, board review, manufacturing handoffs, and practical electronics training, with final engineering decisions grounded in the actual design and supplier specifications. [Contexts: TI package information](https://www.ti.com/packaging/docs/searchtipackages.tsp?packageName=QFN), [NVIDIA semiconductor AI workflows](https://www.nvidia.com/en-us/industries/semiconductor/)
 
@@ -2192,11 +3192,46 @@ QFN means **quad flat no lead** in semiconductor packaging terminology; plural a
 </details>
 
 <details>
-<summary><strong>qnh.si</strong> — Intelligent Aviation Learning · <strong>$21,990</strong></summary>
+<summary><strong>qnh.si</strong> — Human handoffs / semantic discovery / procurement agents · <strong>$21,990</strong></summary>
 
 ### qnh.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+QNH already has an aviation identity: it is an altimeter-setting code, not a conventional three-word English initialism. That specialist association can coexist with a much broader independent brand story. [Established context: UK CAA](https://infringements.caa.co.uk/tutorial/altimetry/) The letters also support natural expressions about questions, quality, navigation, negotiation, and human help. These provide different routes into SI products: an evidence-search hub, an agent-to-human handoff layer, or a quotation assistant. The proposed readings below give QNH explicit meanings a buyer could choose and develop; they are original concepts rather than alternate official definitions of the aviation code.
+
+**Strongest naming routes**
+
+- **Questions Need Humans — “Know when to bring someone in.”** A distinctive identity for agent escalation and expert collaboration.
+- **Query Navigation Hub — “Follow the question. Find the evidence.”** A broad discovery brand for knowledge and research products.
+- **Quotation Negotiation Hub — “Compare clearly. Negotiate prepared.”** A focused commercial identity for procurement and supplier workflows.
+
+<details>
+<summary><strong>All 13 readings for qnh.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| QNH altimeter-setting code | **Established · [UK CAA](https://infringements.caa.co.uk/tutorial/altimetry/)** · A conventional aviation code, not a three-word English expansion. | Aviation education agents explaining sourced pressure-setting concepts and instructor scenarios. |
+| Questions Need Humans | **Original brand concept** · Important or unresolved questions deserve a person. | Agent escalation software that prepares a concise evidence packet for a human specialist. |
+| Query Navigation Hub | **Original brand concept** · One place to explore and refine a search. | Semantic discovery agents for research teams, libraries, or enterprise knowledge platforms. |
+| Quality Needs Honesty | **Original brand concept** · Evaluation should show uncertainty and limitations. | Model evaluation products that make test conditions, failures, and reviewer judgments inspectable. |
+| Quick Note Hub | **Original brand concept** · Capture and retrieve small pieces of useful information. | A personal memory agent organizing selected voice notes, meeting fragments, and reminders. |
+| Qualified Network Handoffs | **Original brand concept** · Send a task to a suitably matched participant. | Multi-agent routing tools or expert-service platforms with reviewable assignment criteria. |
+| Quotation Negotiation Hub | **Original brand concept** · Organize offers and proposed negotiation steps. | Procurement agents comparing supplier quotations and drafting questions or counterproposals. |
+| Quiet Neighborhood Help | **Original brand concept** · Practical local assistance with a considerate tone. | Community coordination assistants matching declared needs with nearby participating services. |
+| Quality Notice Handler | **Original brand concept** · Turn quality observations into managed follow-up. | Manufacturing agents summarizing inspection notices and preparing traceable review tasks. |
+| Questions Navigate History | **Original brand concept** · Explore historical collections through a question. | Museum or archive agents linking visitors' questions with cited collection records. |
+| Queries Need Hypotheses | **Original brand concept** · Make an investigation's assumptions explicit. | Research planning copilots connecting questions, hypotheses, evidence, and proposed experiments. |
+| Quests Need Heroes | **Original brand concept** · Give an interactive adventure a memorable cast. | Generative story engines, role-playing companions, and creator tools for game studios. |
+| Quick Nutrition Helper | **Original brand concept** · Make food information and meal organization approachable. | Meal-planning assistants using stated preferences and documented product information. |
+
+**Letter palette:** Q: Questions, Query, Quality, Quick, Qualified, Quotation; N: Need, Navigation, Needs, Note, Network, Negotiation; H: Humans, Hub, Honesty, Handoffs, Help, Handler.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `qnh.si` can give an SI learning and information brand a precise aviation identity. QNH is the altimeter-setting code described by the UK Civil Aviation Authority; it should remain that code rather than receive a fabricated English expansion. The proposed intelligence opportunity is to make aviation concepts and sourced observations easier to understand through tutoring, visualization, and traceable explanations. A focused product could help a learner examine pressure-setting scenarios or help an instructor build exercises. QNH SI would be strongest as an educational or supplementary information identity, with clear separation between training material, current source data, and operational decisions requiring approved procedures. [Context: UK CAA altimetry tutorial](https://infringements.caa.co.uk/tutorial/altimetry/)
 
@@ -2248,11 +3283,45 @@ QNH is an **aviation altimeter-setting code**, rather than an acronym that needs
 </details>
 
 <details>
-<summary><strong>rmq.si</strong> — Intelligent Query Infrastructure · <strong>$39,990</strong></summary>
+<summary><strong>rmq.si</strong> — Research memory / robotic missions / business questions · <strong>$39,990</strong></summary>
 
 ### rmq.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+RMQ already spans more than one precise computing interpretation: range minimum query and range maximum query both appear in primary algorithm research. The different readings show why the letters should not be confined to one narrow implementation. Beyond algorithms, research, robotics, retail, rentals, and revenue planning offer coherent brand directions. Q can name a query, a question, or a queue; those choices change the proposed product from information retrieval to decision support or task coordination. The SI identity could therefore describe a research-memory assistant, a robotic mission dispatcher, or an evidence-led planning tool. Original alternatives below are proposed names, not claimed standard abbreviations.
+
+**Strongest naming routes**
+
+- **Research Memory Queries — “Make previous work answer today's question.”** An SI knowledge product centered on retrievable evidence.
+- **Robotic Mission Queue — “Give every machine a clear next task.”** A separate operational route into fleet orchestration.
+- **Revenue Model Questions — “Test the assumptions behind the plan.”** A business-planning product for founders and venture studios.
+
+<details>
+<summary><strong>All 12 readings for rmq.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Range Minimum Query | **Established · [Dagstuhl research](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CPM.2025.7)** · Find a minimum within a specified array interval. | Algorithm workbenches and specialist query-engineering tools for developers or researchers. |
+| Range Maximum Query | **Established · [LSU author publication](https://repository.lsu.edu/eecs_pubs/2643/)** · Find the maximum and its position within an interval. | Intelligent benchmark assistants and retrieval-engine research products. |
+| Research Memory Queries | **Original brand concept** · Ask questions of a curated research memory. | Agents retrieving cited findings across notes, papers, interviews, and project records. |
+| Robotic Mission Queue | **Original brand concept** · Coordinate proposed tasks for a robot fleet. | Robotics orchestration products for warehouses, inspection operations, or research laboratories. |
+| Research Methods Questions | **Original brand concept** · Start a study by examining its method. | Study-design copilots for research consultancies, education teams, and product researchers. |
+| Revenue Model Questions | **Original brand concept** · Structure the questions behind a business model. | Founder planning assistants connecting assumptions with evidence and proposed tests. |
+| Retail Merchandising Questions | **Original brand concept** · Investigate what to present, group, and replenish. | Store-operations agents helping merchants explore catalog and inventory decisions. |
+| Reliable Message Queues | **Original brand concept** · Build a brand around orderly task and message delivery. | Developer tools for inspecting agent jobs, retries, and queue-processing histories. |
+| Remote Maintenance Queries | **Original brand concept** · Ask targeted questions before arranging maintenance work. | Industrial support assistants linking equipment records with technician review workflows. |
+| Rental Market Questions | **Original brand concept** · Explore a rental decision through relevant questions. | Property discovery or equipment-rental assistants comparing available, documented options. |
+| Risk Mapping Questions | **Original brand concept** · Identify where an organization needs better evidence. | Scenario-planning agents assembling risk registers and questions for responsible reviewers. |
+| Recipe Matching Questions | **Original brand concept** · Find a meal by clarifying available ingredients and preferences. | Conversational cooking planners for consumer apps, retailers, or recipe publishers. |
+
+**Letter palette:** R: Range, Research, Robotic, Revenue, Retail, Reliable; M: Minimum, Maximum, Memory, Mission, Methods, Model; Q: Query, Queries, Queue, Queues, Questions.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `rmq.si` connects **range minimum query** with an SI infrastructure identity around efficient querying and data structures. The connection is more than rhetorical: the published FL-RMQ research explores a learned approach to this particular query problem. A proposed RMQ SI brand could help developers experiment with indexing strategies, understand measured tradeoffs, and connect query behavior with an intelligent application's needs. Its entry point would be specialist tooling, with room to expand into performance evaluation and data-system consultancy. The domain should not imply that an RMQ index provides semantic reasoning; instead, it can represent the engineering layer that helps information-intensive products operate predictably. [Context: FL-RMQ learned data-structure research](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CPM.2025.7)
 
@@ -2304,11 +3373,46 @@ RMQ is an established abbreviation for **range minimum query**, a data-structure
 </details>
 
 <details>
-<summary><strong>tzp.si</strong> — Intelligent Materials Research · <strong>$21,990</strong></summary>
+<summary><strong>tzp.si</strong> — Global scheduling / team agents / practical zoology · <strong>$21,990</strong></summary>
 
 ### tzp.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+TZP has a documented ceramics meaning, but its possible identity extends well beyond materials. There is also a distinct software usage: the icalendar project names its timezone-provider proxy class TZP; that is a project-specific name rather than evidence for an invented three-word expansion. [Additional established context: icalendar](https://icalendar.readthedocs.io/en/latest/reference/api/icalendar.timezone.tzp.html) Natural new readings can address time zones, team spaces, thermal models, transport planning, zoology education, and metal-production records. SI could tie these concepts to agents that coordinate, explain, or model a clearly defined task. The table separates the verified materials term from proposed identities with different audiences and product stories.
+
+**Strongest naming routes**
+
+- **Time Zone Planner — “One conversation. A workable time.”** A practical agent brand for global scheduling.
+- **Team Zone Portal — “Bring the team and its agents together.”** A broader collaborative workspace identity.
+- **Teaching Zoology Practically — “Discover animal science by doing.”** An education route with an entirely different audience.
+
+<details>
+<summary><strong>All 13 readings for tzp.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Tetragonal Zirconia Polycrystal | **Established · [NIST ceramics database](https://srdata.nist.gov/CeramicDataPortal/Elasticity/ZrO2tY)** · A documented zirconia ceramics term. | Materials knowledge assistants and experiment-planning tools for ceramics specialists. |
+| Timezone provider proxy | **Established · [icalendar project](https://icalendar.readthedocs.io/en/latest/reference/api/icalendar.timezone.tzp.html)** · The project's documented `TZP` class; its name is not a conventional three-initial expansion. | Calendar integration copilots inspecting timezone configuration and supported event records. |
+| Time Zone Planner | **Original brand concept** · Coordinate commitments across local times. | Scheduling agents for distributed teams, events, and international client services. |
+| Team Zone Portal | **Original brand concept** · Give a team one coherent working space. | A shared agent workspace joining project knowledge, requests, and reviewable actions. |
+| Thermal Zone Prediction | **Original brand concept** · Model conditions in defined physical zones. | Simulation copilots for building engineers, equipment developers, or process researchers. |
+| Transit Zone Planning | **Original brand concept** · Explore movement through a transport area. | Scenario agents comparing terminal layouts, passenger routes, or service plans. |
+| Travel Zone Personalization | **Original brand concept** · Adapt recommendations to a traveler's selected area. | Destination concierges connecting interests with practical itinerary constraints. |
+| Teaching Zoology Practically | **Original brand concept** · Learn animal science through guided activities. | Adaptive lesson platforms for schools, museums, and wildlife education programs. |
+| Tracking Zinc Production | **Original brand concept** · Organize a metal-production workflow and its records. | Industrial agents summarizing customer-supplied process data, batches, and open questions. |
+| Testing Zirconia Performance | **Original brand concept** · Make experiments and recorded observations easier to inspect. | Laboratory copilots linking test plans, conditions, and measured results. |
+| Twilight Zen Practice | **Original brand concept** · A named evening reflection and practice experience. | Guided journaling or learning companions with a deliberately contemplative identity. |
+| Trust Zone Policies | **Original brand concept** · Express rules for clearly separated operating contexts. | Agent-access policy tools that explain proposed permissions and review boundaries. |
+| Talent Zone Platform | **Original brand concept** · Connect capabilities with suitable opportunities. | Skills-discovery agents for staffing businesses, professional communities, or internal mobility. |
+
+**Letter palette:** T: Tetragonal, Time, Team, Thermal, Transit, Teaching; Z: Zirconia, Zone, Zoology, Zinc, Zen; P: Polycrystal, Planner, Portal, Prediction, Planning, Platform.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `tzp.si` can anchor an SI materials research brand through **tetragonal zirconia polycrystal**. NIST documents relevant zirconia material names, while Google DeepMind's GNoME research provides a broader example of learning applied to materials exploration. That does not establish a particular model's accuracy for a TZP formulation; it supports a credible direction for model-assisted investigation. TZP SI could connect literature, property measurements, processing notes, and proposed experiments within one specialist workspace. A practical starting point would be helping materials teams find and compare evidence, with simulation or predictive services added only where their scope and validation are clearly documented. [Contexts: NIST zirconia data](https://srdata.nist.gov/CeramicDataPortal/Elasticity/ZrO2tY), [DeepMind materials research](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)
 
@@ -2360,11 +3464,46 @@ TZP is used for **tetragonal zirconia polycrystal**, a technical materials term.
 </details>
 
 <details>
-<summary><strong>uxr.si</strong> — Intelligent Experience Research · <strong>$21,990</strong></summary>
+<summary><strong>uxr.si</strong> — User research / XML agents / reporting intelligence · <strong>$21,990</strong></summary>
 
 ### uxr.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+UXR remains recognizable in user experience research, as Microsoft's practitioner discussion demonstrates. [Established context: Microsoft Research](https://www.microsoft.com/en-us/research/articles/how-were-celebrating-user-experience-research-at-microsoft/) That conventional spelling uses X inside experience; its documented meaning belongs alongside a wider range of independent brand directions. Natural new alternatives can use XML, XBRL, X-ray, xenograft, xylem, xenobiotic, xeriscape, and xylophone as the X component. These lead to distinct SI products in document interpretation, scientific research, imaging workflows, landscape planning, and music education. The table preserves the familiar practitioner meaning while clearly marking the new readings as original proposals, rather than additional established industry abbreviations.
+
+**Strongest naming routes**
+
+- **User Experience Research — “Turn observations into decisions you can explain.”** A recognizable practitioner route for research agents and evidence-preserving synthesis tools.
+- **Universal XML Reader — “Ask your structured documents a useful question.”** A developer and enterprise information product.
+- **Universal XBRL Reader — “Make reporting data understandable.”** A distinct route into business research and reporting workflows.
+
+<details>
+<summary><strong>All 13 readings for uxr.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| User Experience Research | **Established · [Microsoft Research](https://www.microsoft.com/en-us/research/articles/how-were-celebrating-user-experience-research-at-microsoft/)** · The conventional UXR practitioner abbreviation uses X from experience. | Research agents organizing studies, participant records, observations, and sourced synthesis. |
+| Universal XML Reader | **Original brand concept** · Make structured documents approachable through questions. | Enterprise agents explaining customer-supplied XML records and their relationships. |
+| Unified XML Repository | **Original brand concept** · Organize structured information in one searchable collection. | Knowledge platforms for integration teams managing schemas, versions, and document evidence. |
+| Universal XBRL Reader | **Original brand concept** · Explore structured reporting through a conversational interface. | Business-information tools for research teams inspecting published reporting data. |
+| Unifying XBRL Reports | **Original brand concept** · Bring related reporting records into an intelligible workspace. | Reporting copilots helping enterprise teams reconcile mappings and document review decisions. |
+| Ultrafast X-Ray Reconstruction | **Original brand concept** · A proposed specialist name for image-reconstruction research tooling. | Scientific software teams comparing algorithms and reproducible experiment results. |
+| Urgent X-Ray Review | **Original brand concept** · Organize an imaging review queue and its supporting material. | Workflow assistants preparing cases for qualified imaging professionals. |
+| Ultrasound X-Ray Repository | **Original brand concept** · A paired-modality archive for selected imaging records. | Research or clinical information teams building searchable image collections. |
+| Unified Xenograft Records | **Original brand concept** · Keep related experimental records connected. | Preclinical research teams developing laboratory documentation and evidence agents. |
+| Understanding Xylem Responses | **Original brand concept** · Frame a plant-science investigation around observed responses. | Research copilots connecting supplied measurements, notes, and experimental questions. |
+| Uncovering Xenobiotic Risks | **Original brand concept** · Organize evidence questions about external chemical exposures. | Literature-review assistants for toxicology researchers and specialist scientific consultancies. |
+| Urban Xeriscape Research | **Original brand concept** · Investigate landscape options for a specific urban setting. | Landscape planning agents comparing sourced planting and maintenance proposals. |
+| Universal Xylophone Resources | **Original brand concept** · Make a focused music-learning collection easy to explore. | Adaptive practice assistants, lesson publishers, and music-school resource platforms. |
+
+**Letter palette:** U: Universal, Unified, Unifying, Ultrafast, Urgent, Understanding; X: XML, XBRL, X-Ray, Xenograft, Xylem, Xylophone; R: Reader, Repository, Reports, Reconstruction, Review, Resources.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `uxr.si` can become an SI brand focused on **user experience research** for intelligent products. Microsoft's current UXR writing discusses a shift toward studying model behavior, human expectations, and the experience created by probabilistic systems. That supplies a direct AI-era context for the domain. The proposed opportunity is a research practice or software product that helps teams understand how people interpret an agent, when they trust it, and where its behavior creates confusion. UXR SI could also use models to organize research evidence while keeping observations traceable to real participants. This positions the brand around the human experience of intelligence rather than generic interface design alone. [Context: Microsoft Design, The Great UXR Transformation](https://microsoft.design/articles/the-great-uxr-transformation/)
 
@@ -2416,11 +3555,45 @@ UXR has an established connection to **user experience research**. Microsoft use
 </details>
 
 <details>
-<summary><strong>vdi.si</strong> — Agent Computing Workspaces · <strong>$31,990</strong></summary>
+<summary><strong>vdi.si</strong> — Verified data / visual design / agent desktops · <strong>$31,990</strong></summary>
 
 ### vdi.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+VDI is already used for two different computing concepts: virtual desktop infrastructure and the Virtual Disk Image format. Those established meanings are useful foundations, but they need not determine every future product under the domain. V can also lead naturally into verified information, visual creativity, voice dialogue, vendor research, vehicles, or video. D can describe data, design, diagnosis, documents, or discovery. With SI as the technology signature, a buyer could choose an evidence-oriented intelligence service, a generative design workspace, or an agent-enabled desktop offering. The table keeps established terminology separate from original names that introduce a different purpose and audience.
+
+**Strongest naming routes**
+
+- **Verified Data Intelligence — “Every answer has an evidence trail.”** An enterprise SI identity centered on inspectable information.
+- **Visual Design Intelligence — “Reason through the brief. Explore the possibilities.”** A separate creative and multimodal product direction.
+- **Virtual Desktop Infrastructure — “Put intelligent assistance inside the workspace.”** A recognizable infrastructure route for managed desktop businesses.
+
+<details>
+<summary><strong>All 12 readings for vdi.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Virtual Desktop Infrastructure | **Established · [IBM](https://www.ibm.com/think/topics/desktop-virtualization)** · A documented desktop virtualization architecture. | Agent-assisted desktop provisioning, troubleshooting, and managed workspace products. |
+| Virtual Disk Image | **Established · [Oracle VirtualBox](https://docs.oracle.com/en/virtualization/virtualbox/6.0/user/vdidetails.html)** · VirtualBox's documented guest-disk container format. | Developer copilots inspecting image inventories, configurations, and migration plans. |
+| Verified Data Intelligence | **Original brand concept** · Make evidence and source status visible in an answer. | Enterprise research agents linking statements with approved data and reviewer decisions. |
+| Visual Design Intelligence | **Original brand concept** · Explore design briefs through images and reasoned alternatives. | Generative design studios, creative-software teams, and brand-system platforms. |
+| Voice Dialogue Interface | **Original brand concept** · Make conversation a useful product control surface. | Voice-agent developers building spoken interfaces for supported business workflows. |
+| Vendor Discovery Intelligence | **Original brand concept** · Find and compare suppliers against an explicit purchasing brief. | Procurement agents assembling sourced supplier candidates, screening criteria, and review packets. |
+| Video Discovery Index | **Original brand concept** · Make a video collection searchable by relevant content. | Multimodal retrieval products for media libraries, education teams, and production studios. |
+| Vision Driven Inspection | **Original brand concept** · Organize inspection observations through supplied visual evidence. | Industrial review assistants proposing classifications and questions for qualified inspectors. |
+| Vehicle Diagnostic Intelligence | **Original brand concept** · Connect vehicle observations with a structured investigation. | Automotive support tools organizing recorded signals, manuals, and technician hypotheses. |
+| Versioned Document Intelligence | **Original brand concept** · Reason across revisions while preserving document history. | Knowledge agents comparing policies, specifications, contracts, and internal reports. |
+| Virtual Demonstration Instructor | **Original brand concept** · Teach a task through an interactive demonstration. | Training-product teams building adaptive walkthroughs and simulated practice sessions. |
+| Venture Decision Insights | **Original brand concept** · Show the evidence and assumptions behind a venture plan. | Founder research copilots and venture studios comparing proposed business scenarios. |
+
+**Letter palette:** V: Virtual, Verified, Visual, Voice, Vendor, Video; D: Desktop, Disk, Data, Design, Dialogue, Discovery; I: Infrastructure, Image, Intelligence, Interface, Index, Inspection.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `vdi.si` can extend its **virtual desktop infrastructure** association into an SI brand for agent computing workspaces. Microsoft documents agents interacting with websites and desktop applications in configured Windows environments, including hosted options that are currently previews. That is a concrete adjacent context, not a claim that all remote computing products are VDI. The proposed brand could focus on giving computer-using agents an organized place to work: task-specific environments, controlled access, observable runs, and clear human handoffs. VDI SI could begin as workspace orchestration and develop into an operational layer for businesses using intelligent software across existing applications. [Contexts: IBM VDI explanation](https://www.ibm.com/think/topics/desktop-virtualization), [Microsoft computer-use environments](https://learn.microsoft.com/en-us/microsoft-copilot-studio/configure-where-computer-use-runs)
 
@@ -2472,11 +3645,45 @@ VDI means **virtual desktop infrastructure**. IBM describes it as a desktop virt
 </details>
 
 <details>
-<summary><strong>vdr.si</strong> — Intelligent Diligence Workspaces · <strong>$31,990</strong></summary>
+<summary><strong>vdr.si</strong> — Data rooms / visual review / voice routing · <strong>$31,990</strong></summary>
 
 ### vdr.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+VDR has unusually varied established contexts: virtual data rooms, voyage data recorders, and the vitamin D receptor. Each belongs to a different professional audience, so no single industry should exhaust the domain's possibilities. Original readings can also describe verified retrieval, visual review, voice routing, documentary research, and recorded decisions. These make SI relevant through a specific product task rather than through a generic intelligence label. A buyer could choose a deal-preparation agent, a design review studio, or a conversational routing layer. The established rows identify documented terminology; the remaining alternatives are independent naming proposals with distinct workflows and intended buyers.
+
+**Strongest naming routes**
+
+- **Verified Data Retrieval — “Find the answer and its support.”** An evidence-focused search and SI infrastructure identity.
+- **Visual Design Review — “Review the work against the brief.”** A creative workflow product with a different customer base.
+- **Voice Dialogue Router — “The right conversation, in the right hands.”** A routing and escalation brand for voice-agent platforms.
+
+<details>
+<summary><strong>All 12 readings for vdr.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Virtual Data Room | **Established · [Datasite](https://www.datasite.com/en/company/about)** · A documented document-sharing category used in transaction preparation. | Due-diligence agents organizing evidence, document questions, and controlled reviewer workflows. |
+| Voyage Data Recorder | **Established · [IMO](https://www.imo.org/en/ourwork/safety/pages/vdr.aspx)** · A documented maritime recording-system term. | Maritime research tools indexing supplied voyage records and investigation material. |
+| Vitamin D Receptor | **Established · [NCBI gene record](https://www.ncbi.nlm.nih.gov/gene/7421/)** · The official full name associated with the human VDR gene. | Scientific literature and experiment-record agents for molecular research teams. |
+| Verified Data Retrieval | **Original brand concept** · Retrieve information with an inspectable evidence trail. | Grounded enterprise search products that preserve sources and review status. |
+| Visual Design Review | **Original brand concept** · Examine a design against an explicit brief. | Multimodal review copilots for creative agencies, product teams, and design studios. |
+| Voice Dialogue Router | **Original brand concept** · Send a conversation to the appropriate workflow. | Voice-agent orchestration products coordinating specialist assistants and human handoffs. |
+| Video Documentary Research | **Original brand concept** · Connect footage and notes with documentary questions. | Media-research agents assembling cited production briefs and relevant clip collections. |
+| Vendor Document Review | **Original brand concept** · Organize and examine a supplier's submitted information. | Procurement platforms preparing document comparisons and unresolved reviewer questions. |
+| Vehicle Damage Review | **Original brand concept** · Prepare visual damage observations for a responsible reviewer. | Automotive inspection workflow tools for repair businesses and fleet operators. |
+| Virtual Debate Room | **Original brand concept** · Explore competing arguments in a shared workspace. | Learning platforms or facilitation tools that separate claims, evidence, and viewpoints. |
+| Venture Discovery Radar | **Original brand concept** · Track sourced signals around a proposed business opportunity. | Research agents for founders, corporate innovation teams, and specialist consultancies. |
+| Versioned Decision Records | **Original brand concept** · Preserve how an important decision changed over time. | Agent audit workspaces connecting proposals, evidence, approvals, and later revisions. |
+
+**Letter palette:** V: Virtual, Voyage, Vitamin, Verified, Visual, Voice; D: Data, D, Design, Dialogue, Documentary, Decision; R: Room, Recorder, Receptor, Retrieval, Review, Router.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `vdr.si` can position **virtual data rooms** as intelligent diligence workspaces. Datasite's 2026 announcement with Legora describes AI analysis of data-room documents with existing permissions carried into the integration, demonstrating a direct category connection. An independent VDR SI brand could help teams assemble evidence, identify unanswered questions, and coordinate document review within controlled access boundaries. Its strongest proposition would connect answers with the exact source documents and support professional judgment rather than claim to decide a transaction. The name could accommodate fundraising preparation, acquisition diligence, or adviser collaboration, with a clear buyer segment and a focused workflow. [Context: Datasite and Legora AI diligence integration](https://www.datasite.com/en/company/news/datasite-and-legora-platforms-integrate-to-accelerate-ai-powered-diligence-across-the-deal-lifecycle)
 
@@ -2528,11 +3735,45 @@ VDR stands for **virtual data room**, an established category for controlled doc
 </details>
 
 <details>
-<summary><strong>xlf.si</strong> — Frontier Intelligence Studio · <strong>$21,990</strong></summary>
+<summary><strong>xlf.si</strong> — Scientific research / localization / music learning · <strong>$21,990</strong></summary>
 
 ### xlf.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+XLF can carry genuine scientific associations as well as an independent letter-brand identity. Primary research uses it for XRCC4-like factor in molecular biology and X-ray luminosity function in astronomy. Neither field prevents a buyer from choosing a separate, clearly described product story. The X component can begin naturally with XML, xenon, xylophone, xylem, xenograft, or xeriscape, avoiding artificial spellings that merely hide an X inside another word. L and F then open routes into literature discovery, localization, lessons, laboratory records, lighting, and layout design. SI could connect those names with research agents, creative tools, or specialized learning products.
+
+**Strongest naming routes**
+
+- **XML Localization Framework — “Keep structure. Adapt the message.”** A practical agent product for multilingual content teams.
+- **Xylophone Lesson Finder — “Find the next lesson that fits.”** A distinct consumer and music-school discovery identity.
+- **X-Ray Luminosity Function — “Explore the evidence across the sky.”** A specialist scientific computing and research route.
+
+<details>
+<summary><strong>All 12 readings for xlf.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| XRCC4 Like Factor | **Established · [Primary molecular research](https://pmc.ncbi.nlm.nih.gov/articles/PMC3173232/)** · The research name is written XRCC4-like factor and abbreviated XLF. | Literature and experiment-record agents for molecular biology researchers. |
+| X-Ray Luminosity Function | **Established · [Author research paper](https://arxiv.org/abs/0811.1450)** · An astronomy term explicitly abbreviated XLF. | Scientific analysis workspaces organizing survey data, assumptions, and reproducible comparisons. |
+| Xenobiotic Literature Finder | **Original brand concept** · Explore a focused chemical-research literature collection. | Evidence discovery agents for toxicology researchers and specialist science publishers. |
+| Xylophone Lesson Finder | **Original brand concept** · Find suitable lessons and learning resources. | Music education agents matching learners with teachers, exercises, and stated goals. |
+| Xenon Lighting Fixtures | **Original brand concept** · Give a specialist lighting offering a descriptive identity. | Product-selection assistants for a defined fixture catalog and documented technical requirements. |
+| Xylem Learning Framework | **Original brand concept** · Organize a plant-science learning experience. | Adaptive botanical lessons for education publishers, museums, or specialist training teams. |
+| Xenograft Laboratory Files | **Original brand concept** · Keep a research program's related documents connected. | Laboratory knowledge agents organizing supplied protocols, notes, and recorded observations. |
+| X-Ray Learning Framework | **Original brand concept** · Make scientific imaging concepts approachable through structured practice. | Education publishers and research teams building image-based lessons, annotated examples, and guided exercises. |
+| Xenon Laboratory Feedback | **Original brand concept** · Connect laboratory observations with an organized feedback process. | Experiment assistants summarizing instrument records and proposed follow-up checks. |
+| Xeriscape Layout Forge | **Original brand concept** · Develop landscape layout concepts around a selected project brief. | Generative planning tools for landscape designers using supplied site information. |
+| XML Localization Framework | **Original brand concept** · Coordinate translation and review of structured content. | Localization agents for documentation teams, software vendors, and content-platform developers. |
+| XML Log Forensics | **Original brand concept** · Investigate structured logs through an evidence-preserving workflow. | Developer agents explaining recorded events and assembling traceable debugging hypotheses. |
+
+**Letter palette:** X: XRCC4, X-Ray, Xenobiotic, Xylophone, Xenon, XML; L: Like, Luminosity, Literature, Lesson, Lighting, Localization; F: Factor, Function, Finder, Fixtures, Framework, Forensics.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `xlf.si` is an **abstract letter brand** that can be developed as XLF Super Intelligence, without claiming a verified generic acronym expansion. Its opportunity is a distinct identity spanning several related intelligence products rather than a name inherited from one technical category. A founder could choose a specific organizing idea, such as intelligent engineering or research infrastructure, and establish that meaning through products and a clear tagline. NVIDIA's semiconductor engineering material offers one concrete example of an adjacent field exploring agent-assisted workflows; it is context for a possible independent XLF direction, not a relationship or endorsement. [Context: AI-assisted engineering workflows](https://www.nvidia.com/en-us/industries/semiconductor/)
 
@@ -2584,11 +3825,48 @@ Founders seeking an independent SI parent brand, intelligent engineering studios
 </details>
 
 <details>
-<summary><strong>zcl.si</strong> — Intelligent Connected Devices · <strong>$21,990</strong></summary>
+<summary><strong>zcl.si</strong> — App-building agents / context memory / creative intelligence · <strong>$21,990</strong></summary>
 
 ### zcl.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+ZCL has a verified connected-device meaning, Zigbee Cluster Library, alongside substantial possibilities in independent SI brands. Zero can express an ambitious product vision for application creation or continuity of context; those names describe a direction, not an achieved performance guarantee. Zone and zonal suggest scoped operations; zipped suggests organized collections. Zen and zesty support expressive creative and consumer identities, while zinc, zirconia, and zoological point toward specialist research. A buyer could choose an application-building agent, a memory infrastructure product, a creative lab, or a device-control layer. The established protocol reading is documented; the other entries are independently proposed product and brand concepts.
+
+**Strongest naming routes**
+
+- **Zero Code Launch — “Describe the product. Shape the first working version.”** An SI application studio for founders and internal product teams.
+- **Zero Context Loss — “Keep the thread of the task.”** An aspirational brand for agent memory, retrieval, and recovery infrastructure.
+- **Zen Creative Lab — “Give an idea room to become something.”** A distinct generative media and collaborative creation identity.
+
+<details>
+<summary><strong>All 15 readings for zcl.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Zigbee Cluster Library | **Established · [Silicon Labs](https://docs.silabs.com/zigbee/8.2.0/zigbee-fundamentals/06-zigbee-cluster-library)** · A documented connected-device protocol library term. | Developer copilots explaining supported clusters, captured messages, and integration questions. |
+| Zero Code Launch | **Original brand concept** · An aspirational name for taking a product brief toward a usable application. | App-building agents preparing interfaces, workflows, previews, and reviewable changes for founders or internal teams. |
+| Zero Context Loss | **Original brand concept** · A continuity-focused vision for retaining useful task context. | Agent-memory infrastructure organizing histories, retrieval, checkpoints, and recovery, without promising perfect retention. |
+| Zen Creative Lab | **Original brand concept** · Give deliberate creative exploration a calm, memorable studio identity. | Multimodal co-creation tools developing visual concepts, sound, narratives, and brand experiments from a brief. |
+| Zone Control Layer | **Original brand concept** · Coordinate actions within defined operating areas. | Agent control software for buildings, laboratories, or customer-managed device fleets. |
+| Zonal Capacity Ledger | **Original brand concept** · Make available resources visible by operating zone. | Planning agents comparing warehouse space, compute capacity, or declared service availability. |
+| Zoning Consultation Library | **Original brand concept** · Organize a collection of planning information and expert explanations. | Property research agents retrieving cited local material for professional review. |
+| Zipped Content Library | **Original brand concept** · Turn selected archived material into a useful collection. | Knowledge agents indexing customer-supplied compressed files and their original documents. |
+| Zoological Camera Logs | **Original brand concept** · Keep observation imagery connected with contextual records. | Wildlife research assistants organizing supplied camera collections and reviewable observations. |
+| Zinc Circularity Ledger | **Original brand concept** · Track documented material movements through an industrial cycle. | Industrial evidence agents for recyclers, manufacturers, and material-accounting teams. |
+| Zirconia Characterization Lab | **Original brand concept** · Give a specialist materials workflow a focused identity. | Laboratory agents connecting experiment plans, test conditions, and recorded measurements. |
+| Zen Conversation Lounge | **Original brand concept** · A deliberately reflective conversational experience. | Journaling companions, moderated discussion products, or contemplative learning communities. |
+| Zesty Cooking Lessons | **Original brand concept** · An energetic identity for practical cooking instruction. | Adaptive recipe lessons and multimodal cooking coaches for publishers or culinary schools. |
+| Zodiac Culture Library | **Original brand concept** · Explore cultural records, imagery, and historical interpretations. | Museum or humanities discovery agents organizing cited educational collections. |
+| Zebra Conservation Lab | **Original brand concept** · A focused animal-research and education identity. | Observation-record agents or interactive learning tools for conservation organizations. |
+
+**Letter palette:** Z: Zigbee, Zero, Zen, Zone, Zipped, Zesty; C: Cluster, Code, Context, Creative, Control, Content; L: Library, Launch, Loss, Lab, Layer, Lessons.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `zcl.si` can connect the **Zigbee Cluster Library** with an SI brand for intelligent connected devices. Silicon Labs documents the cluster model used to organize device messages and functions, providing a concrete technical foundation. The proposed opportunity is a translation layer between human intent, model reasoning, and supported device operations. A focused product could explain what a device can do, inspect communication evidence, or draft a configuration for review. ZCL SI would be strongest when it makes protocol boundaries explicit instead of allowing free-form model output to masquerade as a valid device command. Its identity could expand into broader connected-building and embedded-system tooling. [Context: Silicon Labs cluster library documentation](https://docs.silabs.com/zigbee/8.2.0/zigbee-fundamentals/06-zigbee-cluster-library)
 
@@ -2640,11 +3918,48 @@ ZCL denotes the **Zigbee Cluster Library**. Silicon Labs' developer documentatio
 </details>
 
 <details>
-<summary><strong>zfp.si</strong> — Intelligent Protein Research · <strong>$21,990</strong></summary>
+<summary><strong>zfp.si</strong> — Agent platforms / fleet planning / personal focus · <strong>$21,990</strong></summary>
 
 ### zfp.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+ZFP has a molecular biology meaning, zinc finger protein, and a separate established software-name usage: LLNL's zfp library handles compressed numerical arrays. Neither usage supplies an exclusive definition for a new independent brand. A buyer could instead emphasize zonal fleet planning, a focus partner, zoning feasibility, laboratory fabrication, field observations, or file processing. These alternatives keep SI tied to a concrete job and a particular audience. The contrast between a research portal, a logistics planner, and a personal companion illustrates the domain's broader naming room. Verified contexts are identified below; invented expansions remain explicitly labeled original concepts with no implied connection to the existing software project.
+
+**Strongest naming routes**
+
+- **Zero Friction Platforms — “Let coordinated agents handle the routine.”** An aspirational SI software identity centered on reducing avoidable steps across business workflows.
+- **Zonal Fleet Planner — “Plan the work where it happens.”** An agent product with a clear operational customer.
+- **Zen Focus Partner — “Make room for the work that matters.”** A different personal productivity and companion identity.
+
+<details>
+<summary><strong>All 15 readings for zfp.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Zinc Finger Protein | **Established · [Primary molecular research](https://pmc.ncbi.nlm.nih.gov/articles/PMC1538883/)** · A documented protein-research term abbreviated ZFP. | Molecular research agents retrieving literature and organizing experimental evidence. |
+| zfp compression library | **Established · [LLNL project](https://computing.llnl.gov/projects/zfp)** · A documented software name, not a claimed three-word expansion. | Independent scientific-computing tools for evaluating customer-selected numerical data workflows. |
+| Zero Friction Platforms | **Original brand concept** · An aspirational name for reducing unnecessary workflow steps. | Agent-first business software that prepares coordinated actions for the user's review. |
+| Zero Fuss Publishing | **Original brand concept** · An approachable vision for simplifying an editorial workflow. | Content agents preparing drafts, source checks, accessibility suggestions, and channel-specific publication packages for review. |
+| Zero Friction Prototyping | **Original brand concept** · An aspirational identity for moving quickly from a brief to a testable concept. | Generative product studios proposing screens, interactions, and experiment plans without guaranteeing an effortless process. |
+| Zonal Fleet Planner | **Original brand concept** · Coordinate vehicles or robots by operating area. | Dispatch proposal agents for warehouses, delivery operators, or inspection teams. |
+| Zen Focus Partner | **Original brand concept** · A measured identity for intentional work support. | Personal agents organizing priorities, selected information, and realistic work sessions. |
+| Zoning Feasibility Planner | **Original brand concept** · Assemble the questions behind a proposed property use. | Planning research tools retrieving cited local records for responsible professional review. |
+| Zirconia Fabrication Planner | **Original brand concept** · Turn documented material requirements into a manufacturing discussion. | Engineering agents preparing process questions, part briefs, and quotation comparisons. |
+| Zinc Flow Predictor | **Original brand concept** · A proposed modeling brand around an industrial material stream. | Scenario-analysis tools using customer-supplied production data and explicit assumptions. |
+| Zoological Field Portal | **Original brand concept** · Connect field observations with an organized research workspace. | Multimodal data-entry and evidence agents for wildlife researchers. |
+| Zipped File Processor | **Original brand concept** · Make a selected compressed-file collection easier to handle. | Document-ingestion agents that inventory files and prepare supported processing tasks. |
+| Zesty Food Pairings | **Original brand concept** · Explore enjoyable combinations through a conversational food product. | Meal and ingredient-pairing assistants for culinary publishers, retailers, or consumer apps. |
+| Zonal Fulfillment Platform | **Original brand concept** · Coordinate stock and work across fulfillment areas. | Retail operations agents proposing order allocations and explaining capacity constraints. |
+| Zodiac Folklore Publisher | **Original brand concept** · An editorial identity for cultural stories and imagery. | Generative educational content studios using cited historical and artistic source material. |
+
+**Letter palette:** Z: Zinc, Zero, Zonal, Zen, Zoning, Zoological; F: Finger, Friction, Fuss, Fleet, Focus, Field; P: Protein, Platforms, Publishing, Prototyping, Planner, Partner.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `zfp.si` can create an SI research identity around **zinc finger proteins** and molecular investigation. The original ZFP literature supplies the specific association; AlphaFold provides a broader example of AI models used to investigate protein structures and interactions. These sources do not establish the performance of a proposed ZFP product. The branding opportunity is a specialist workspace that helps researchers connect sequences, structures, publications, and experiment evidence. ZFP SI could begin with literature and data organization, then develop model-assisted research tools with clearly stated scope. This gives the name a scientific identity while keeping proposed biological hypotheses separate from experimentally supported findings. [Contexts: primary ZFP research](https://pmc.ncbi.nlm.nih.gov/articles/PMC1538883/), [DeepMind AlphaFold research context](https://deepmind.google/science/alphafold/)
 
@@ -2696,11 +4011,47 @@ ZFP is used for **zinc finger protein** in molecular biology. A primary research
 </details>
 
 <details>
-<summary><strong>zld.si</strong> — Intelligent Water Engineering · <strong>$31,990</strong></summary>
+<summary><strong>zld.si</strong> — Durable memory / logistics dispatch / generative home design · <strong>$31,990</strong></summary>
 
 ### zld.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+ZLD is established in industrial water treatment, and a submitted architectural drawing provides a separate, local use for zone lot depth. The latter is a project-specific drawing abbreviation rather than a universal planning convention. Independent readings can also emphasize durable data, dispatch, zoning, learning, and living-space design. Zero Lost Data supplies an aspirational story for persistence and recovery; Zen Living Design suggests a thoughtful generative home workspace. Neither name establishes a product's technical performance. SI could connect these identities with memory services, logistics agents, visual planning, or adaptive instruction. Selecting a natural expression gives each route its own task, customer, and product story.
+
+**Strongest naming routes**
+
+- **Zero Lost Data — “Build memory that can be recovered.”** An aspirational naming route for agent persistence, evidence preservation, and backup products.
+- **Zonal Logistics Dispatcher — “Give each area a workable plan.”** A concrete logistics and operations-agent identity.
+- **Zen Living Design — “Imagine a space that fits your life.”** A separate generative home design and visual planning route.
+
+<details>
+<summary><strong>All 14 readings for zld.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Zero Liquid Discharge | **Established · [Veolia](https://www.veoliawatertech.com/en/expertise/applications/zero-liquid-discharge-solutions)** · A documented industrial water-treatment term. | Process research agents and project evidence workspaces for water-treatment specialists. |
+| Zone Lot Depth | **Established · [Winter Park submitted drawing](https://wpgov.com/wp-content/uploads/2021/07/07-13-21-web.pdf)** · ZLD appears in this planning document's abbreviation legend. | Drawing-review assistants that explain project-specific labels and associated dimensions. |
+| Zero Lost Data | **Original brand concept** · An aspirational identity centered on retaining and recovering useful information. | Agent-memory or backup products organizing checkpoints, provenance, and restoration workflows without promising zero loss. |
+| Zen Living Design | **Original brand concept** · Explore a living space through a calm, considered design conversation. | Multimodal home-design agents proposing layouts, lighting, furnishings, and mood boards against a user's brief. |
+| Zonal Logistics Dispatcher | **Original brand concept** · Assign proposed delivery work within defined areas. | Dispatch agents for fleets, warehouses, and local service businesses. |
+| Zoning Layout Designer | **Original brand concept** · Explore layouts against a project's documented planning constraints. | Generative site-planning workspaces for architects and development teams. |
+| Zoning Law Digest | **Original brand concept** · Make a selected collection of planning rules easier to inspect. | Cited research assistants for planners, property advisers, and local information publishers. |
+| Zipped Ledger Data | **Original brand concept** · Organize archived transactional records for examination. | Enterprise agents inventorying supplied files and preparing evidence-linked summaries. |
+| Zen Learning Design | **Original brand concept** · A considered identity for deliberate, well-paced instruction. | Adaptive course-design copilots for educators and independent learning studios. |
+| Zoological Literature Discovery | **Original brand concept** · Find relevant evidence across an animal-science collection. | Specialist research agents for laboratories, libraries, and science publishers. |
+| Zonal Lighting Design | **Original brand concept** · Explore illumination concepts by room or operating area. | Visual planning assistants preparing briefs and alternatives for lighting designers. |
+| Zesty Lunch Discovery | **Original brand concept** · An approachable name for finding a satisfying midday meal. | Food discovery agents comparing preferences, available menus, and practical constraints. |
+| Zirconia Laboratory Dossiers | **Original brand concept** · Connect materials records into a coherent project file. | Laboratory agents organizing sample histories, certificates, and test reports. |
+| Zebra Learning Diaries | **Original brand concept** · A playful learning-journal identity. | Child-focused education products helping learners reflect on activities and progress. |
+
+**Letter palette:** Z: Zero, Zone, Zonal, Zoning, Zen, Zoological; L: Liquid, Lot, Lost, Living, Logistics, Learning; D: Discharge, Depth, Data, Design, Dispatcher, Discovery.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `zld.si` can anchor an SI engineering brand around **zero liquid discharge** and industrial water systems. Veolia describes the ZLD treatment objective and, separately, AI and digital-twin approaches in wastewater plant operations. Together they support a proposed direction for model-assisted water engineering without proving performance for a particular ZLD installation. ZLD SI could help operators connect measurements, process documentation, and maintenance evidence, or help engineers compare explicitly defined project scenarios. The useful product story is informed investigation and decision support. Its identity should retain the distinction between reducing liquid discharge and eliminating every waste stream or environmental impact. [Contexts: Veolia ZLD overview](https://www.veoliawatertech.com/en/expertise/applications/zero-liquid-discharge-solutions), [water plant digital intelligence](https://www.veoliawatertechnologies.com/en/hubgrade-wastewater-plant-performance-digital-solution)
 
@@ -2752,11 +4103,47 @@ ZLD means **zero liquid discharge** in industrial water treatment. Veolia explai
 </details>
 
 <details>
-<summary><strong>zlp.si</strong> — Intelligent Spectroscopy Research · <strong>$21,990</strong></summary>
+<summary><strong>zlp.si</strong> — Portable agents / durable workflows / intelligent learning · <strong>$21,990</strong></summary>
 
 ### zlp.si
 
-**Super Intelligence positioning**
+**Broader acronym and brand readings**
+
+ZLP already belongs to two distinct technical settings: a zero-loss peak in spectroscopy and a zero-length packet in USB documentation. Those established readings are useful for scientific or embedded-software buyers, but neither needs to define every brand built on the domain. Zonal planning, zoning information, learning platforms, log parsing, literature discovery, metal lifecycle work, and lunch planning all offer natural alternatives. SI could give these names a concrete agent story spanning operations, research, education, and everyday assistance. The table preserves the verified terms while separating original concepts intended to demonstrate wider naming opportunities rather than assert additional conventional abbreviations.
+
+**Strongest naming routes**
+
+- **Zero Lock-in Platform — “Keep a path to your next model.”** An aspirational portability and developer infrastructure identity.
+- **Zero Lost Progress — “Resume with the work in view.”** A persistence and checkpointing brand for long-running agent workflows.
+- **Zen Learning Platform — “Understand more, one useful step at a time.”** A consumer or institutional learning brand.
+
+<details>
+<summary><strong>All 14 readings for zlp.si</strong></summary>
+
+| Reading | Interpretation | Possible SI product / buyer |
+|---|---|---|
+| Zero Loss Peak | **Established · [Gatan EELS.info](https://www.eels.info/Technologies/EELS-Techniques/Spectroscopy)** · A documented spectroscopy term, commonly written zero-loss peak. | Scientific analysis agents organizing spectra, acquisition records, and processing comparisons. |
+| Zero Length Packet | **Established · [Microchip documentation](https://onlinedocs.microchip.com/oxy/GUID-C431CD9B-65A0-4015-871C-58A444612066-en-US-2/GUID-66280932-EC35-47BB-B311-E1AFC2F056DB.html)** · A documented USB transfer term abbreviated ZLP. | Embedded-development copilots explaining captured traffic and preparing firmware review questions. |
+| Zero Lock-in Platform | **Original brand concept** · An aspirational identity for keeping a user's workflow portable. | Developer platforms for exporting agent configurations, switching supported models, and inspecting migration dependencies. |
+| Zero Lost Progress | **Original brand concept** · A continuity-oriented vision for resuming work from useful checkpoints. | Long-running agent tools recording task state, proposed actions, and recovery points without promising perfect preservation. |
+| Zonal Logistics Planner | **Original brand concept** · Prepare movement and capacity proposals for defined areas. | Logistics agents for warehouse, delivery, and service-routing teams. |
+| Zoning Law Portal | **Original brand concept** · Find relevant local planning information through a clear interface. | Cited property research agents for professional users and information publishers. |
+| Zen Learning Platform | **Original brand concept** · A deliberate, well-paced learning identity. | Adaptive tutors and course platforms centered on manageable progress and clear explanations. |
+| Zipped Log Parser | **Original brand concept** · Investigate archived operational records. | Developer agents indexing supplied logs and preparing source-linked debugging summaries. |
+| Zoological Literature Portal | **Original brand concept** · Make an animal-science collection searchable and understandable. | Literature assistants for researchers, museums, and specialist education businesses. |
+| Zinc Lifecycle Planning | **Original brand concept** · Explore a material's documented handling and recovery stages. | Industrial scenario agents for production, recycling, and material-accounting teams. |
+| Zirconia Laboratory Platform | **Original brand concept** · Unite a specialist materials research workflow. | Laboratory copilots linking sample records, test plans, and measured outcomes. |
+| Zesty Lunch Planner | **Original brand concept** · Plan a midday meal around practical preferences. | Consumer food assistants, workplace catering tools, or conversational retailer services. |
+| Zodiac Learning Path | **Original brand concept** · An educational journey through cultural traditions and imagery. | Humanities learning agents presenting cited history and interpretive source material. |
+| Zebra Literacy Playground | **Original brand concept** · A playful identity for reading and language practice. | Adaptive storytelling and literacy tools for families, schools, or education publishers. |
+
+**Letter palette:** Z: Zero, Zonal, Zoning, Zen, Zipped, Zoological; L: Loss, Length, Lock-in, Lost, Learning, Log; P: Peak, Packet, Platform, Progress, Planner, Portal.
+
+</details>
+
+---
+
+**A developed Super Intelligence route**
 
 `zlp.si` offers a specific SI scientific brand around the **zero-loss peak** in electron energy-loss spectroscopy. This has a particularly direct learning connection: Roest and colleagues published a machine-learning approach for determining the ZLP with uncertainty estimates and made their work available through EELSfitter. The proposed brand could develop an independent spectroscopy workspace that helps researchers inspect spectra, record processing choices, and compare analysis evidence. It might start with reproducibility and visualization before adding specialized model services. ZLP SI would communicate intelligence applied to measurement interpretation, with predicted quantities and uncertainty kept visible rather than replaced by an unexplained generated conclusion. [Context: original EELS machine-learning research](https://arxiv.org/abs/2009.05050)
 
@@ -2837,7 +4224,9 @@ The domain ownership transfer is handled through the registrar under the [.si re
 
 The policy and branding developments linked at the top provide current context for this naming thesis. The executive order concerns terminology within the U.S. executive branch. The verified SpaceXSI evidence concerns Musk's public response and the official X profile. These developments give SI a visible brand context; a terminology change alone does not establish scientific superintelligence or predict a domain's resale price.
 
-The entries explore the value of the **name itself**: clarity of meaning, brevity, relevance to a buyer's field, and room for an SI product family to grow. Linked sources verify word meanings, technical concepts, and relevant capabilities of existing tools. All proposed SI products and business models are original ideas for a future owner; they are not descriptions of businesses currently operating on these domains.
+The entries explore the value of the **name itself**: clarity of meaning, brevity, several plausible interpretations, relevance to different buyers, and room for an SI product family to grow. A documented acronym is one possible reading, not a restriction on what a future owner can build. Linked sources verify word meanings, established expressions, technical concepts, and relevant capabilities of existing tools.
+
+**Established** readings describe meanings supported by their linked sources. **Original brand concept** readings are proposed names, phrases, metaphors, and business positions in this collection; the label does not claim exclusive ownership or first use of an expression. Recommendations favor understandable language, a clear product promise, and a specific audience. All proposed SI products and business models are ideas for a future owner; they are not descriptions of businesses currently operating on these domains.
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
