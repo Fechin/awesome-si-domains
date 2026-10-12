@@ -2,7 +2,7 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 44 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 43 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
 **[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
@@ -70,11 +70,11 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**44 domains · 421 meanings and brand readings · 132 recommended naming routes**
+**43 domains · 415 meanings and brand readings · 129 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
-| **[English words](#english-words)** | 8 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
+| **[English words](#english-words)** | 7 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
 | **[Brandable names](#brandable-names)** | 14 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
 | **[Three-letter names](#three-letter-names)** | 22 | Documented acronyms plus original phrase expansions spanning agents, data, creativity, enterprise, and science. |
 
@@ -87,12 +87,11 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ## English words
 
-Eight recognizable words with multiple meanings, expressions, and metaphors for SI products. Compare the human ideas each name can carry.
+Seven recognizable words with multiple meanings, expressions, and metaphors for SI products. Compare the human ideas each name can carry.
 
 | Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
 | **cues.si** | $75,990 | Signals / performance / guided action | [View listing](https://www.dynadot.com/market/user-listings/cues.si) |
-| **dibs.si** | $39,990 | Claims / preference discovery / shared access | [View listing](https://www.dynadot.com/market/user-listings/dibs.si) |
 | **doze.si** | $21,990 | Rest / quiet computing / creative incubation | [View listing](https://www.dynadot.com/market/user-listings/doze.si) |
 | **dues.si** | $21,990 | Membership / earned recognition / obligations | [View listing](https://www.dynadot.com/market/user-listings/dues.si) |
 | **hues.si** | $59,990 | Color / viewpoints / expressive identities | [View listing](https://www.dynadot.com/market/user-listings/hues.si) |
@@ -197,100 +196,7 @@ The appeal rests on a compact word with several coherent meanings, allowing buye
 
 </details>
 
-<details>
-<summary><strong>dibs.si</strong> — Claims / preference discovery / shared access · <strong>$39,990</strong></summary>
 
-### dibs.si
-
-**Broader meanings and brand readings**
-
-Dibs SI can move beyond shopping into the larger question of who wants what, and how a choice becomes an organized claim. Its informal tone can make reservations, resource allocation, and community participation feel approachable. Different stories are possible: personal preference discovery, shared access, an agent acting on stated wishes, or demand gathered before something is offered. A focused product could emphasize one route while retaining the same concise identity for related tools. The brand's central action would remain easy to explain.
-
-**Strongest naming routes**
-
-- **Preference-led commerce:** “Find your first choice.” SI that helps shoppers articulate and compare preferences.
-- **Shared resources:** “A fair place to call dibs.” An approachable identity for organized access.
-- **Opportunity matching:** “Claim a place to contribute.” A brand for participation, projects, and community roles.
-
-<details>
-<summary><strong>All 6 readings for dibs.si</strong></summary>
-
-| Reading / metaphor | Interpretation | Possible SI product / buyer |
-| --- | --- | --- |
-| **Established — first claim or choice** | Dibs expresses priority in having or choosing something. [Oxford](https://www.oxfordlearnersdictionaries.com/us/definition/english/dibs). | Reservations and limited-release commerce. |
-| **Original brand concept — preference lens** | Intelligence that helps a person discover which option they actually want. | Conversational discovery; retailers and experience platforms. |
-| **Original brand concept — shared access** | A friendly way to organize competing requests for common resources. | Clubs, workplaces, libraries, and equipment-sharing services. |
-| **Original brand concept — representative agent** | An assistant preparing a claim or request from the user's instructions. | Commerce agents and customer-service tools. |
-| **Original brand concept — demand first** | Gather expressions of interest before deciding what to supply. | Community buying, creators, and small-batch businesses. |
-| **Original brand concept — opportunity board** | Help people select a role, task, or open place they can contribute to. | Volunteer groups, project teams, and student communities. |
-
-</details>
-
----
-
-**A developed Super Intelligence route**
-
-Read as **Dibs SI**, the domain suggests intelligence that helps people find something worth choosing. The familiar idea of calling dibs gives a commerce or discovery product a friendly action-oriented identity: understand what someone wants, compare suitable possibilities, and help them express a choice. An SI brand could focus on interpreting preferences across budget, availability, style, or practical constraints, then presenting options with understandable reasons. The name could support consumer shopping, shared-resource services, or business sourcing, with the product's chosen category defining what users are claiming and how decisions lead to reviewed actions.
-
-**SI product directions**
-
-1. **Intent Finder:** Translate a conversational shopping request into explicit preferences and useful search filters.
-2. **Release Scout:** Compare upcoming product releases against a user's stated interests and spending limits.
-3. **Reservation Companion:** Shortlist suitable appointment or experience options before a user confirms a booking.
-4. **Gift Matcher:** Suggest gifts from recipient information, shared wishlists, and a chosen budget.
-5. **Swap Matchmaker:** Propose compatible exchanges from items community members have offered or requested.
-6. **Supply Picker:** Compare supplier catalogues against a business's specified requirements and purchasing constraints.
-7. **Experience Curator:** Assemble local activity suggestions around group interests, timing, and accessibility preferences.
-8. **Waitlist Planner:** Help organizers group interest requests and draft availability notifications for review.
-
-**SI buyer fit**
-
-Commerce-agent startups, marketplace builders, discovery platforms, reservation tools, and sourcing-software teams wanting an approachable SI brand.
-
-**Technical context:** Neural collaborative filtering research studies learning user–item relationships for recommendation from interaction data. [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031).
-
----
-
-**Description**
-
-Dibs is a four-letter English word associated with claiming something before other people get to choose it. The informal expression is particularly familiar in phrases about having first dibs, a meaning recorded in [Oxford Learner's Dictionaries](https://www.oxfordlearnersdictionaries.com/us/definition/english/dibs). That creates a conversational starting point for products built around priority, discovery, reservations, or shared resources. A brand using dibs.si could put the customer's ability to find and claim something at the center of its story.
-
-**Why it stands out**
-
-- A short word that also works as a call to action.
-- An informal, playful tone suited to approachable consumer products.
-- A direct conceptual connection to selection, access, and claiming items.
-- Room for distinctive illustrations, badges, and “claim” interactions in a product interface.
-
-**Best-fit buyers**
-
-Potential buyers include marketplace founders, reservation-service operators, community-platform builders, event organizers, and retailers offering limited releases. It may also appeal to organizations that need a friendlier name for managing access to shared things.
-
-**Potential uses**
-
-1. **Limited-release shopping:** Let shoppers register interest in small product batches and upcoming independent-brand launches.
-2. **Secondhand discovery:** Help buyers save promising listings and contact sellers about items they want.
-3. **Neighborhood sharing:** Coordinate claims on furniture, plants, books, or other items offered within a local community.
-4. **Gift coordination:** Allow friends and families to reserve items on a shared wishlist without duplicating purchases.
-5. **Equipment lending:** Organize reservations for tools, cameras, or specialist gear within a club or makerspace.
-6. **Creator early access:** Manage invitations and interest lists for new courses, publications, or creative releases.
-7. **Event waitlists:** Notify interested attendees when places become available and let them request a spot.
-8. **Workspace allocation:** Help teams reserve shared desks, meeting areas, or equipment through a simple interface.
-9. **Experience booking:** Present available workshops, tours, and local activities with clear ways to request places.
-10. **Restaurant availability:** Gather last-minute table openings and allow customers to express interest or book.
-11. **Student opportunities:** Organize sign-ups for project roles, extracurricular activities, or campus workshop places.
-12. **Community volunteer tasks:** Let participants claim jobs and see which responsibilities still need someone.
-
-**Value rationale**
-
-Dibs offers a name with a built-in action: see something appealing, then claim it. That relationship could make a product's purpose straightforward to explain without a long brand backstory. Its informal register is particularly suitable for friendly experiences; a buyer targeting formal procurement would need to decide whether that tone suits the audience. A clear category descriptor could establish whether the brand concerns shopping, reservations, or community participation.
-
-**Asking price:** $39,990 USD  
-**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/dibs.si)
-
-**Contact for discounted pricing:** [Email about dibs.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20dibs.si)
-
-</details>
 
 <details>
 <summary><strong>doze.si</strong> — Rest / quiet computing / creative incubation · <strong>$21,990</strong></summary>
@@ -4230,4 +4136,4 @@ The entries explore the value of the **name itself**: clarity of meaning, brevit
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
-**Last updated: October 11, 2026.**
+**Last updated: October 13, 2026.**
