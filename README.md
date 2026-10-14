@@ -2,7 +2,7 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 43 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 59 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
 **[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
@@ -12,7 +12,7 @@ Contact **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** with the d
 
 **The SI naming opportunity is becoming visible in government terminology and a major technology brand.** On September 29, 2026, President Donald Trump signed Executive Order 14434, directing U.S. executive departments and agencies to use **Super Intelligence / SI** in specified official communications and non-statutory documents, to the maximum extent permitted by law. [Read the White House executive order](https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/).
 
-On October 4, Elon Musk agreed to a request to rename SpaceXAI to **SpaceXSI**. The official X profile now displays **SpaceX Super Intelligence (@SpaceXSI)**, checked October 11, 2026. [Musk's original response](https://x.com/elonmusk/status/2106672603536712025), [official SpaceXSI profile](https://x.com/SpaceXSI).
+On October 4, 2026, Elon Musk publicly agreed to a request to adopt the **SpaceXSI** name. The verified X profile displays **SpaceX Super Intelligence (@SpaceXSI)**, checked October 14, 2026. [Musk's original response](https://x.com/elonmusk/status/2106672603536712025), [official SpaceXSI profile](https://x.com/SpaceXSI).
 
 **Our naming thesis: the extension can carry the category.** A name such as **Hues SI**, **Sums SI**, or **AudioX SI** can pair a distinctive idea with Super Intelligence in a compact address. The word identifies the product's territory; `.si` supplies the SI brand story. That makes the whole address useful on a product page, in a pitch deck, as a developer portal, or as the home of a growing product family.
 
@@ -70,12 +70,12 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**43 domains · 415 meanings and brand readings · 129 recommended naming routes**
+**59 domains · 543 meanings and brand readings · 177 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
-| **[English words](#english-words)** | 7 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
-| **[Brandable names](#brandable-names)** | 14 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
+| **[English words](#english-words)** | 15 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
+| **[Brandable names](#brandable-names)** | 22 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
 | **[Three-letter names](#three-letter-names)** | 22 | Documented acronyms plus original phrase expansions spanning agents, data, creativity, enterprise, and science. |
 
 **Browse prices in the tables, then expand any domain for its full profile.** Start with its **strongest naming routes**, then open the full reading table to compare possible products and buyers. Each profile also develops one SI product route in depth, with eight concrete directions, then provides the name's original meaning, highlights, broader applications, and value rationale.
@@ -87,17 +87,25 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ## English words
 
-Seven recognizable words with multiple meanings, expressions, and metaphors for SI products. Compare the human ideas each name can carry.
+Fifteen recognizable words with multiple meanings, expressions, and metaphors for SI products. Compare the human ideas each name can carry.
 
 | Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
+| **bristles.si** | $31,990 | Brushcraft / tactile materials / expressive reactions | [View listing](https://www.dynadot.com/market/user-listings/bristles.si) |
+| **charades.si** | $59,990 | Gesture games / dramatic expression / seeing through acts | [View listing](https://www.dynadot.com/market/user-listings/charades.si) |
+| **cobbles.si** | $25,990 | Stone paths / assembled parts / place and craft | [View listing](https://www.dynadot.com/market/user-listings/cobbles.si) |
 | **cues.si** | $75,990 | Signals / performance / guided action | [View listing](https://www.dynadot.com/market/user-listings/cues.si) |
 | **doze.si** | $21,990 | Rest / quiet computing / creative incubation | [View listing](https://www.dynadot.com/market/user-listings/doze.si) |
 | **dues.si** | $21,990 | Membership / earned recognition / obligations | [View listing](https://www.dynadot.com/market/user-listings/dues.si) |
 | **hues.si** | $59,990 | Color / viewpoints / expressive identities | [View listing](https://www.dynadot.com/market/user-listings/hues.si) |
 | **jiff.si** | $21,990 | Brief moments / compact tools / workflow units | [View listing](https://www.dynadot.com/market/user-listings/jiff.si) |
+| **leadoff.si** | $39,990 | First moves / baseball openings / launch momentum | [View listing](https://www.dynadot.com/market/user-listings/leadoff.si) |
+| **matchups.si** | $59,990 | Contests / side-by-side choices / complementary pairings | [View listing](https://www.dynadot.com/market/user-listings/matchups.si) |
+| **prelims.si** | $31,990 | Preparation / qualifying stages / a book's opening pages | [View listing](https://www.dynadot.com/market/user-listings/prelims.si) |
 | **rapt.si** | $21,990 | Attention / immersive stories / careful inquiry | [View listing](https://www.dynadot.com/market/user-listings/rapt.si) |
+| **snares.si** | $39,990 | Percussion / hidden pitfalls / careful review | [View listing](https://www.dynadot.com/market/user-listings/snares.si) |
 | **sums.si** | $59,990 | Numbers / synthesis / collective reasoning | [View listing](https://www.dynadot.com/market/user-listings/sums.si) |
+| **tribunals.si** | $39,990 | Specialist hearings / evidence organization / reasoned review | [View listing](https://www.dynadot.com/market/user-listings/tribunals.si) |
 
 ### Explore the individual domains
 
@@ -768,14 +776,762 @@ The word communicates a recognizable area of activity while allowing the buyer t
 
 </details>
 
+<details>
+<summary><strong>bristles.si</strong> — Brushcraft / tactile materials / expressive reactions · <strong>$31,990</strong></summary>
+
+### bristles.si
+
+**Broader meanings and brand readings**
+
+Bristles.si moves between touch, tools, and reaction. Its established noun meanings make a credible home for brushes and stiff fibers, while its verb form carries a vivid sense of response. Original readings can emphasize artistic marks, material detail, constructive friction, or a surface composed of many small elements. These stories reach substantially different buyers, from art-tool developers to industrial catalogs and customer-research teams. The SI connection is strongest where an agent helps people understand physical products or organize expressed feedback, rather than attaching a generic intelligence claim to every possible use.
+
+**Strongest naming routes**
+
+- Bristles SI — Understand the tool behind the touch: A selection and explanation agent for brushes and tactile products.
+- Bristles Studio — Every mark has character: A creative route for painting tools, textures, and material-led design.
+- Bristles Feedback — Find the useful friction: A research route organizing expressed reactions into reviewable questions.
+
+<details>
+<summary><strong>All 8 readings for bristles.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Brush fibers** — Established meaning | Bristles include the hairs or artificial hairlike pieces used in a brush. | An art, cleaning, or grooming tool supplier. |
+| **Short stiff hairs** — Established meaning | The noun also names stiff hairs on bodies, animals, or plants. | An educational publisher, grooming retailer, or materials catalog. |
+| **Reacts sharply** — Established meaning | Bristles is a form of the verb for showing irritation or becoming stiffly erect. | A writing product or feedback-analysis brand with an explicitly chosen tone. |
+| **The maker's mark** — Original brand concept | A tool's contact with a surface becomes a signature creative expression. | A digital painting studio or artist-tool developer. |
+| **Many fibers, one useful surface** — Original brand concept | Small elements combine into a coordinated tool with a specific job. | A materials design company or collaborative-agent metaphor. |
+| **Constructive friction** — Original brand concept | Resistance and disagreement can reveal questions that need attention. | A product research team or moderated feedback workspace. |
+| **A tactile point of view** — Original brand concept | Use the word's texture to foreground touch, detail, and material choice. | A design publication or physical-product discovery service. |
+| **Brushwork made intelligible** — Original brand concept | Explain how a selected tool might affect an artist's chosen mark. | An educational art app or retailer's guided-selection tool. |
+
+</details>
+
+**Meaning and research**
+
+Bristles has a tangible dictionary anchor in short, stiff hairs and in the hairlike material used in brushes. Collins records both natural hairs and artificial brush fibers, which makes the name relevant to painting, grooming, cleaning, and material selection. It is also the third-person form of bristle: a verb used for becoming erect or reacting with irritation. These readings give the name both a physical texture and an expressive emotional edge.
+
+The brush route need not be confined to one industry. An artist chooses a mark-making tool; a product designer chooses a surface or filament; a retailer explains differences between tools; a household buyer compares cleaning equipment. The reaction route is a separate original product position around feedback and friction. A product using it should examine what people actually said, rather than claim to infer emotions reliably from physical appearance. Bristles.si can support a tactile design brand with a clearly chosen specialty.
+
+Sources for the established meanings and capability contexts: [Collins Dictionary: bristle](https://www.collinsdictionary.com/us/dictionary/english/bristle)
+
+**Super Intelligence positioning**
+
+Bristles SI can be a grounded intelligence identity for physical tools and creative surfaces. A product could ask about the user's task, compare brush materials and forms from a supplier's data, and explain why candidates may fit. Another buyer could create a painting assistant that proposes brushwork exercises or texture directions while the artist controls the result. The verb route provides a distinct research story: an agent can summarize stated frustrations and trace them to actual feedback. These are practical workflows across product discovery, creativity, and service improvement. The domain's material language makes the brand feel tangible without claiming that a model can sense touch or diagnose a person's emotions.
+
+**SI product directions — original product ideas**
+
+- BrushGuide: Compare candidate tools against an artist's medium, desired marks, and supplier-provided specifications.
+- TextureDesk: Suggest material and mark-making references for a designer's selected visual direction.
+- FiberCatalog: Normalize a supplier's product data for filtering and human-reviewed comparisons.
+- PaintPractice: Prepare instructor-reviewed exercises exploring stroke, pressure, and brush selection.
+- CleaningPlanner: Match task descriptions with relevant equipment information and manufacturer guidance.
+- GroomingShelf: Help a retailer explain different grooming tools without making health diagnoses.
+- FrictionNotes: Group expressed customer concerns and link summaries back to their original statements.
+- SurfaceStory: Draft material descriptions and comparison notes for physical-product designers.
+
+**Why it stands out**
+
+- A vivid tactile word: The sound and meaning suggest physical detail rather than an abstract software label.
+- Real semantic breadth: Brush fibers, stiff hairs, and the reaction verb provide distinct established anchors.
+- Cross-industry product relevance: Art, grooming, cleaning, materials, and research can each support a specific naming route.
+
+**Best-fit buyers**
+
+Brush manufacturers and retailers; painting software teams; creative-agent developers; grooming product companies; cleaning equipment suppliers; materials databases; design publishers; art educators; and feedback research products choosing the reaction route.
+
+**Value rationale**
+
+The asking strategy reflects a distinctive dictionary word, tactile memorability, and several concrete product categories. It can be a focused tool brand or a more expressive design identity. The name does not carry manufacturer endorsement, technical material certifications, medical efficacy, or an existing product catalog.
+
+**Potential uses — original business and product ideas**
+
+- Artist brush retail: Curated supplies with authored explanations of form, material, and intended use.
+- Digital painting tools: Brush libraries and creative interfaces developed with original assets.
+- Grooming product discovery: A storefront comparing tool formats and manufacturer specifications.
+- Cleaning equipment catalog: A searchable collection organized around tasks and product information.
+- Materials publishing: Educational content about fibers, surfaces, and physical design choices.
+- Art instruction: Courses exploring strokes, mark-making, and tool selection.
+- Industrial supplier software: Catalog normalization, specification search, and purchasing support.
+- Texture design studio: Original surface studies and visual material references.
+- Customer feedback research: A workspace connecting stated frustrations to product-review discussions.
+- Craft memberships: A community of makers sharing techniques and original projects.
+- Product photography services: A studio highlighting tactile details and tool construction.
+- Design education: Lessons linking the behavior of a physical tool to creative choices.
+
+**Asking price:** $31,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/bristles.si)
+
+**Contact for discounted pricing:** [Email about bristles.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20bristles.si)
+
+</details>
+
+<details>
+<summary><strong>charades.si</strong> — Gesture games / dramatic expression / seeing through acts · <strong>$59,990</strong></summary>
+
+### charades.si
+
+**Broader meanings and brand readings**
+
+Charades.si offers more than a single party-game label. Its established meanings connect silent expression and guessing with the idea of appearances that deserve scrutiny. Original brand routes can extend the first sense into theatre, language learning, collaboration, and interactive storytelling; they can extend the second into media literacy or rehearsal of difficult conversations. That gives the buyer a real choice of tone. A social-play product can emphasize imagination and laughter, while a critical-learning product can emphasize careful interpretation without promising lie detection or making accusations.
+
+**Strongest naming routes**
+
+- Charades SI — Let the room do the talking: A social-play identity for intelligent prompts and gesture-led games.
+- Charades Studio — Tell it without a word: A route for theatre exercises, visual stories, and expressive learning.
+- Charades Lens — Look beyond the performance: A media-literacy route focused on examining claims and context.
+
+<details>
+<summary><strong>All 8 readings for charades.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **The silent guessing game** — Established meaning | Charades is a game of communicating words or phrases through actions rather than speech. | A party-game publisher, event host, or interactive entertainment studio. |
+| **False appearances** — Established meaning | A charade can be a supposedly real situation or performance that is actually false. | A media-literacy publisher or critical-reading education product. |
+| **A gesture conversation** — Original brand concept | Treat movement as a playful channel for exchanging ideas and interpretations. | A multimodal game team or expressive-learning designer. |
+| **The rehearsal room** — Original brand concept | Acting prompts become a space for experimenting with characters and scenes. | An improv teacher, theatre workshop provider, or rehearsal tool. |
+| **A puzzle of perspectives** — Original brand concept | Different guesses expose how participants interpret the same clues. | A team-learning facilitator or collaborative problem-solving game. |
+| **Stories without dialogue** — Original brand concept | Build a narrative around action, objects, and visual context. | An animation educator or interactive storytelling studio. |
+| **An invitation to join in** — Original brand concept | The recognizable game name lowers the explanation needed to begin a group activity. | An event software company or icebreaker-content service. |
+| **Look behind the performance** — Original brand concept | Use the figurative sense as a critical question about presentation and evidence. | A journalism education project or claims-review learning tool. |
+
+</details>
+
+**Meaning and research**
+
+Charades has a familiar literal home in social play: people communicate a word or phrase through silent actions while others try to identify it. Cambridge also records charade as an act or situation presented falsely. The plural domain can therefore carry either the game name or multiple deceptive performances. These are distinct established meanings, and a buyer should choose which emotional story to foreground rather than trying to present a party product and an investigative product as the same thing.
+
+For a playful brand, the useful associations are expression, inference, surprise, and shared participation. For an editorial or training brand, the second meaning opens a critical route around recognizing appearances and questioning a staged narrative. That latter route is a naming metaphor, not a claim that software can determine dishonesty from a face, gesture, or voice. Charades.si can remain warm and social while giving an intelligent-game product room to work with language, movement, and contextual clues.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: charade](https://dictionary.cambridge.org/dictionary/english/charade)
+
+**Super Intelligence positioning**
+
+Charades SI can position an intelligent system as the organizer of a richer human game. Instead of simply generating random words, an agent could prepare prompts for a particular group, balance difficulty, keep track of themes, and support a host's chosen boundaries. A multimodal direction could invite participants to review how actions were interpreted, with the game remaining playful and user-controlled. The figurative meaning supports a separate educational identity for unpacking staged narratives. It should be presented as a process of examining evidence and context, never as a claim that a model can read minds or establish deception from body language.
+
+**SI product directions — original product ideas**
+
+- RoomHost: Prepare group-specific prompt rounds with host-selected themes, difficulty, and pass options.
+- GestureStory: Help players compose a short visual narrative from a set of characters and situations.
+- ImprovPartner: Suggest rehearsal prompts and scene constraints for a theatre instructor to select.
+- VocabularyAct: Turn teacher-chosen vocabulary into action-based practice and discussion material.
+- GuessMap: Summarize the different interpretations of a round as a shared learning moment.
+- EventDeck: Produce themed icebreaker sets for a facilitator's review before an event.
+- SilentScene: Help animation and film students plan action-led storytelling without spoken dialogue.
+- ContextLens: Organize claims, supporting material, and unanswered questions in media-literacy exercises.
+
+**Why it stands out**
+
+- A familiar social category: Many potential buyers can explain a charades product directly through its name.
+- Two genuine semantic routes: Playful acting and false appearances create substantially different positioning choices.
+- A natural multimodal story: Actions, language, visual context, and human inference fit the name without forced technical jargon.
+
+**Best-fit buyers**
+
+Party-game developers; event-content services; theatre and improv educators; language-learning publishers; animation schools; interactive entertainment teams; corporate learning facilitators; and media-literacy organizations choosing the figurative route.
+
+**Value rationale**
+
+The name combines a recognizable game category with a useful second meaning and an expressive SI reading. That can support consumer entertainment, educational licensing, facilitated events, or creative tools. The seller's asking strategy reflects these naming options; it makes no claim about installed users, existing app revenue, successful lie detection, or rights to a particular game's artwork or software.
+
+**Potential uses — original business and product ideas**
+
+- Digital party game: A host-directed game with curated prompt packs and different group formats.
+- Event facilitation: Customized activities for celebrations, conferences, and community gatherings.
+- Improv curriculum: Instructor-created exercises in character, timing, and silent expression.
+- Language classroom: Action-based vocabulary practice using teacher-approved words and situations.
+- Family game publishing: Original physical decks and downloadable activities with clear age guidance.
+- Team collaboration workshops: Exercises that reveal how colleagues describe and interpret shared ideas.
+- Animation education: A learning platform for movement, staging, and visual narrative.
+- Interactive theatre: Audience-participation formats shaped by live performers and creative direction.
+- Media-literacy lessons: Materials for comparing a presented story with its evidence and context.
+- Creator prompt library: Acting challenges and scene ideas for creators who control what they publish.
+- Community tournaments: Local game events with original rulesets, host tools, and team resources.
+- Nonverbal storytelling studio: Creative projects exploring expression through gesture, objects, and sequence.
+
+**Asking price:** $59,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/charades.si)
+
+**Contact for discounted pricing:** [Email about charades.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20charades.si)
+
+</details>
+
+<details>
+<summary><strong>cobbles.si</strong> — Stone paths / assembled parts / place and craft · <strong>$25,990</strong></summary>
+
+### cobbles.si
+
+**Broader meanings and brand readings**
+
+Cobbles.si can move from a physical street to a story about how things fit together. Its established stone meaning suggests place, texture, and a route built from individual pieces. The assembly expression adds an iterative, practical edge, with a roughness nuance that should be handled honestly. Original readings can foreground modular tools, recovered materials, local knowledge, or a path through scattered information. That creates different buyer options for materials businesses, heritage experiences, makers, and agent developers. The strongest SI route is transparent assembly: show the pieces and the joins, then let a person decide what is ready.
+
+**Strongest naming routes**
+
+- Cobbles SI — Put the pieces on a clear path: A transparent assembly agent for notes, resources, and practical workflows.
+- Cobbles Places — Discover the stories underfoot: A warm local-discovery and heritage publishing route.
+- Cobbles Craft — Make the joins matter: A materials and maker identity centered on texture, reuse, and construction.
+
+<details>
+<summary><strong>All 8 readings for cobbles.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Rounded road stones** — Established meaning | Cobbles are stones used in older road surfaces. | A paving supplier, landscape materials company, or heritage publication. |
+| **Quick or rough assembly** — Established expression context | Cobble together can mean producing something quickly or roughly, with a potentially critical nuance. | A prototype tool that clearly distinguishes a draft from reviewed production work. |
+| **Pieces become a path** — Original brand concept | Several small elements create a route through a larger task or idea. | A workflow builder, learning platform, or navigation product. |
+| **A local sense of place** — Original brand concept | Use the street texture as a warm identity for neighborhood stories and discoveries. | A travel editor, local guide, or cultural experience service. |
+| **Craft at the joins** — Original brand concept | Focus on how separate materials or components meet. | A maker community or practical design publisher. |
+| **Useful fragments recovered** — Original brand concept | Bring scattered notes, assets, or reusable components into a visible arrangement. | A knowledge assembly agent or resource-management tool. |
+| **A prototype you can inspect** — Original brand concept | Make the first assembly understandable and open to revision. | A no-code or creative prototyping product. |
+| **An uneven route made navigable** — Original brand concept | Turn a complicated collection into a sequence with context and choices. | A research discovery interface or educational guide. |
+
+</details>
+
+**Meaning and research**
+
+Cobbles are rounded stones associated with older road surfaces, as Cambridge's dictionary records. That literal meaning gives the name texture, place, and a visible image: individual stones forming a route people can follow. It can be used directly for paving, landscape materials, heritage publishing, or local discovery. These are practical buyer categories rather than an unsupported claim that the domain itself has geographic significance.
+
+There is also an established verbal connection: to cobble something together means to assemble or produce it roughly or quickly, and Collins marks the expression as potentially disapproving. A buyer should acknowledge that nuance rather than redefine it as guaranteed polished engineering. The positive original brand metaphor is many useful pieces becoming a coherent path or prototype. Cobbles.si can emphasize craft and iteration, provided the product explains when an assembled result is an early draft and when it has been reviewed.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: cobble](https://dictionary.cambridge.org/dictionary/english/cobble) [Collins Dictionary: cobble together](https://www.collinsdictionary.com/dictionary/english/cobble-together)
+
+**Super Intelligence positioning**
+
+Cobbles SI can name an intelligence product that assembles useful pieces while making its work inspectable. A launch might focus on collecting approved notes, suggesting a workflow, and showing which source or component supports each step. Another route could help travelers or readers explore a curated local collection, with the cobbled street providing a human image of place. A materials buyer could focus on catalog comparison and project planning. The assembly metaphor is distinctive because it admits iteration: a first version can be useful without pretending it is finished. The product should make review stages and missing information clear rather than equate quick construction with reliability.
+
+**SI product directions — original product ideas**
+
+- PieceToPath: Arrange approved resources into a proposed workflow with each source and dependency visible.
+- LocalLayers: Prepare neighborhood discovery routes from a curator's verified places and stories.
+- MaterialMatch: Compare candidate paving or landscape materials using supplier specifications and project needs.
+- PrototypeJoins: Assemble an editable first structure from selected components and list what needs review.
+- NotePaving: Turn scattered notes into a proposed outline that preserves their original references.
+- ReuseDesk: Organize reusable project assets and suggest where they may fit a new brief.
+- CraftCompanion: Prepare maker-project research and material questions for a human instructor.
+- HeritageThread: Connect authorized historical material to places, timelines, and an editor's story plan.
+
+**Why it stands out**
+
+- A concrete visual image: Road stones supply texture and a recognizable metaphor of a route built from parts.
+- A warm alternative to abstract tech: The word can suit human-centered discovery, craft, and practical creation.
+- Literal and metaphorical buyer routes: Materials, place-based publishing, and modular software offer distinct commercial positions.
+
+**Best-fit buyers**
+
+Landscape and paving suppliers; heritage publishers; local discovery services; travel experience teams; maker communities; design education companies; no-code tool developers; knowledge assembly agents; and resource-management software businesses.
+
+**Value rationale**
+
+The seller's asking price reflects an approachable dictionary plural with tactile memorability and a useful assembly metaphor. It sits below the batch's more direct knowledge and media category names while retaining several coherent buyer routes. The domain does not include property, stone inventory, a heritage endorsement, a travel audience, or proof that an assembled software workflow is production-ready.
+
+**Potential uses — original business and product ideas**
+
+- Landscape materials store: A catalog for stones, paving options, and supplier-approved project information.
+- Heritage walking guides: Editor-curated routes with sourced local stories and practical visitor details.
+- Neighborhood discovery: A place-based publication about independent businesses, public spaces, and culture.
+- Maker project community: A platform for original projects, materials discussion, and instructor-reviewed learning.
+- Modular workflow tools: A builder that makes components, assumptions, and dependencies visible.
+- Knowledge curation: A service organizing scattered notes into useful, referenced collections.
+- Design prototyping: Editable early structures with a clear transition to review and refinement.
+- Reuse marketplaces: Permissioned listings for materials or project assets with accurate condition information.
+- Cultural publishing: Illustrated neighborhood histories and place-centered editorial projects.
+- Materials education: Courses comparing surfaces, textures, and construction choices.
+- Travel experience services: Curated local itineraries and independently operated workshop experiences.
+- Creative resource management: A library helping teams discover and reuse their authorized assets.
+
+**Asking price:** $25,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/cobbles.si)
+
+**Contact for discounted pricing:** [Email about cobbles.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20cobbles.si)
+
+</details>
+
+<details>
+<summary><strong>leadoff.si</strong> — First moves / baseball openings / launch momentum · <strong>$39,990</strong></summary>
+
+### leadoff.si
+
+**Broader meanings and brand readings**
+
+Leadoff.si has a useful motion: the moment a plan becomes an opening action. Its established general and baseball senses support different buyer audiences, while original routes extend the beginning metaphor into projects, learning, product launches, and conversation. A particularly clear SI position is an agent that prepares the first useful step, then hands control back to the user. The name can express initiative without sounding as though a product owns every later stage. Its strongest options are distinct enough for a buyer to choose between a sporting identity and a broader start-with-purpose brand.
+
+**Strongest naming routes**
+
+- Leadoff SI — Make the first move useful: An agent that turns a goal into a reviewable opening step.
+- Leadoff Baseball — Prepare the opening: A direct sporting route for coaching resources and opponent context.
+- Leadoff Launch — Start with a plan: A launch and onboarding route that emphasizes preparation and coordination.
+
+<details>
+<summary><strong>All 8 readings for leadoff.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **An opening action** — Established meaning | Leadoff can name the beginning or first action in a sequence. | A project-starting tool, onboarding platform, or launch service. |
+| **The first baseball batter** — Established meaning | The word also names the batter who opens the order or an inning. | A baseball education product or team analysis publisher. |
+| **A first useful draft** — Original brand concept | A blank page becomes an initial version that people can examine and improve. | A writing agent, proposal tool, or creative planning product. |
+| **The opening conversation** — Original brand concept | Focus the brand on thoughtful preparation for a first contact. | A business-development workflow or professional networking tool. |
+| **A launch runway** — Original brand concept | Treat the beginning as a prepared sequence rather than a single announcement. | A go-to-market service or product-release coordination tool. |
+| **A learner's first step** — Original brand concept | Make entry into an unfamiliar subject feel structured and approachable. | An educational publisher or onboarding course designer. |
+| **The briefing before action** — Original brand concept | Gather the context needed before a team starts a task. | An enterprise briefing agent or field-service preparation tool. |
+| **A starting lineup of options** — Original brand concept | Borrow sporting imagery to present a set of candidate paths for review. | A decision workshop or strategy planning interface. |
+
+</details>
+
+**Meaning and research**
+
+Leadoff is an established word for an opening act or the first in a sequence. Collins also records its baseball meaning: the first batter in the batting order or an inning. That combination gives the name both a general sense of initiative and a specific sporting anchor. It feels directional without requiring a buyer to explain a fabricated expansion, and it can suit a product whose job is helping people start something well.
+
+The wider business readings are original brand concepts. A first draft, a first customer conversation, a launch checklist, or the opening stage of a project can all be framed as a leadoff. The domain can also remain literal with baseball instruction, team preparation, or authored sports analysis. A buyer should choose whether the opening story is about performance, preparation, or communication. Leadoff.si does not imply that starting first guarantees winning, successful sales, or better sporting outcomes.
+
+Sources for the established meanings and capability contexts: [Collins Dictionary: leadoff](https://www.collinsdictionary.com/us/dictionary/english/leadoff)
+
+**Super Intelligence positioning**
+
+Leadoff SI can stand for an intelligent product that earns its place at the beginning of a workflow. A practical agent could clarify a goal, assemble the relevant context, propose a first draft or task, and show what the user needs to confirm. That is a concrete role in onboarding, launches, proposals, and team briefings. A sports buyer could choose a baseball-specific assistant for authored preparation notes and teaching material. The domain's naming strength is the opening moment, not a promise that an agent will complete every stage or outperform people. It is particularly suited to products designed to help users begin with clarity and retain control over the follow-through.
+
+**SI product directions — original product ideas**
+
+- FirstMove: Convert a user-selected goal into a small, reviewable opening task with explicit assumptions.
+- BriefBefore: Assemble source-linked context before a meeting, project, or field assignment.
+- LaunchBoard: Coordinate release preparation, owners, and unresolved questions around a planned launch.
+- OpeningDraft: Prepare an initial proposal or document that the user can edit and approve.
+- BaseballDesk: Organize authored scouting notes and relevant game material for a coach's review.
+- OnboardPath: Suggest a first-week learning sequence from a team's approved resources.
+- ConversationPrep: Help a professional prepare a respectful first contact based on supplied context.
+- OptionLineup: Present candidate starting approaches and the tradeoffs a team should discuss.
+
+**Why it stands out**
+
+- A positive action signal: The general opening sense creates a clear story around initiative and preparation.
+- A credible sports specialty: The established baseball meaning provides a focused alternative audience.
+- Broad workflow fit: Beginnings occur in writing, sales preparation, onboarding, teaching, and product launches.
+
+**Best-fit buyers**
+
+Onboarding software teams; project and proposal tools; launch consultants; writing-agent startups; business-development workflow companies; baseball educators; team information publishers; professional networking products; and corporate learning vendors.
+
+**Value rationale**
+
+The asking strategy reflects familiar spelling, an active dictionary meaning, and a strong opening-stage product metaphor. The name can be specific enough for a first-step tool while remaining extensible into related preparation workflows. It does not come with baseball affiliations, lead lists, proven conversion rates, or guarantees of launch success.
+
+**Potential uses — original business and product ideas**
+
+- Project kickoff software: A shared starting point for goals, responsibilities, resources, and questions.
+- Customer onboarding: Guided introductions to a product, service, or learning program.
+- Launch consulting: Preparation services for product announcements and initial market entry.
+- Proposal writing: A workspace for first drafts, research notes, and review cycles.
+- Baseball education: Coaching resources focused on batting order, preparation, and game understanding.
+- Sports-media publishing: Authored context and commentary around the start of a game or inning.
+- Professional introduction tools: Preparation for first meetings and relevant, user-approved outreach.
+- Student starter courses: Introductory resources for entering a new subject or skill.
+- Field-service briefings: Task preparation using approved company information and checklists.
+- Creative writing programs: Exercises helping authors move from an idea to a first draft.
+- Startup workshop services: Facilitated planning of first experiments and launch activities.
+- Team meeting preparation: Source-linked briefs and opening discussion material.
+
+**Asking price:** $39,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/leadoff.si)
+
+**Contact for discounted pricing:** [Email about leadoff.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20leadoff.si)
+
+</details>
+
+<details>
+<summary><strong>matchups.si</strong> — Contests / side-by-side choices / complementary pairings · <strong>$59,990</strong></summary>
+
+### matchups.si
+
+**Broader meanings and brand readings**
+
+Matchups.si can carry rivalry, comparison, or fit, and those are different commercial stories. The established competition sense provides a direct sports and gaming anchor. Original metaphors let a buyer place products, proposals, research methods, or collaborators opposite one another for a structured review. The plural supports a browsable collection rather than a single one-off match. In an SI context, the strongest promise is to prepare useful alternatives and make the reasons visible. The name does not by itself establish successful matching, accurate predictions, or an impartial ranking system.
+
+**Strongest naming routes**
+
+- Matchups SI — Put the choices in play: A comparison agent that explains the criteria behind paired alternatives.
+- Matchups Sport — Every contest has a story: A direct route for fixtures, opponent context, and competition media.
+- Matchups Connect — Find the complementary fit: A matching route for experts, projects, and specific buyer needs.
+
+<details>
+<summary><strong>All 8 readings for matchups.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **A set of contests** — Established meaning | Matchups are competitions involving paired people or teams. | A sports information service or competitive-game organizer. |
+| **Two choices in view** — Original brand concept | Place alternatives side by side with the criteria that matter to a user. | A comparison publisher or consumer decision-support product. |
+| **Need meets capability** — Original brand concept | Pair a stated requirement with a supplier or expert who may fit it. | A B2B directory, talent service, or procurement workspace. |
+| **An experiment against another** — Original brand concept | Use paired trials to explore the tradeoffs between methods. | A research evaluation tool or product-testing team. |
+| **Model versus model** — Original brand concept | Compare agent or model behavior on the same selected tasks. | An evaluation-software company or research publishing project. |
+| **Partners with complementary skills** — Original brand concept | Read matching as a collaboration opportunity rather than a contest. | A professional community or project-team formation product. |
+| **A scenario face-off** — Original brand concept | Compare possible paths and expose their different assumptions. | A strategy workshop tool or planning consultant. |
+| **A curated pair** — Original brand concept | Select two compatible items, experiences, or ideas for an audience. | A retail editor, hospitality planner, or discovery service. |
+
+</details>
+
+**Meaning and research**
+
+A matchup is an established English word for a contest between two people or teams, as Cambridge records. The plural immediately suggests a collection: several fixtures, rivals, comparisons, or scenarios to explore. Sports and competitive gaming are the direct routes, but the name can also support an original comparison metaphor in which two alternatives are placed side by side and their differences made visible.
+
+A second original route emphasizes complementarity rather than competition: matching a need with a supplier, a person with an expert, or a task with an appropriate tool. Those extensions are brand interpretations, not additional definitions supplied by the dictionary. Matchups.si is particularly suited to products whose interface revolves around pairs and decisions. A buyer can choose a competition-led identity, a comparison-led publisher, or a fit-led service without inventing an acronym.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: matchup](https://dictionary.cambridge.org/dictionary/english/matchup)
+
+**Super Intelligence positioning**
+
+Matchups SI can position an intelligent agent as a preparer of meaningful comparisons. Instead of issuing an unexplained winner, a product could gather user-selected criteria, present two or more candidates, show the sources, and identify what remains unknown. A sports route could organize opponent context and authored analysis; a business route could align a brief with potential suppliers; a technical route could compare model behavior on defined tasks. The plural name supports repeat use and multiple categories. A buyer should select the type of matchup and make its methodology clear, with final decisions remaining tied to the user's purpose and evidence.
+
+**SI product directions — original product ideas**
+
+- ChoicePair: Build side-by-side product comparisons from a user's priorities and inspectable information.
+- OpponentBrief: Prepare sourced opponent notes for a coach or sports editor to review.
+- ExpertFit: Propose specialists whose published capabilities align with a project brief.
+- ModelArena Notes: Organize paired model evaluations and expose the task, rubric, and observed differences.
+- SupplierPair: Compare candidate vendors against buyer-defined requirements and missing-information checks.
+- CollaborationMap: Suggest complementary skills for a project team with members retaining selection control.
+- ScenarioDesk: Prepare alternative planning scenarios and the assumptions behind each.
+- PairCurator: Help an editor create themed pairings of products, experiences, or learning resources.
+
+**Why it stands out**
+
+- A strong interaction metaphor: Pairs and comparisons translate readily into interface structure and content formats.
+- An established competitive anchor: Sports and gaming provide a direct reading before broader interpretations are introduced.
+- A useful plural: The name naturally accommodates a catalog of contests, comparisons, or suggested connections.
+
+**Best-fit buyers**
+
+Sports-media startups; competitive gaming tools; comparison publishers; procurement software companies; evaluation researchers; talent and expert directories; professional communities; retail discovery services; and strategy consultancies.
+
+**Value rationale**
+
+The asking strategy reflects a compact dictionary word, a familiar comparative structure, and several buyer groups with pair-based workflows. Its strongest distinction is the ability to choose between competition and complementarity. The domain does not include rankings, proprietary data, a matching network, betting returns, or an established performance advantage.
+
+**Potential uses — original business and product ideas**
+
+- Sports fixture publishing: A destination for schedules, opponent context, and authored competition previews.
+- Competitive gaming organizer: Brackets, participant information, and event communication.
+- Product comparison publication: Editorial reviews built around transparent criteria and side-by-side views.
+- Supplier discovery: A directory linking project requirements to candidate service providers.
+- Professional partnerships: A community helping members find collaborators with complementary skills.
+- Model evaluation workspace: A tool for documenting the same tests across several systems.
+- University project teams: A matching interface connecting project topics, skills, and participant preferences.
+- Training simulations: Paired scenarios for discussing strategy and decisions with a facilitator.
+- Retail pairing service: Editorial suggestions for compatible items and themed collections.
+- Travel or event pairings: A curated service connecting an occasion with suitable experiences.
+- Research methods review: A publication comparing approaches and their limitations.
+- Decision workshop software: A shared space for criteria, alternatives, evidence, and unresolved questions.
+
+**Asking price:** $59,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/matchups.si)
+
+**Contact for discounted pricing:** [Email about matchups.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20matchups.si)
+
+</details>
+
+<details>
+<summary><strong>prelims.si</strong> — Preparation / qualifying stages / a book's opening pages · <strong>$31,990</strong></summary>
+
+### prelims.si
+
+**Broader meanings and brand readings**
+
+Prelims.si has three particularly different established homes: assessment, competition, and publishing. That gives it real semantic breadth before any original metaphor is added. A buyer can lean into readiness for a later event, the opening material of a book, or the early work that shapes a project. The short plural suggests a set of preparations rather than one rigid gate. In an SI context, the clearest promise is to organize what comes first, explain what is missing, and prepare reviewable material for a person to assess. It names a stage of work, not a guarantee that the next stage will succeed.
+
+**Strongest naming routes**
+
+- Prelims SI — Get the first stage in order: An agent for preparation, visible gaps, and reviewable starting material.
+- Prelims Learn — Prepare for what comes next: An education route that keeps practice and final assessment distinct.
+- Prelims Publish — Give the book a clear beginning: A front-matter and book-production route for publishers and authors.
+
+<details>
+<summary><strong>All 8 readings for prelims.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Preparatory tests or sports stages** — Established meaning | Prelims can be events or tests that precede a more important event. | An education product or competition management tool. |
+| **Initial university examinations** — Established British-English meaning | Collins records prelims as early public examinations in some university programs. | A university-focused learning publisher or student planning app. |
+| **School practice examinations** — Established Scottish-English meaning | The term can refer to school practice exams before public examinations. | A locally informed revision service or teacher resource company. |
+| **A book's front matter** — Established publishing meaning | Prelims can name pages such as the title and contents before a book's main text. | A publishing workflow tool or book-production service. |
+| **The work before the work** — Original brand concept | Clarify a goal, gather inputs, and identify questions before a project begins. | A project discovery agent or consulting workspace. |
+| **A preflight for information** — Original brand concept | Review whether the needed inputs and references are present before a later task. | A data preparation tool or editorial review product. |
+| **A starting research map** — Original brand concept | Lay out sources and candidate lines of inquiry without declaring final conclusions. | A research assistant or educational knowledge product. |
+| **A prepared opening** — Original brand concept | Make introductions, briefing notes, and first-stage material easier to assemble. | An event planner, learning designer, or team preparation service. |
+
+</details>
+
+**Meaning and research**
+
+Prelims is an established shortened form associated with preliminary stages. Cambridge records preparatory tests and sports events. Collins adds several distinct British-English meanings: the opening pages of a book, initial university examinations, and Scottish school practice examinations. These contexts make the word genuinely broader than a generic exam-preparation label. It can identify the first stage of a competition, a learning milestone, or publishing work before the main text.
+
+A buyer can also develop original metaphors around the work before the work: project discovery, preflight review, research preparation, and initial documentation. Those are proposed naming routes, not extra meanings supplied by the dictionaries. Prelims.si can be a useful identity for products that make early-stage preparation clearer. It should not promise that an exam product guarantees results, or that a preliminary review establishes final approval, safety, or compliance.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: prelim](https://dictionary.cambridge.org/us/dictionary/english/prelim) [Collins Dictionary: prelims](https://www.collinsdictionary.com/us/dictionary/english/prelims)
+
+**Super Intelligence positioning**
+
+Prelims SI can position an intelligent agent around preparation rather than final authority. An education product could help a learner organize approved revision material and practice tasks. A publishing product could prepare a proposed contents structure and front-matter checklist. A business tool could gather inputs, source links, and questions before a project enters its main execution phase. The word's established breadth lets a buyer choose a real specialty, while the original early-stage metaphor creates adjacent opportunities. The most credible promise is orderly preparation and visible uncertainty. An agent's preliminary output should remain distinguishable from an examination result, editorial approval, or a final professional review.
+
+**SI product directions — original product ideas**
+
+- PracticePath: Organize teacher-approved practice tasks around a learner's selected topics and time.
+- QualifyingDesk: Prepare event information and participant resources for competition organizers.
+- FrontMatter Studio: Draft a book's preliminary-page structure for an author or publisher to review.
+- DiscoveryFirst: Gather a project's goals, inputs, stakeholders, and unresolved questions in one place.
+- InputPreflight: Check supplied materials against a user-defined readiness checklist and expose gaps.
+- ResearchOpening: Prepare a sourced starting map of a topic without presenting it as a final conclusion.
+- BriefingSet: Assemble approved opening material for a meeting, course, or event.
+- RevisionRecord: Track practice notes and user-selected follow-up tasks while preserving teacher oversight.
+
+**Why it stands out**
+
+- Several established meaning families: Assessments, sporting preparation, and book front matter create distinct literal buyer routes.
+- A compact stage-based identity: The shortened plural gives a preparation product a clear role without a long descriptive phrase.
+- Useful cross-industry metaphors: Discovery, research, inputs, and introductions all offer coherent original positions.
+
+**Best-fit buyers**
+
+Revision and learning app teams; teacher resource publishers; university student services; competition software companies; book-production vendors; publishing agents; project discovery tools; research assistants; and organizational preparation consultants.
+
+**Value rationale**
+
+The asking strategy reflects a short familiar word in several specialist contexts and a broad preparation metaphor. Its regional meanings can be an advantage for a buyer who knows the audience, while a broader product should explain its chosen sense. The domain includes no examination affiliation, course content, publisher endorsement, assessment results, or guaranteed readiness.
+
+**Potential uses — original business and product ideas**
+
+- Practice examination platform: Instructor-created material and revision planning for a defined curriculum.
+- Student preparation app: Notes, topic organization, and approved study resources.
+- Competition management: Information and scheduling around preliminary or qualifying stages.
+- Book front-matter service: Editorial preparation of title, contents, and other preliminary pages.
+- Independent publishing software: A reviewed workflow for a book's opening structure and production handoff.
+- Project discovery workshops: Facilitated work on goals, inputs, and unanswered questions before execution.
+- Data readiness review: User-defined input checks and documented gaps before a later analysis.
+- Research planning: A sourced map of possible directions and questions for investigation.
+- Event briefing services: Preparation of opening material and participant resources.
+- Editorial preflight: A checklist-driven review of material before formal editing or publication.
+- Team onboarding preparation: Approved introductory resources and a clear first-stage learning path.
+- Proposal discovery tools: A workspace for clarifying a brief before writing the main proposal.
+
+**Asking price:** $31,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/prelims.si)
+
+**Contact for discounted pricing:** [Email about prelims.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20prelims.si)
+
+</details>
+
+<details>
+<summary><strong>snares.si</strong> — Percussion / hidden pitfalls / careful review · <strong>$39,990</strong></summary>
+
+### snares.si
+
+**Broader meanings and brand readings**
+
+Snares.si offers a real choice between sound and scrutiny. The percussion reading has an established technical component at its center; the trap reading gives a vivid metaphor for things that deserve a closer look. Original naming routes can focus on groove, instrument materials, creative sound collections, hidden project friction, or an editor's careful questions. These possibilities span musicians, suppliers, designers, and teams building review agents. The strongest routes avoid using the word to imply manipulation. Instead, a buyer can make it stand for expressive rhythm or for seeing a potential snag before deciding what to do.
+
+**Strongest naming routes**
+
+- Snares SI Sound — Shape the rhythmic edge: A percussion identity for instrument selection and creative audio workflows.
+- Snares Review — See the snag before the step: A project-review identity built around questions, sources, and inspection.
+- Snares Lab — Test the assumptions: A research and evaluation route for reviewable experiments and edge cases.
+
+<details>
+<summary><strong>All 8 readings for snares.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Traps and entanglements** — Established meaning | Snares are devices or situations that catch or entangle. | An educational risk-review brand or a project-inspection tool. |
+| **Snare drum strands** — Established meaning | Snares are strands that contribute to a snare drum's sound. | A percussion retailer, instrument educator, or drum-tool developer. |
+| **A palette of percussive sounds** — Original brand concept | Use the physical component as a name for a curated sonic collection. | A licensed sample publisher or sound-design studio. |
+| **The rhythm's sharp edge** — Original brand concept | Frame the name around attack, texture, and a defined musical role. | A beat-making app or creative music-agent team. |
+| **Notice the hidden snag** — Original brand concept | Treat the trap sense as a prompt to examine what may complicate a plan. | A project review agent or process improvement consultancy. |
+| **Assumptions worth testing** — Original brand concept | Make implicit reasoning visible before it becomes a difficult dependency. | A research workshop product or evaluation team. |
+| **A careful editorial net** — Original brand concept | Collect unanswered questions, inconsistent claims, and missing context. | An editorial review tool or quality-assurance workspace. |
+| **Many strands, one response** — Original brand concept | Borrow the percussion component's structure as a coordination metaphor. | A multi-agent workflow or team orchestration brand. |
+
+</details>
+
+**Meaning and research**
+
+Snares brings together two distinct dictionary meanings. A snare can be a trap or something that entangles; in percussion, it can be a strand stretched against a drumhead. Dictionary.com records both senses, while Yamaha's own musical-instrument guide explains how snares contribute to a snare drum's characteristic sound. The plural can therefore name a collection of physical components, sounds, or pitfalls, depending on the buyer's chosen route.
+
+The music identity is direct and tangible: drums, sound design, performance, and equipment comparison. The pitfall identity is an original brand metaphor for noticing problematic assumptions, confusing processes, or issues in a project. It is strongest when framed as careful review rather than trapping users or declaring perfect protection. Snares.si can support an energetic sonic product or a thoughtful inspection tool, but those two emotional directions should be differentiated clearly in the eventual brand.
+
+Sources for the established meanings and capability contexts: [Dictionary.com: snare](https://www.dictionary.com/browse/snare) [Yamaha: Choosing a snare](https://www.yamaha.com/en/musical_instrument_guide/drums/selection/selection003.html)
+
+**Super Intelligence positioning**
+
+Snares SI can tell one of two grounded product stories. A music agent could help a drummer compare equipment information or help a producer organize a licensed percussion collection. A review agent could read a supplied plan, identify assumptions that may need testing, and link every question back to the material it examined. Both routes are specific and commercially useful, but they require different branding and buyers. The metaphor does not establish that an agent detects all risks, and the music route does not transfer any manufacturer's performance. The common thread is attention to the small strands or details that shape a larger result.
+
+**SI product directions — original product ideas**
+
+- SnareShelf: Organize equipment specifications and explain comparisons for a drummer's chosen priorities.
+- PercussionPalette: Retrieve candidate sounds from a licensed library using a producer's brief.
+- RhythmTutor: Prepare teacher-reviewed exercises on pattern, timing, and percussion arrangement.
+- SoundNotes: Draft editable descriptions of authored samples and recording-session choices.
+- SnagReview: Flag assumptions and dependencies in a supplied project plan as questions for the team.
+- EvidenceStrands: Connect a document's claims to cited material and list missing support for review.
+- EdgeCase Desk: Prepare scenario ideas and evaluation notes from a system's documented scope.
+- WorkflowUnknot: Map recurring handoff problems from supplied process notes and suggest discussion points.
+
+**Why it stands out**
+
+- Two genuine semantic foundations: Percussion components and entanglements are substantially different established readings.
+- A concise, textured sound: The word suits an expressive music identity or a memorable scrutiny metaphor.
+- Clear specialist buyer choices: A buyer can commit to creative audio, product selection, or careful review rather than a generic agent brand.
+
+**Best-fit buyers**
+
+Percussion retailers; instrument educators; licensed sample publishers; music-agent developers; sound-design studios; project review tools; research evaluation teams; editorial software companies; and process improvement consultancies.
+
+**Value rationale**
+
+The asking strategy reflects a short dictionary plural, two established meaning families, and focused product stories. The name's useful ambiguity creates options, but a purchaser should choose the appropriate tone. It does not include drum samples, manufacturer connections, security certifications, medical devices, or guaranteed detection of pitfalls.
+
+**Potential uses — original business and product ideas**
+
+- Percussion equipment store: A catalog centered on drums, components, and manufacturer specifications.
+- Original sample library: Properly licensed percussion recordings with useful metadata.
+- Drum education platform: Lessons and exercises created or reviewed by instructors.
+- Sound design service: Custom percussion textures for authorized creative projects.
+- Producer reference publication: Authored comparisons of sounds, setups, and recording approaches.
+- Project review workspace: A place to collect assumptions, dependencies, and questions before execution.
+- Editorial quality review: Source-linked checks and discussion notes for publication teams.
+- Process consulting: Workshops on recurring confusion and difficult handoffs.
+- Evaluation scenario library: Human-reviewed cases for exploring a tool's documented limits.
+- Risk education: Case studies about pitfalls in planning, communication, and decision-making.
+- Music community membership: A focused place for percussion creators to share authored work and techniques.
+- Collaborative agent experiments: A research-oriented brand exploring how several agents coordinate reviewable tasks.
+
+**Asking price:** $39,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/snares.si)
+
+**Contact for discounted pricing:** [Email about snares.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20snares.si)
+
+</details>
+
+<details>
+<summary><strong>tribunals.si</strong> — Specialist hearings / evidence organization / reasoned review · <strong>$39,990</strong></summary>
+
+### tribunals.si
+
+**Broader meanings and brand readings**
+
+Tribunals.si can carry institutional precision or a broader metaphor of structured review. Its literal route fits specialist-hearing information, document organization, and professional research. Original routes can focus on a panel of perspectives, a record of reasoning, or a fair opportunity to examine competing accounts. These are different positions for legal technology, education, governance, and evaluation buyers. The SI identity is most credible as assistance with knowledge and preparation, with sources and scope made visible. A buyer should make human professional judgment central rather than presenting an agent as a court or a universal legal decision-maker.
+
+**Strongest naming routes**
+
+- Tribunals SI — Prepare the record. Preserve the reasoning: A specialist workflow identity for evidence organization and human review.
+- Tribunals Research — Find the relevant context: A sourced information route with explicit jurisdiction and document scope.
+- Tribunals Review — Bring the perspectives together: A governance and evaluation route built around structured discussion.
+
+<details>
+<summary><strong>All 8 readings for tribunals.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Specialist courts or appointed panels** — Established meaning | Tribunals examine particular categories of problems in an institutional setting. | A legal information publisher or specialist case-management company. |
+| **Documents and hearings** — Established institutional context | The UK judiciary describes tribunal consideration of documents and witness evidence. | A hearing-preparation workspace for qualified practitioners. |
+| **A library of decisions** — Original brand concept | Treat the plural as an organized collection that readers can explore by scope and subject. | A legal research service or educational archive. |
+| **Several perspectives at the table** — Original brand concept | Use a panel metaphor for structured examination of a proposal. | A governance workshop or professional review product. |
+| **The path through evidence** — Original brand concept | Make the source trail and unresolved questions visible before a discussion. | An evidence organization agent or research workspace. |
+| **A record of reasons** — Original brand concept | Focus on how an argument or decision was explained and supported. | A learning publisher or decision-documentation tool. |
+| **Preparation before the hearing** — Original brand concept | Help a professional organize material, responsibilities, and questions. | A practitioner-facing workflow and document platform. |
+| **Review without automatic judgment** — Original brand concept | Frame intelligence as a way to assemble perspectives for people to assess. | An evaluation or ethics-review software team. |
+
+</details>
+
+**Meaning and research**
+
+Tribunals is the plural of tribunal, an established term for a specially appointed court or group examining particular kinds of problems. Cambridge records the term's specialist legal and institutional meaning. The UK Courts and Tribunals Judiciary describes tribunals considering documents and witness evidence, with different jurisdictions handling different areas. This is a concrete naming anchor for research, case preparation, education, and the organization of hearing material.
+
+The plural is useful because it can describe a directory, a library of decisions, or software that serves several specialist contexts. It should not suggest that all tribunals share the same procedures or powers; a product would need to identify its jurisdiction and scope. Beyond the literal institutional route, reasoned review by several perspectives is an original brand metaphor for governance or evaluation. Tribunals.si names a possible knowledge and workflow home, not an official tribunal, a grant of legal authority, or software that determines a case's outcome.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: tribunal](https://dictionary.cambridge.org/ja/dictionary/english/tribunal) [Courts and Tribunals Judiciary: Tribunal justice and hearings](https://www.judiciary.uk/courts-and-tribunals/tribunals/about-the-tribunals/tribunal-jurisdiction/)
+
+**Super Intelligence positioning**
+
+Tribunals SI can be a serious specialist intelligence identity whose role is preparation rather than judgment. A practical product could organize supplied documents, preserve provenance, surface passages responsive to a research question, and help a professional maintain a hearing checklist. Another route could be an education library explaining selected decisions and procedures within a stated jurisdiction. The broader panel metaphor suits internal governance or evaluation, where agents assemble perspectives and people assess them. The name works best when the product is careful about source quality, access controls, scope, and uncertainty. None of these proposed workflows grants legal authority, replaces qualified advice, or promises a particular outcome.
+
+**SI product directions — original product ideas**
+
+- BundleMap: Organize supplied case documents with stable references and an inspectable index.
+- HearingDesk: Maintain professional-selected preparation tasks, participants, and open questions.
+- DecisionTrail: Link research notes to the exact decision passages and source documents reviewed.
+- JurisdictionShelf: Help a publisher organize material by its stated jurisdiction and subject.
+- WitnessTimeline: Prepare a proposed chronology from supplied material for a practitioner to check.
+- ProcedureLearn: Create reviewed educational explanations from approved procedural resources.
+- PanelPerspectives: Assemble alternative viewpoints for an internal governance discussion without issuing a ruling.
+- ReasonRecord: Document assumptions, sources, and reviewer comments behind an organizational decision.
+
+**Why it stands out**
+
+- A precise institutional word: The name gives a professional buyer a defined specialist subject.
+- A useful plural structure: Directories, research libraries, and multi-context workflows fit the form naturally.
+- An evidence-centered SI route: Document organization and reasoned review are concrete product positions, rather than an abstract intelligence slogan.
+
+**Best-fit buyers**
+
+Legal information publishers; practitioner-facing document software teams; hearing preparation vendors; professional training companies; academic research projects; jurisdiction-specific case libraries; governance software companies; and human-led evaluation teams.
+
+**Value rationale**
+
+The seller's asking strategy rests on specialist category clarity and several professional knowledge workflows. A committed buyer could develop a focused service with an explicit jurisdiction and audience. The domain does not imply government affiliation, legal credentials, court authority, access to confidential cases, or compliance with any procedural regime.
+
+**Potential uses — original business and product ideas**
+
+- Specialist research library: A source-linked collection of publicly available material within a defined scope.
+- Case-document organization: Indexes, references, and review notes for authorized professional users.
+- Hearing preparation software: A workflow for tasks, documents, and professional-selected questions.
+- Legal education publishing: Expert-reviewed lessons about selected procedures and decisions.
+- Jurisdiction directory: An information service explaining which institutions handle which stated subjects.
+- Decision annotation: A publishing tool for commentary, context, and cited passages.
+- Professional membership: Training and research resources for a clearly identified practitioner audience.
+- Academic case studies: Research collections examining institutions, evidence, and reasoning.
+- Internal governance review: A shared record of perspectives and questions for human decision-makers.
+- Ethics evaluation workspace: Tools for organizing review materials and documenting panel discussions.
+- Accessibility-focused information design: Expert-authored explanations of processes for the chosen audience.
+- Organizational decision records: A system preserving the sources, assumptions, and reasons behind a review.
+
+**Asking price:** $39,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/tribunals.si)
+
+**Contact for discounted pricing:** [Email about tribunals.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20tribunals.si)
+
+</details>
+
+
 ## Brandable names
 
-Fourteen expressive names that can be read through their components, visual wordplay, language associations, and original product stories.
+Twenty-two expressive names that can be read through their components, visual wordplay, language associations, and original product stories.
 
 | Domain | Asking price (USD) | Leading naming routes | Buy / offer |
 | :--- | ---: | :--- | :--- |
 | **adpair.si** | $31,990 | Advertising / paired intelligence / complementary systems | [View listing](https://www.dynadot.com/market/user-listings/adpair.si) |
+| **annualreports.si** | $59,990 | Yearly disclosures / organizational stories / sourced analysis | [View listing](https://www.dynadot.com/market/user-listings/annualreports.si) |
+| **audiosearch.si** | $59,990 | Sound discovery / spoken knowledge / listening interfaces | [View listing](https://www.dynadot.com/market/user-listings/audiosearch.si) |
 | **audiox.si** | $47,990 | Recorded audio / creative exchange / cross-modal work | [View listing](https://www.dynadot.com/market/user-listings/audiox.si) |
+| **drumloop.si** | $31,990 | Drum patterns / creative cycles / rhythmic collaboration | [View listing](https://www.dynadot.com/market/user-listings/drumloop.si) |
 | **easysearch.si** | $31,990 | Finding / calm discovery / search-to-action | [View listing](https://www.dynadot.com/market/user-listings/easysearch.si) |
 | **eluxe.si** | $31,990 | Refined experiences / abundant detail / digital elegance | [View listing](https://www.dynadot.com/market/user-listings/eluxe.si) |
 | **giftguide.si** | $31,990 | Presents / natural talents / generous attention | [View listing](https://www.dynadot.com/market/user-listings/giftguide.si) |
@@ -785,9 +1541,14 @@ Fourteen expressive names that can be read through their components, visual word
 | **joia.si** | $47,990 | Jewels / joy / valued people and communities | [View listing](https://www.dynadot.com/market/user-listings/joia.si) |
 | **oazis.si** | $31,990 | Refuge / fertile ideas / knowledge meeting points | [View listing](https://www.dynadot.com/market/user-listings/oazis.si) |
 | **soundx.si** | $47,990 | Voice / sonic experiences / sound reasoning | [View listing](https://www.dynadot.com/market/user-listings/soundx.si) |
+| **textart.si** | $39,990 | Words as images / typography / creative expression | [View listing](https://www.dynadot.com/market/user-listings/textart.si) |
+| **textreader.si** | $47,990 | Read aloud / recognized text / guided understanding | [View listing](https://www.dynadot.com/market/user-listings/textreader.si) |
+| **textvideo.si** | $59,990 | Words to video / video understanding / visual publishing | [View listing](https://www.dynadot.com/market/user-listings/textvideo.si) |
 | **timebank.si** | $31,990 | Time exchange / attention reserves / agent budgets | [View listing](https://www.dynadot.com/market/user-listings/timebank.si) |
 | **timecard.si** | $31,990 | Work records / planning cards / time-linked memories | [View listing](https://www.dynadot.com/market/user-listings/timecard.si) |
 | **truthcheck.si** | $31,990 | Evidence / assumptions / reviewable claims | [View listing](https://www.dynadot.com/market/user-listings/truthcheck.si) |
+| **truthordare.si** | $31,990 | Honest questions / playful challenges / choice-led growth | [View listing](https://www.dynadot.com/market/user-listings/truthordare.si) |
+| **xiangqi.si** | $39,990 | Chinese chess / strategic learning / board reasoning | [View listing](https://www.dynadot.com/market/user-listings/xiangqi.si) |
 
 ### Explore the individual domains
 
@@ -2066,6 +2827,751 @@ Its naming appeal comes from a specific, legible purpose and several credible pr
 **Contact for discounted pricing:** [Email about truthcheck.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20truthcheck.si)
 
 </details>
+
+<details>
+<summary><strong>annualreports.si</strong> — Yearly disclosures / organizational stories / sourced analysis · <strong>$59,990</strong></summary>
+
+### annualreports.si
+
+**Broader meanings and brand readings**
+
+Annualreports.si has a clear literal category and several ways to position a business within it. One buyer may help people discover reports; another may help organizations assemble them; another may compare changes across years. The word annual adds recurrence, while reports adds documentation and explanation. Established company and organizational reporting contexts are separated below from original product readings around organizational memory, source trails, and year-end storytelling. The SI layer is strongest as careful document assistance: organize material, preserve references, and make comparisons easier to inspect, with responsible professionals reviewing the conclusions.
+
+**Strongest naming routes**
+
+- AnnualReports SI — Read the year with its sources: A research identity for referenced document navigation and comparison.
+- AnnualReports Studio — Turn the year into a clear story: A publishing route for reviewed organizational narratives and design.
+- AnnualReports Workflow — Build the record together: A preparation route connecting contributors, evidence, and approval steps.
+
+<details>
+<summary><strong>All 8 readings for annualreports.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Company annual reporting** — Established meaning | Annual reports document a company's yearly financial and management information. | A corporate reporting publisher or document workflow vendor. |
+| **10-K and shareholder report context** — Established institutional context | The SEC distinguishes a Form 10-K from a shareholder annual report while describing their overlap. | A sourced disclosure library or professional research interface. |
+| **Organizational results over time** — Established usage | UNICEF publishes an annual-report series about its work and results. | A nonprofit reporting service or organizational publishing platform. |
+| **The year's institutional memory** — Original brand concept | Turn an annual document into a referenced record of what changed and why. | An organizational knowledge product or board reporting workspace. |
+| **A library of years** — Original brand concept | The plural becomes a collection that can be browsed across organizations and periods. | A report discovery platform or research archive. |
+| **Year-to-year comparison** — Original brand concept | Place selected disclosures and narrative sections alongside earlier versions. | A document comparison agent or analyst workflow team. |
+| **Evidence behind the narrative** — Original brand concept | Keep the statements, figures, and internal review material linked to their sources. | A reporting preparation and approval product. |
+| **A year made readable** — Original brand concept | Translate a substantial organizational record into reviewed editorial formats. | A communications agency or report design studio. |
+
+</details>
+
+**Meaning and research**
+
+Annual reports are established yearly organizational documents. Cambridge records the company-report meaning, while the SEC's reading guide explains the relationship between a US public company's Form 10-K and its annual report to shareholders. Those documents can overlap, but they are not always identical. The category also extends beyond companies: UNICEF's own annual-report archive provides a primary example of an organization reporting its work and results over time.
+
+Annualreports.si is therefore a direct category name with a useful plural. It can identify a report library, a publishing service, a research interface, or a workflow that helps an organization prepare its own annual narrative. The name combines recurring cadence with substantial source material. A buyer should distinguish document organization and analysis from investment recommendations, formal audit work, or legal compliance; the domain itself confers none of those professional roles.
+
+Sources for the established meanings and capability contexts: [Cambridge Dictionary: annual report](https://dictionary.cambridge.org/dictionary/english/annual-report) [SEC: How to Read a 10-K](https://sec.gov/files/reada10k.pdf) [UNICEF: Annual Report archive](https://www.unicef.org/reports/unicef-annual-report)
+
+**Super Intelligence positioning**
+
+AnnualReports SI can be a focused document-intelligence product for a substantial recurring workflow. A useful agent could locate selected passages, compare the same sections across years, preserve source links, and distinguish a reported figure from an interpretation. A preparation product could help an organization gather approved material and route drafts through reviewers. A publishing product could adapt a completed report into readable summaries and supporting formats. These are different businesses under one clear category name. The SI identity should support careful access to evidence and an inspectable workflow; it should not imply that a model performs an audit, guarantees filing compliance, or produces reliable investment recommendations.
+
+**SI product directions — original product ideas**
+
+- ReportShelf: Organize a sourced annual-report collection by organization, period, and document type.
+- YearCompare: Show selected passages across years and flag wording changes for a researcher to inspect.
+- FigureTrail: Link extracted figures to their original tables, notes, and reported units.
+- NarrativeDesk: Prepare editable summaries that keep reported statements separate from commentary.
+- ContributorMap: Coordinate approved material from an organization's departments and review owners.
+- ImpactEdition: Help a nonprofit team shape reviewed results material into a clear annual publication.
+- BoardBrief: Prepare source-linked reading notes from a board's selected report set.
+- PublicationBridge: Adapt approved report content into web pages, presentations, and concise summaries.
+
+**Why it stands out**
+
+- An exact category phrase: The domain tells a document-oriented buyer what material the business works with.
+- A natural recurring workflow: Yearly reporting supports collection, preparation, comparison, and publishing routes.
+- Broad organizational relevance: Companies, nonprofits, publishers, and professional research teams have different uses for the category.
+
+**Best-fit buyers**
+
+Corporate reporting software teams; annual-report publishers; investor-relations agencies; nonprofit communications services; document intelligence startups; sourced research libraries; report design studios; board information vendors; and organizational knowledge platforms.
+
+**Value rationale**
+
+The asking strategy reflects the phrase's exact category fit and potential relevance to recurring professional workflows. It is a longer name, but the length serves clarity rather than decorative branding. The price is not an appraisal or a sales comparable, and the domain includes no report database, analyst credentials, official endorsement, compliance assurance, or investment outcome.
+
+**Potential uses — original business and product ideas**
+
+- Annual-report directory: A sourced collection with clear organization, period, and document metadata.
+- Report design agency: Editorial structure, layout, and publication services for approved content.
+- Corporate preparation software: Evidence collection, contributor coordination, and human approval workflows.
+- Nonprofit impact publishing: Reviewed yearly narratives about activities, resources, and outcomes.
+- Disclosure comparison tool: Side-by-side inspection of selected documents and sections across years.
+- Professional research workspace: Source-linked notes and document navigation for qualified users.
+- Board reading service: Curated report packs and referenced preparation material.
+- Communications adaptation: Web editions, presentations, and concise summaries drawn from approved reports.
+- Reporting education: Expert-reviewed lessons on reading document structure and understanding terminology.
+- Institutional archives: Organized historical report collections with provenance and publication context.
+- Translation coordination: A workflow for human-reviewed report localization and version consistency.
+- Organizational memory tools: Referenced records that make past plans and reported progress easier to revisit.
+
+**Asking price:** $59,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/annualreports.si)
+
+**Contact for discounted pricing:** [Email about annualreports.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20annualreports.si)
+
+</details>
+
+<details>
+<summary><strong>audiosearch.si</strong> — Sound discovery / spoken knowledge / listening interfaces · <strong>$59,990</strong></summary>
+
+### audiosearch.si
+
+**Broader meanings and brand readings**
+
+Audiosearch.si can mean search for a sound, search within speech, or search by listening and speaking. Each reading changes the buyer and the interface. A filmmaker may need an effect, an enterprise team may need a passage in a recording, and a listener may want a way to explore a collection without browsing a long list. The broad compound gives those workflows a common identity while preserving room for a focused launch. Documented language-audio research is distinguished below from original product positions; voice access and archive ideas are possibilities, not claims of an existing system.
+
+**Strongest naming routes**
+
+- AudioSearch SI — Find the sound you mean: A descriptive retrieval route for licensed sound collections.
+- AudioSearch Knowledge — Return to the useful moment: A source-linked route for lectures, interviews, and company recordings.
+- AudioSearch Voice — Ask. Listen. Explore: A spoken-interface route for navigating an authorized collection.
+
+<details>
+<summary><strong>All 8 readings for audiosearch.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Search for described sounds** — Established research context | Language-audio retrieval research connects written descriptions with relevant audio recordings. | A sound-library platform or audio retrieval software team. |
+| **Language and sound in one space** — Established research context | CLAP studies representations that relate language descriptions to audio content. | A research team or developer building audio discovery interfaces. |
+| **Find the spoken passage** — Original brand concept | Locate a user-selected phrase or topic inside a permissioned spoken recording. | An enterprise knowledge product or interview-research workspace. |
+| **Search through your voice** — Original brand concept | Treat audio as the input channel for asking what to find. | A voice-interface developer or hands-free discovery product. |
+| **The listening librarian** — Original brand concept | Give a large sound collection an understandable catalog and a guided route through it. | A media archive, cultural institution, or production library. |
+| **A sonic reference finder** — Original brand concept | Use a brief or reference to explore candidate sounds for a creative project. | A film, game, or sonic-branding team. |
+| **Recorded knowledge, recoverable** — Original brand concept | Make authorized conversations and lectures easier to revisit with source-linked notes. | A training vendor, publisher, or organizational learning team. |
+| **Explore by resemblance** — Original brand concept | Offer candidate recordings that a user can compare with a selected reference. | A music discovery service or research-oriented audio tool. |
+
+</details>
+
+**Meaning and research**
+
+AudioSearch is a descriptive compound joining a media type with a useful action. Its broad literal reading is finding audio or finding information within it. These are not quite the same task: someone may want a recording with a particular sound, a spoken phrase inside a long recording, or a relevant item in a catalog. The name can support any one of those routes if the product states clearly what it searches and what evidence accompanies a result.
+
+Primary research provides a concrete non-transcription route. Audio Retrieval with WavText5K and CLAP Training investigates connecting language descriptions with relevant audio recordings. The related CLAP paper studies shared representations of language and sound. Those contexts make descriptive sound retrieval a grounded direction alongside original brand concepts such as archive navigation or a voice-led search interface. They do not establish the performance of a proposed AudioSearch product or grant rights to any recording.
+
+Sources for the established meanings and capability contexts: [Audio Retrieval with WavText5K and CLAP Training](https://arxiv.org/abs/2209.14275) [CLAP: Learning Audio Concepts From Natural Language Supervision](https://arxiv.org/abs/2206.04769)
+
+**Super Intelligence positioning**
+
+AudioSearch SI can name a specialist retrieval agent with a concrete job: help a user find and inspect relevant material in sound. A useful product might translate a natural-language request into candidate clips, show why they were selected, and let the user listen before deciding. A spoken-knowledge route could connect an answer to an exact recording and timestamp. A creative route could help a sound designer explore a licensed library. The domain suits tools, subscription archives, and enterprise interfaces because it states the action directly. Its SI identity should emphasize organized access and reviewable results rather than universal understanding, perfect recognition, or automatic rights clearance.
+
+**SI product directions — original product ideas**
+
+- SoundQuery: Return candidate clips from a licensed collection using a user's written sound description.
+- SpokenMoment: Find relevant passages in authorized recordings and preserve the original audio context.
+- ArchiveGuide: Prepare searchable tags and collection notes for a curator to review.
+- VoiceExplore: Offer a spoken route through a collection with clear choices and playback controls.
+- SonicBrief: Turn a film or game brief into inspectable sound-reference candidates.
+- LectureReturn: Link a learner's question to relevant moments and supporting notes in approved teaching recordings.
+- SimilarityShelf: Organize user-selected reference sounds and suggest items for comparative listening.
+- QueryAudit: Track what was searched, which sources were consulted, and why particular results were shown.
+
+**Why it stands out**
+
+- A direct action name: Audio + search makes the central workflow understandable without technical vocabulary.
+- Several distinct search directions: Finding sound, finding speech, and searching through voice each serve a different product position.
+- Consumer and enterprise potential: Libraries, archives, learning platforms, and business software can each choose a specific audience.
+
+**Best-fit buyers**
+
+Audio retrieval startups; licensed sound-library operators; enterprise knowledge software teams; podcast and interview research tools; music discovery products; educational publishers; cultural archives; voice-interface developers; and film or game audio studios.
+
+**Value rationale**
+
+The seller's asking strategy reflects the compound's category clarity and usefulness to several knowledge and creative workflows. It can support a focused feature name or a broader search platform. The domain does not include a database, search index, copyrighted recordings, proprietary models, an existing audience, or evidence of retrieval accuracy.
+
+**Potential uses — original business and product ideas**
+
+- Sound-effects discovery: A searchable, properly licensed catalog for film and game production.
+- Podcast research workspace: Permissioned notes and passage discovery for researchers and editors.
+- Lecture navigation: Tools helping learners revisit approved recordings and course material.
+- Corporate recording library: Search interfaces for authorized training sessions and presentations.
+- Music reference discovery: Curated comparisons and listening notes for creative exploration.
+- Cultural sound archive: A catalog for oral histories, field recordings, and contextual metadata.
+- Audio asset management: Tagging, version organization, and search across production files.
+- Voice-led discovery: A conversational interface to an existing, authorized content collection.
+- Interview editing support: Source-linked navigation to selected answers and topics.
+- Research dataset browser: A transparent interface for inspecting audio examples and annotations.
+- Retail audio previews: An organized discovery experience for licensed music and sound products.
+- Listening education: Courses and exercises in describing, comparing, and contextualizing sound.
+
+**Asking price:** $59,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/audiosearch.si)
+
+**Contact for discounted pricing:** [Email about audiosearch.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20audiosearch.si)
+
+</details>
+
+<details>
+<summary><strong>drumloop.si</strong> — Drum patterns / creative cycles / rhythmic collaboration · <strong>$31,990</strong></summary>
+
+### drumloop.si
+
+**Broader meanings and brand readings**
+
+Drumloop.si starts with an immediately recognizable music-production phrase, then opens into several different stories about repetition. A loop can be a musical resource, a training cycle, a collaborative handoff, or a recurring sequence of work. Drum gives those stories a physical sense of pulse and human performance. The most credible launch routes remain music and music education; the broader cycle metaphors are explicitly original brand concepts for buyers who want a rhythmic identity rather than a literal audio catalog.
+
+**Strongest naming routes**
+
+- DrumLoop SI — Find your next groove: A musician-facing agent for pattern exploration and editable beat ideas.
+- DrumLoop Practice — Repeat with purpose: An education brand that turns repetition into focused percussion exercises.
+- DrumLoop Teams — Put work in rhythm: A creative workflow brand built around repeatable cycles and visible handoffs.
+
+<details>
+<summary><strong>All 8 readings for drumloop.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **A repeating drum recording** — Established usage | Drum loops are a documented audio-production resource discussed in Ableton's manual. | A loop library, music-production tool, or audio-content publisher. |
+| **A pattern with expressive groove** — Established research context | Drum timing and dynamics are subjects of Magenta's generative-performance research. | A creative music-agent team or percussion-learning product. |
+| **A practice loop** — Original brand concept | Repetition becomes a structured way to work on a particular rhythm or technique. | A teacher-led practice planner or percussion course platform. |
+| **The band's shared pulse** — Original brand concept | The name can represent the common rhythmic layer connecting several musicians. | A rehearsal, collaboration, or remote session workspace. |
+| **A loop of creative feedback** — Original brand concept | Make, listen, revise, and try again form a visible production cycle. | An agent-assisted composition notebook or producer review service. |
+| **Reusable rhythmic building blocks** — Original brand concept | A library of small patterns can be assembled into larger musical structures. | An educational sequencer or licensed production-template marketplace. |
+| **A team's working tempo** — Original brand concept | Use drum and loop as a metaphor for recurring meetings and coordinated tasks. | A workflow product for creative teams with regular delivery cycles. |
+| **A sonic signature** — Original brand concept | A short, repeated rhythm becomes a recognizable element of a brand or experience. | A sonic-branding agency or interactive-media sound studio. |
+
+</details>
+
+**Meaning and research**
+
+DrumLoop is a direct combination of a percussion source and a repeating musical unit. Ableton's reference manual uses drum loops in its treatment of audio timing and manipulation, giving the phrase a concrete production context. The name tells musicians what kind of material they can expect: rhythmic patterns that can be repeated, arranged, compared, and developed. It can accommodate recorded audio, authored patterns, and teaching material without being tied to a particular workstation.
+
+There is also a documented machine-learning context for this naming route. Magenta's GrooVAE research explores generating and controlling expressive drum performances, including timing and dynamics. That does not prove anything about a future DrumLoop product, but it makes groove-focused creative assistance a grounded direction. Beyond music, the repeated-pattern idea can become an original metaphor for a team's working rhythm, a practice cycle, or a sequence of reusable steps.
+
+Sources for the established meanings and capability contexts: [Ableton: Audio Clips, Tempo, and Warping](https://www.ableton.com/en/live-manual/11/audio-clips-tempo-and-warping/) [Magenta: GrooVAE](https://magenta.tensorflow.org/groovae)
+
+**Super Intelligence positioning**
+
+DrumLoop SI can be a specialist creative-agent identity rather than a general-purpose intelligence claim. A practical product could accept a producer's tempo, style references, and arrangement goals, then propose a small set of drum ideas with explanations and editable timing. Another route could support teachers by organizing exercises around the student's chosen practice goals. The recurring-loop metaphor also fits agents that coordinate revision rounds or reusable production steps. A buyer can keep the literal musical promise central while making the SI suffix a clear signal of assisted exploration, with musicians retaining control over what is recorded, licensed, and released.
+
+**SI product directions — original product ideas**
+
+- GrooveSketch: Propose several drum-pattern directions from a musician's brief, with editable timing and dynamics.
+- LoopLibrarian: Organize a licensed loop collection by tempo, feel, instrumentation, and user-defined tags.
+- PracticeCycle: Build short teacher-reviewed exercises around a chosen rhythmic skill and practice duration.
+- Arrangement Pulse: Suggest where a pattern might enter, vary, or leave a song without deciding the final composition.
+- SessionMatch: Prepare rhythmic reference notes for collaborators working on a shared musical brief.
+- VariationDesk: Compare restrained and expressive alternatives for the same authored pattern.
+- RhythmExplain: Describe a selected pattern in plain language and produce exercises for a tutor to review.
+- ProductionLoop: Coordinate creative review, asset versioning, and repeated delivery steps for a sound team.
+
+**Why it stands out**
+
+- A clear production noun: The word pair sets expectations quickly for musicians and producers.
+- Both technical and human: Loop suggests reusable structure; drum suggests expression, rhythm, and performance.
+- Room for several business models: Libraries, tools, lessons, subscriptions, and studio services can all fit the same focused name.
+
+**Best-fit buyers**
+
+Beat-library publishers; digital audio tool developers; music-agent startups; percussion teachers; independent producers; sonic-branding agencies; rehearsal-platform teams; game-audio studios; and creative workflow companies that want a rhythm-based metaphor.
+
+**Value rationale**
+
+The seller's asking price reflects the name's practical category clarity, familiar spelling, and focused route to music buyers. Its wider cycle metaphor adds flexibility without requiring a strained acronym. It is a naming asset, not a bundled sample library, software license, or evidence of existing customer demand.
+
+**Potential uses — original business and product ideas**
+
+- Recorded loop catalog: Curated, properly licensed percussion recordings organized for producers.
+- Drum-pattern software: A sequencer or pattern editor with a clear rhythm-centered identity.
+- Percussion education: Courses, exercises, and lesson plans for different instruments and ability levels.
+- Producer membership: A community exchanging authored patterns, arrangement critique, and production practice.
+- Live rehearsal planning: Shared groove references and notes for bands preparing a performance.
+- Game-audio assets: Rhythmic layers and transitions for interactive sound designers.
+- Film scoring services: A studio developing percussion textures for directors and composers.
+- Sonic identity projects: Short rhythmic signatures developed with client and artist approval.
+- Hardware education: Tutorials and original patterns for drum machines and electronic percussion.
+- Creative project cycles: A workflow service organizing repeated review and delivery rounds.
+- Music discovery newsletter: Editorial coverage of drum sounds, rhythm traditions, and production techniques.
+- Workshop events: Group rhythm sessions and collaborative composition experiences.
+
+**Asking price:** $31,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/drumloop.si)
+
+**Contact for discounted pricing:** [Email about drumloop.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20drumloop.si)
+
+</details>
+
+<details>
+<summary><strong>textart.si</strong> — Words as images / typography / creative expression · <strong>$39,990</strong></summary>
+
+### textart.si
+
+**Broader meanings and brand readings**
+
+Textart.si has a useful two-way reading: the art inside a piece of text, and text used as the material of an artwork. Its strongest routes stay close to that intersection, yet reach different buyers: lettering designers, writers, educators, publishers, and teams building creative agents. Text can be the input, the visible output, or the organizing idea. The eight readings below distinguish documented artistic and research contexts from original positioning concepts; they are alternatives for a buyer to choose among, not eight dictionary definitions.
+
+**Strongest naming routes**
+
+- TextArt SI — Give words a visual life: A creative workspace that connects wording, typography, and composition.
+- TextArt Studio — Make language your medium: An expressive identity for artists, poets, and experimental publishers.
+- TextArt Learn — Read it. Shape it. Remember it: A visual language-learning route with teachers directing the experience.
+
+<details>
+<summary><strong>All 8 readings for textart.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Language as art** — Established context | Words and language can be artistic material, as documented in MoMA's conceptual-art collection. | An art-learning platform, gallery publishing tool, or language-based creative studio. |
+| **Semantic typography** — Established research context | A word's visual form can suggest its meaning while preserving its legibility. | A typography research team or designer-facing lettering assistant. |
+| **Text to artwork** — Original brand concept | Read the name as a transformation from a written brief to a designed composition. | An agent that proposes posters, quotes, or editorial graphics for human approval. |
+| **The art of writing** — Original brand concept | Shift the emphasis from letter shapes to the craft, rhythm, and personality of prose. | A writing workshop, editorial coach, or storytelling product. |
+| **Characters as canvas** — Original brand concept | Treat letters and symbols as a constrained visual construction kit. | An interactive character-art editor or developer-oriented creative community. |
+| **Text with a living layout** — Original brand concept | Make verbal content respond to reader choices, motion, or a changing context. | An interactive poetry publisher or creative coding toolkit. |
+| **A brand's verbal gallery** — Original brand concept | Present slogans, product language, and typography as one coherent collection. | A brand studio or language-design asset library. |
+| **Learning through letterforms** — Original brand concept | Use visual treatments of words to support exploration of spelling, vocabulary, and design. | An educational publisher or classroom creativity tool. |
+
+</details>
+
+**Meaning and research**
+
+TextArt brings two familiar English words together: text, the verbal material, and art, its creative treatment. The combination immediately suggests language that can be seen as well as read. MoMA documents language as part of conceptual art and presents works in which words, instructions, and representations carry artistic meaning. This supports the language-and-art connection without making TextArt a single official category with one rigid definition.
+
+A particularly relevant technical context is semantic typography: shaping the appearance of a word to suggest its meaning while retaining readability. The authors of Word-As-Image study that problem using language-vision models. Textart.si can therefore work both as a straightforward creative name and as a proposed identity for tools connecting verbal ideas to visual form. ASCII-style compositions, expressive writing, and interactive poetry are additional brand directions, rather than claims that one product already offers every capability.
+
+Sources for the established meanings and capability contexts: [MoMA: Language and Art](https://www.moma.org/collection/terms/conceptual-art/language-and-art) [Word-As-Image for Semantic Typography](https://arxiv.org/abs/2303.01818)
+
+**Super Intelligence positioning**
+
+TextArt SI can position Super Intelligence as a creative collaborator at the boundary between language and image. The commercial focus could be a designer's agent that turns a brief into several editable typographic directions, explains the tradeoffs, and keeps wording legible. Another buyer could choose the writing route, using agents to explore voice and narrative structure before a human editor selects the result. The name describes the creative material rather than promising a particular model's performance. Its natural word pair also supports a focused launch product that can later add publishing, asset management, or classroom workflows.
+
+**SI product directions — original product ideas**
+
+- MeaningShape: Suggest letter treatments linked to a word's sense, with editable outlines and a readability review.
+- PosterBrief: Turn a written campaign brief into typographic poster directions and a list of layout decisions.
+- PoemCanvas: Help poets arrange lines, pacing, and interactive reading paths without replacing the author's voice.
+- GlyphGarden: Generate character-based composition ideas within a chosen alphabet or symbol set.
+- BrandVoice Gallery: Organize slogans, headlines, and visual styles into a reviewable brand-language collection.
+- LetterLesson: Offer teacher-controlled exercises connecting vocabulary, letterforms, and creative composition.
+- EditionAgent: Prepare consistent text-art variants for print sizes, web panels, and exhibition captions.
+- Legibility Lens: Flag possible readability and contrast issues for a designer to inspect before publication.
+
+**Why it stands out**
+
+- Immediate category signal: The text + art combination gives a creative buyer a clear starting story without a fabricated acronym.
+- Several genuine buyer groups: It can address visual designers, literary creators, education teams, and publishing software rather than a single narrow format.
+- Strong extension reading: TextArt SI sounds like a creative product name followed by its intelligence-oriented category.
+
+**Best-fit buyers**
+
+Typography and font-tool developers; independent design studios; creative-agent startups; visual poetry publishers; educational content companies; museum-technology teams; print-on-demand operators; and developer communities building expressive text interfaces.
+
+**Value rationale**
+
+The asking strategy rests on clear category language, a compact two-word construction, and several complementary creative workflows. A buyer can explain the product in one sentence and still choose a distinctive audience. The value case is naming fit and brand flexibility; it does not depend on existing traffic, museum affiliation, or a claim that the domain confers rights to any third-party artwork.
+
+**Potential uses — original business and product ideas**
+
+- Custom lettering commissions: A storefront for artist-created wordmarks, quotes, and typographic compositions.
+- Editorial illustration: A studio specializing in visual treatments of headlines and publication themes.
+- Wedding and event stationery: Personalized lettering and text-led print designs for celebrations.
+- Poetry editions: A publisher of visual poems, artist books, and experimental reading experiences.
+- Character-art community: A gallery and editor for artwork assembled from letters and symbols.
+- Classroom design exercises: Teacher-curated activities joining vocabulary, composition, and visual communication.
+- Brand-language consultancy: A service that aligns slogans, editorial voice, and typographic presentation.
+- Merchandise design: A workflow for text-led apparel, posters, packaging, and licensed artist collections.
+- Exhibition interpretation: Tools for creating consistent artwork captions and language-focused visitor experiences.
+- Creative coding workshops: Courses exploring programmable typography and interactive text compositions.
+- Print preparation: A utility for reviewing line breaks, spacing, and output variants before a design reaches production.
+- Writing craft membership: A community centered on expressive prose, collaborative critique, and carefully edited work.
+
+**Asking price:** $39,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/textart.si)
+
+**Contact for discounted pricing:** [Email about textart.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20textart.si)
+
+</details>
+
+<details>
+<summary><strong>textreader.si</strong> — Read aloud / recognized text / guided understanding · <strong>$47,990</strong></summary>
+
+### textreader.si
+
+**Broader meanings and brand readings**
+
+Textreader.si can describe a reader for the text, a reader of the text, or a companion to the person reading it. Those interpretations lead to distinct products: spoken output, text recognition, careful document navigation, or a learning experience. The strongest routes are grounded in an understandable activity rather than a fabricated acronym. Established technical contexts are marked separately from original product positions below. In an SI reading, the name can emphasize access, attention, and source-linked understanding, with a clearly defined scope and controls that help the user decide what to read, hear, inspect, or question next.
+
+**Strongest naming routes**
+
+- TextReader SI — Stay close to the words: A source-linked reading companion that helps users inspect the original material.
+- TextReader Voice — Read your way: A user-controlled read-aloud route with clearly stated accessibility features.
+- TextReader Capture — Bring the page into text: A recognition and digitization route with visible review of extracted results.
+
+<details>
+<summary><strong>All 8 readings for textreader.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Text spoken aloud** — Established technical context | Text-to-speech turns written content into speech; W3C documents its accessibility uses. | A read-aloud app or assistive-product team with a defined scope. |
+| **Printed text recognized** — Established technical context | OCR tools such as Tesseract extract printed text from images. | A document digitization product or text-recognition developer. |
+| **A companion to the reader** — Original brand concept | Support a person's reading choices, notes, and questions without replacing the source. | A study app or personal reading workspace. |
+| **A source-linked document guide** — Original brand concept | Help a user navigate passages and connect answers back to the material reviewed. | An enterprise document agent or research tool. |
+| **The editor's second reading** — Original brand concept | Offer review questions about clarity, consistency, and intended audience. | An editorial workflow product or writing software team. |
+| **Reading across formats** — Original brand concept | Coordinate a document's visual, spoken, and extracted-text versions. | A publishing or document conversion service. |
+| **A quieter reading space** — Original brand concept | Make the name an identity for focused reading and user-controlled presentation. | A consumer reading app or browser-interface developer. |
+| **From page to discussion** — Original brand concept | Turn selected passages into questions and shared learning prompts. | A teacher's reading platform or facilitated book community. |
+
+</details>
+
+**Meaning and research**
+
+TextReader is a natural descriptive word pair rather than a claim of one exclusive dictionary category. It can name something that reads text aloud, recognizes written characters, or helps a person work through a document. W3C's accessibility education explains text-to-speech and the broader functions of screen readers. Those are related but not interchangeable: a product that speaks text should not automatically be represented as a complete screen reader.
+
+A separate technical context is optical character recognition. The Tesseract project's own documentation describes an engine that extracts printed text from images. A buyer could therefore choose an aloud-reading route, an image-to-text route, or an original reading-and-understanding route. Textreader.si has useful clarity because it names the material and the user-facing activity, while leaving the exact implementation open. The domain alone does not establish accessibility conformance, recognition accuracy, or comprehension capability.
+
+Sources for the established meanings and capability contexts: [W3C WAI: Text to Speech](https://www.w3.org/WAI/perspective-videos/speech/) [Tesseract User Manual](https://tesseract-ocr.github.io/tessdoc/)
+
+**Super Intelligence positioning**
+
+TextReader SI can be a focused intelligence identity for accessing and working with written material. A practical product could let a user select a document, ask a question, and inspect the passages behind a proposed answer. Another route could combine read-aloud controls with personal notes; a recognition route could extract text from images and present uncertain portions for correction. Each solves a different part of the reading journey. The domain fits education, enterprise knowledge, publishing, and personal productivity because the activity is widely understandable. The SI brand should state which reading functions it supports rather than imply complete accessibility, perfect understanding, or error-free recognition.
+
+**SI product directions — original product ideas**
+
+- PassageGuide: Return source-linked candidate passages in response to a user's document question.
+- ReadAloud Desk: Offer user-controlled speech, pacing, and notes for selected written content.
+- PageCapture: Extract printed text from supplied images and make uncertain portions easy to review.
+- StudyThread: Organize a learner's questions, selected passages, and teacher-approved exercises.
+- EditorSecondPass: Prepare clarity and consistency questions for a human editor's review.
+- FormatBridge: Coordinate text, spoken, and visual versions while preserving the original source.
+- QuietReader: Help a user choose a reading layout and keep notes without automatically rewriting the source.
+- DiscussionStarter: Prepare passage-based prompts for a teacher or reading-group host to select.
+
+**Why it stands out**
+
+- A clear activity name: The text + reader combination describes a useful relationship without technical jargon.
+- Several concrete implementation routes: Speech, recognition, study, and document navigation are different products under one coherent name.
+- Human-centered positioning: The word reader can keep the person's experience central rather than foreground a particular model.
+
+**Best-fit buyers**
+
+Read-aloud app developers; assistive-product teams; OCR and digitization vendors; educational publishers; enterprise document software companies; editorial tools; browser reading interfaces; study-product startups; and source-linked research agents.
+
+**Value rationale**
+
+The seller's asking strategy reflects a clear descriptive compound, recognizable user benefit, and broad document and learning buyer fit. The name can support a focused utility and related reading workflows. It does not bundle software, content permissions, accessibility certification, language coverage, or proven recognition or comprehension accuracy.
+
+**Potential uses — original business and product ideas**
+
+- Read-aloud application: User-controlled speech and reading settings for selected written material.
+- Document recognition: Image-to-text extraction with a visible human correction workflow.
+- Study companion: Notes, passage links, and instructor-approved learning prompts.
+- Enterprise document navigation: Permissioned search and source-linked reading across company material.
+- Editorial review: A second-pass workspace for questions about clarity and consistency.
+- Publishing conversion services: Reviewed preparation of text and alternate presentation formats.
+- Focused reading interface: A quieter presentation with user-selected layout and note controls.
+- Research notebooks: A system connecting commentary to specific passages and documents.
+- Reading-group platform: Shared selections, discussion questions, and participant notes.
+- Language practice: Teacher-designed reading and listening exercises around approved texts.
+- Archive digitization: Recognition and review workflows for authorized historical collections.
+- Personal knowledge tools: A place to revisit saved passages and organize reading questions.
+
+**Asking price:** $47,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/textreader.si)
+
+**Contact for discounted pricing:** [Email about textreader.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20textreader.si)
+
+</details>
+
+<details>
+<summary><strong>textvideo.si</strong> — Words to video / video understanding / visual publishing · <strong>$59,990</strong></summary>
+
+### textvideo.si
+
+**Broader meanings and brand readings**
+
+Textvideo.si is a two-way bridge rather than a single feature label. It can read as video created from a written idea, text recovered from a recording, words displayed within motion, or a conversation about what a video contains. Those routes serve different buyers: creative teams need production, enterprises need retrieval, teachers need explainers, and publishers need adaptable formats. The documented text-to-video context is separated below from original positioning ideas. The SI suffix gives a natural product-category ending while keeping the domain understandable to someone who has never used a technical model name.
+
+**Strongest naming routes**
+
+- TextVideo SI — From words to moving stories: A creative production route centered on written intent and editable visual plans.
+- TextVideo Search — Find the moment in plain language: A retrieval route for authorized video libraries and knowledge teams.
+- TextVideo Learn — Make the explanation visible: An educational route translating written concepts into reviewed visual sequences.
+
+<details>
+<summary><strong>All 8 readings for textvideo.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Text-to-video creation** — Established technical context | Written prompts are used in documented video-generation research such as VideoPoet. | A creative-agent developer or script-led production platform. |
+| **Video into words** — Original brand concept | Read the pair in reverse: moving images become descriptions, notes, or summaries. | A video-understanding tool for researchers, teachers, or business teams. |
+| **Words inside motion** — Original brand concept | Text becomes a visible part of a video through captions, titles, and animated language. | A motion-design studio or caption-focused publishing tool. |
+| **A script's production journey** — Original brand concept | Follow a written idea through scenes, assets, revisions, and a final edited sequence. | An agency workflow product or independent production team. |
+| **A searchable video library** — Original brand concept | Use language to organize and find relevant moments in an authorized collection. | An enterprise knowledge team, media archive, or learning platform. |
+| **Explain it visually** — Original brand concept | Turn a written explanation into a planned visual teaching sequence. | An educational publisher or training-content studio. |
+| **Talk to the timeline** — Original brand concept | A conversational interface becomes a way to ask about scenes and editing choices. | A video-editor assistant or review collaboration tool. |
+| **One idea, several formats** — Original brand concept | Coordinate a written article, a video treatment, and supporting publication assets. | A content operations company or cross-format publishing service. |
+
+</details>
+
+**Meaning and research**
+
+TextVideo is a descriptive word pair, not a claim of a separate dictionary term. It puts two familiar media forms side by side and lets a buyer choose the direction of the relationship. A literal product reading is text-to-video creation: written instructions guide a moving-image result. Google Research's VideoPoet publication documents text-to-video among its research tasks, establishing a primary technical context without tying the proposed brand to that system.
+
+The reverse direction is equally useful as an original brand route: video can be described, transcribed, summarized, searched, or adapted into written learning material. A third route keeps text inside the picture through captions, kinetic typography, or narrative overlays. Textvideo.si can therefore describe generation, understanding, or presentation. A strong buyer would select one workflow at launch and explain its scope, rather than suggesting that every media transformation is already solved.
+
+Sources for the established meanings and capability contexts: [Google Research: VideoPoet](https://research.google/blog/videopoet-a-large-language-model-for-zero-shot-video-generation/)
+
+**Super Intelligence positioning**
+
+TextVideo SI can describe a specialist intelligence layer between language and video. A practical launch could focus on an agent that reads a script, proposes a storyboard, tracks revisions, and prepares editable production notes. A different buyer could focus on searching a permissioned video collection or explaining selected scenes to a learner. These directions are commercially distinct: production tools sell creative control, retrieval tools sell useful access to existing material, and educational tools sell clarity. The common naming advantage is an understandable media relationship. The brand should express a chosen workflow and human review, not a guarantee of factual accuracy, rights clearance, or unrestricted generation.
+
+**SI product directions — original product ideas**
+
+- ScriptToScene: Convert an approved script into scene proposals, shot notes, and editable production choices.
+- TimelineTalk: Let an editor ask about selected footage and receive timestamped review suggestions.
+- CaptionWorkshop: Draft captions and title treatments for a human reviewer to edit before release.
+- MomentFinder: Search a permissioned collection through written descriptions and return inspectable candidate clips.
+- LessonMotion: Plan a visual explanation from teacher-approved text and learning objectives.
+- VersionNarrator: Summarize what changed between video revisions and the written brief.
+- ArticleToStoryboard: Prepare a video treatment from an authored article without automatically publishing it.
+- MediaBridge: Coordinate written summaries, scene notes, and supporting assets across a content team.
+
+**Why it stands out**
+
+- Straightforward media vocabulary: Two familiar words communicate the field without requiring a model-specific explanation.
+- A reversible relationship: Generation, analysis, and presentation offer substantially different product positions.
+- A broad professional audience: Agencies, educators, publishers, archives, and enterprise software teams can each find a focused fit.
+
+**Best-fit buyers**
+
+Creative-agent startups; video editing software teams; production agencies; corporate learning vendors; educational publishers; media-archive operators; captioning and localization services; content operations companies; and research groups working on language-video interfaces.
+
+**Value rationale**
+
+The seller's end-user asking price is supported as a naming strategy by category clarity, two-way product flexibility, and a compact media-focused phrase. It is not an estimate derived from comparable sales or model performance. The domain is offered as a brand asset, without footage, software, audience, or permissions to third-party content.
+
+**Potential uses — original business and product ideas**
+
+- Script-led production platform: A workspace that keeps a written brief connected to scenes and revisions.
+- Motion typography studio: Text-centered animation for editorial, advertising, and educational projects.
+- Video knowledge search: Retrieval tools for authorized company training and recorded presentations.
+- Educational explainers: Reviewed videos that make written concepts easier to follow.
+- Captioning service: Human-reviewed subtitles, text overlays, and publication-ready language assets.
+- Content adaptation agency: A service converting an approved article into a planned video format.
+- Interview research tool: A permissioned workspace for notes, transcript review, and selected moments.
+- Media archive interface: A catalog helping researchers discover relevant footage and its context.
+- Creator planning app: A script notebook, shot planner, and revision companion.
+- Corporate communications: Tools for adapting approved announcements into accessible formats.
+- Localization workflow: Coordinated review of translated captions, narration plans, and visual timing.
+- Interactive video learning: A product connecting questions and written explanations to selected scenes.
+
+**Asking price:** $59,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/textvideo.si)
+
+**Contact for discounted pricing:** [Email about textvideo.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20textvideo.si)
+
+</details>
+
+<details>
+<summary><strong>truthordare.si</strong> — Honest questions / playful challenges / choice-led growth · <strong>$31,990</strong></summary>
+
+### truthordare.si
+
+**Broader meanings and brand readings**
+
+Truthordare.si has a built-in interaction: two clear paths and an invitation to choose. The established game is one route, while original brand readings can put the contrast to work in journaling, learning, creative practice, and group facilitation. Reflection versus action, evidence versus experiment, and story versus performance are different ways to frame that choice. The full phrase gives a consumer product a recognizable entry point without forced letter expansions. The proposed SI routes below emphasize personalized prompts and user-selected limits, not claims that intelligence software can certify truth.
+
+**Strongest naming routes**
+
+- TruthOrDare SI — Choose your kind of fun: A recognizable social game with host-selected prompts and flexible participation.
+- TruthOrDare Journal — Reflect, then try: A reflective route connecting questions with small voluntary actions.
+- TruthOrDare Workshop — Know it or test it: A facilitator's framework for separating evidence from a proposed experiment.
+
+<details>
+<summary><strong>All 8 readings for truthordare.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **The question-or-challenge game** — Established usage | Truth or dare offers a choice between a truth and a dare, as documented by a game manufacturer's instructions. | A social-game publisher or host-controlled party app. |
+| **Reflect or act** — Original brand concept | Choose between articulating a thought and attempting a practical next step. | A guided journaling product or personal creativity app. |
+| **Evidence or experiment** — Original brand concept | Compare what is already supported with what is worth testing next. | A workshop tool for product teams and research facilitators. |
+| **Tell a story or perform one** — Original brand concept | A prompt can invite either narrative sharing or a small creative performance. | A creator platform or event-content studio. |
+| **Learn or try** — Original brand concept | Alternate explanations with voluntary practice tasks. | A language teacher, skills-course publisher, or training designer. |
+| **A conversational fork** — Original brand concept | Make two possible paths visible rather than presenting one prescribed response. | A conversational-interface team or interactive fiction developer. |
+| **A group's invitation** — Original brand concept | A familiar phrase becomes an easy-to-explain opening for participation. | An icebreaker service, community host, or team facilitator. |
+| **Curiosity with agency** — Original brand concept | Let the player select the level and kind of engagement, including a pass. | A user-controlled social-experience or educational product. |
+
+</details>
+
+**Meaning and research**
+
+TruthOrDare uses the complete familiar phrase rather than a cryptic abbreviation. Its literal anchor is a game built around questions and challenges: a player takes a truth or a dare. A manufacturer-issued Mattel instruction manual documents this choice explicitly. The source is evidence of established game usage, not a universal rulebook; a buyer developing a new product can choose its own original presentation, prompt packs, and participation rules.
+
+The phrase also creates a strong original brand contrast between reflection and action. Truth can suggest describing what matters, while dare can suggest trying a chosen experiment. That contrast can support creativity, learning, and facilitated discussion beyond literal party play. The most useful promise is a choice-led experience: users decide what they want to answer or attempt. It should not imply compulsory disclosure, scientifically established truth detection, or a model's authority to judge a person's honesty.
+
+Sources for the established meanings and capability contexts: [Mattel: Dare Ya! instruction manual](https://service.mattel.com/instruction_sheets/I3028.pdf)
+
+**Super Intelligence positioning**
+
+TruthOrDare SI can make an intelligent agent the curator of choices, rather than the judge of a person. A product could propose questions and activities suited to a selected theme, explain why each fits, and let a host or user approve the set. The same name can support a journaling assistant that offers a reflective question alongside an optional creative task. A business-workshop route could turn uncertain assumptions into an evidence discussion or a planned experiment. These are specific, selectable product directions. The value lies in thoughtful preparation, continuity, and user agency; the name does not establish psychological insight, truth detection, or an obligation to participate.
+
+**SI product directions — original product ideas**
+
+- ChoiceHost: Prepare theme-based game rounds with host controls for topic, intensity, and skipping.
+- ReflectAndTry: Pair a journaling question with a small optional activity chosen by the user.
+- EvidenceOrTest: Turn a team's assumption into either a source review or a clearly scoped experiment.
+- StoryFork: Offer a narrative question or a performance prompt for interactive storytelling sessions.
+- LanguageDare: Prepare teacher-approved speaking and vocabulary challenges with a parallel discussion route.
+- CreativeStretch: Suggest voluntary drawing, writing, or improvisation tasks within a user's chosen limits.
+- PromptCurator: Organize original prompt packs by audience and review them with a human editor.
+- GroupWarmup: Draft icebreakers that let participants choose a question, a playful task, or a pass.
+
+**Why it stands out**
+
+- A recognizable complete phrase: The name supplies a simple interaction story before a buyer explains the product.
+- An energetic dual structure: Questions and challenges give the brand room for both conversation and action.
+- Consumer and facilitated routes: Games, journaling, learning, and workshops offer distinct audiences with different product formats.
+
+**Best-fit buyers**
+
+Party-game developers; social prompt publishers; independent app studios; journaling-product teams; workshop facilitators; language-learning companies; interactive fiction studios; community event hosts; and creators producing original challenge formats.
+
+**Value rationale**
+
+The seller's asking strategy reflects phrase recognition, an intuitive interaction, and flexibility across consumer and learning products. The longer spelling is balanced by a coherent phrase that can be said aloud. The domain does not include an existing game, prompt library, customer base, or rights to any manufacturer's product identity.
+
+**Potential uses — original business and product ideas**
+
+- Party app: Original questions and challenge decks with clear host controls.
+- Printed prompt cards: A physical product line developed with its own artwork and editorial standards.
+- Event facilitation: Customized group activities for community gatherings and celebrations.
+- Reflective journal: Question-led writing paired with optional everyday creative experiments.
+- Team workshop kit: Prompts that help teams articulate assumptions and choose what to test.
+- Language practice: Instructor-selected questions and speaking challenges for learners.
+- Creator series: A consent-led format of interviews, stories, and voluntary creative tasks.
+- Interactive fiction: Narratives structured around disclosure, choice, and action.
+- Improv education: Exercises alternating character questions and performed scenes.
+- Community memberships: Recurring facilitated sessions organized around selected themes.
+- Product discovery: A workshop identity for separating known evidence from experimental ideas.
+- Creative habit app: Small user-selected tasks for writing, drawing, or making something new.
+
+**Asking price:** $31,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/truthordare.si)
+
+**Contact for discounted pricing:** [Email about truthordare.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20truthordare.si)
+
+</details>
+
+<details>
+<summary><strong>xiangqi.si</strong> — Chinese chess / strategic learning / board reasoning · <strong>$39,990</strong></summary>
+
+### xiangqi.si
+
+**Broader meanings and brand readings**
+
+Xiangqi.si is strongest when it embraces its specific subject. The name can identify the game itself, a learning destination, a strategy laboratory, or a cultural publishing project. Those routes reach distinct buyers even though they share one literal meaning: players need coaching, clubs need organization, publishers need interpretation, and researchers need a well-defined reasoning environment. The SI reading adds a second layer around strategic assistance and spatial intelligence. Cultural-learning and research directions are proposed brand positions, with no claimed association to any federation or game operator.
+
+**Strongest naming routes**
+
+- Xiangqi SI — Understand the next move: An explanatory game-analysis identity that emphasizes reasoning over unexplained answers.
+- Xiangqi Learn — One board, many ways to learn: A teaching and publishing route for different languages and experience levels.
+- Xiangqi Lab — Make strategy visible: A focused brand for research, annotated games, and spatial reasoning tools.
+
+<details>
+<summary><strong>All 8 readings for xiangqi.si</strong></summary>
+
+| Reading / metaphor | Interpretation | Possible SI product / buyer |
+| :--- | :--- | :--- |
+| **Chinese chess** — Established meaning | Xiangqi names the two-player strategy board game documented by the game operator's guide. | A game publisher, play platform, or specialist learning business. |
+| **A strategic reasoning testbed** — Established research context | Xiangqi has been used in primary research on spatial strategic reasoning in language models. | A research team building transparent game-analysis experiments. |
+| **A coach at the board** — Original brand concept | Turn the game name into a patient, explanatory learning companion. | An educational app, tutor marketplace, or annotated lesson publisher. |
+| **A bridge between languages** — Original brand concept | Use the domain for explanations that help different language communities discuss the same position. | A bilingual teaching team or cultural education publisher. |
+| **The club's common room** — Original brand concept | Make the name a meeting place for schedules, study groups, and shared game records. | A club-service product or community operator. |
+| **The commentator's desk** — Original brand concept | Translate a board position and its turning points into accessible storytelling. | A tournament media team or specialist content creator. |
+| **An archive of decisions** — Original brand concept | Collect annotated games and the reasoning behind particular choices. | A publishing platform, research archive, or learning library. |
+| **Strategy beyond one move** — Original brand concept | Use the game's visual vocabulary to teach planning, alternatives, and careful comparison. | A workshop provider or educational simulation designer. |
+
+</details>
+
+**Meaning and research**
+
+Xiangqi is the established name for Chinese chess, a two-player strategy game. Xiangqi.com's own guide describes its board, pieces, palace, and river, providing a primary game-operator source for the name's literal context. The domain offers a precise category identity rather than an invented general-purpose word. A buyer can orient the product toward learning, playing, publishing, analysis, or community while keeping the game's name visible.
+
+The connection to intelligent systems is more than a vague metaphor: the authors of Xiangqi-R1 use the game as a research environment for spatial strategic reasoning. Their paper also identifies limitations in general-purpose language models, so the appropriate branding story is exploration, analysis, and carefully checked assistance, not guaranteed perfect play. The routes below develop different buyer-facing interpretations of the same established game name; they do not pretend that Xiangqi has eight unrelated dictionary meanings.
+
+Sources for the established meanings and capability contexts: [Xiangqi.com: Board and Set-up Guide](https://www.xiangqi.com/help/board-and-set-up) [Xiangqi-R1 research paper](https://arxiv.org/abs/2507.12215)
+
+**Super Intelligence positioning**
+
+Xiangqi SI can connect a clearly bounded game world to the broader aspiration of Super Intelligence. The most useful commercial promise is a specialist assistant that can organize game records, explain candidate moves, surface relevant learning material, and state uncertainty. Research contexts support spatial reasoning as a real technical subject, while also reminding buyers that legality and analysis must be checked. The domain fits a product with a coherent data model and an identifiable community. It can host a learning subscription, a club workspace, or research software without presenting an agent as an official arbiter, an unbeatable opponent, or a replacement for expert instruction.
+
+**SI product directions — original product ideas**
+
+- MoveNarrator: Explain candidate continuations in language appropriate to the learner's level, with board-linked notes.
+- BoardVision: Turn a user-provided board image into a proposed position for the user to confirm.
+- OpeningNotebook: Organize a player's opening notes and link recurring positions to authored study material.
+- BilingualBoard: Prepare parallel explanations of game concepts for a bilingual teacher to review.
+- ClubAgent: Coordinate study sessions, player availability, and a shared library of annotated games.
+- CommentaryDesk: Draft position summaries and turning-point explanations for a human commentator.
+- LegalityLab: Help researchers inspect move representations and collect reproducible game-analysis cases.
+- EndgamePath: Guide a learner through selected endgame exercises with explicit feedback and tutor oversight.
+
+**Why it stands out**
+
+- A precise audience signal: The game name gives specialist buyers a direct subject and a coherent product vocabulary.
+- A natural strategy connection: Its strongest SI route grows from the actual game, rather than a forced letter expansion.
+- Several complementary audiences: Players, teachers, clubs, publishers, and reasoning researchers can require different products under the same name.
+
+**Best-fit buyers**
+
+Independent xiangqi game developers; specialist teachers; club and tournament software teams; bilingual education publishers; cultural-learning organizations; game commentators; annotated-game publishers; and researchers studying game-based spatial reasoning.
+
+**Value rationale**
+
+The naming case is the exact game term paired with a concise SI extension and several focused commercial routes. It may suit a committed category buyer better than a broad consumer startup. The asking price does not assert player numbers, search traffic, federation endorsement, exclusive rights to the game, or a demonstrated software advantage.
+
+**Potential uses — original business and product ideas**
+
+- Game-learning subscription: Structured lessons, exercises, and instructor-created study paths.
+- Online play product: A game interface with a coherent category name and carefully designed player experience.
+- Club administration: Scheduling, membership resources, and shared game-study material.
+- Tournament media: Event pages, commentary, results presentation, and player interviews.
+- Bilingual publishing: Explanations, terminology guides, and annotated examples for different language communities.
+- Position archive: Searchable, permissioned collections of authored annotations and learning examples.
+- Instructor marketplace: A directory of teachers, course formats, and lesson availability.
+- Game research toolkit: Reproducible experiments, data review, and visual analysis interfaces.
+- Physical set retail: An educational storefront for boards, pieces, books, and related learning material.
+- Cultural workshops: Sessions exploring the game's play, vocabulary, and visual traditions.
+- Broadcast graphics: Board visualization and explanatory overlays for authorized game coverage.
+- Strategy curriculum: Teacher-designed exercises in planning and comparing alternatives through game situations.
+
+**Asking price:** $39,990 USD
+
+This is the seller's end-user asking price, not an appraisal, a comparable sale, or a prediction of financial returns.
+
+**Buy / make an offer:** [Dynadot](https://www.dynadot.com/market/user-listings/xiangqi.si)
+
+**Contact for discounted pricing:** [Email about xiangqi.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20xiangqi.si)
+
+</details>
+
 
 ## Three-letter names
 
@@ -4114,8 +5620,11 @@ Email **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** to request d
 | **[Spaceship SellerHub](https://www.spaceship.com/sellerhub/)** | Search for the exact domain on Spaceship, or email the owner for the relevant listing or checkout link. SellerHub supports fixed-price listings, negotiations, and lease-to-own options. |
 | **[Sedo](https://sedo.com/us/buy-domains/)** | Search for the exact domain on Sedo. Email the owner to confirm the listing is active or to discuss using Sedo's transfer service for an agreed sale. |
 | **[Afternic / GoDaddy](https://www.afternic.com/)** | Search for the exact domain through Afternic or GoDaddy, or email the owner for a current purchase route. Listing visibility and checkout options depend on the domain and its approval status. |
+| **[Atom](https://www.atom.com/)** | Search for the exact domain on Atom, or email the owner for the current listing or checkout link. Standard listings can offer buy-now, negotiation, and payment-plan routes; availability and the options displayed on the selected listing apply. |
 
 Direct Dynadot links are provided throughout this collection. Availability on other marketplaces may vary while ownership verification or listing review is completed. **Payment plans of up to six months** have been configured on Dynadot and Spaceship; the options shown at checkout apply to the selected domain and platform. For `.si`, Afternic uses its [Standard Network rather than Fast Transfer](https://www.afternic.com/fast-transfer).
+
+**Platform-specific options:** Sedo's listings in this collection use **Buy Now** pricing; simultaneous Make Offer and a six-month payment plan are not enabled there. Email the owner to negotiate an offer or discuss another purchase route. **`audiosearch.si` is currently awaiting Afternic listing approval** and can be purchased through its direct Dynadot link or discussed with the owner by email. Marketplace review and ownership-verification status can change, so confirm the selected route before payment.
 
 ### Escrow.com transactions
 
@@ -4136,4 +5645,4 @@ The entries explore the value of the **name itself**: clarity of meaning, brevit
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
-**Last updated: October 13, 2026.**
+**Last updated: October 14, 2026.**
