@@ -2,9 +2,9 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 59 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 70 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
-**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
+**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
 Contact **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** with the domain you want and your offer. Bundle enquiries are welcome.
 
@@ -70,10 +70,11 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**59 domains · 543 meanings and brand readings · 177 recommended naming routes**
+**70 domains · 631 meanings and brand readings · 210 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
+| **[New arrivals](#new-arrivals)** | 11 | Individually researched words and combinations, with concise profiles and linked complete studies. |
 | **[English words](#english-words)** | 15 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
 | **[Brandable names](#brandable-names)** | 22 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
 | **[Three-letter names](#three-letter-names)** | 22 | Documented acronyms plus original phrase expansions spanning agents, data, creativity, enterprise, and science. |
@@ -81,6 +82,250 @@ The contexts above document the named fields and public products. Their possible
 **Browse prices in the tables, then expand any domain for its full profile.** Start with its **strongest naming routes**, then open the full reading table to compare possible products and buyers. Each profile also develops one SI product route in depth, with eight concrete directions, then provides the name's original meaning, highlights, broader applications, and value rationale.
 
 All asking prices are in **USD**. Buy now, make an offer, or enquire about a **payment plan of up to six months** on Dynadot or Spaceship, subject to the options shown at checkout.
+
+---
+
+
+## New arrivals
+
+Eleven additional names with distinct meanings and independent SI product routes. Expand a summary here, then follow its research link for all eight readings, three buyer positions, eight SI ideas, twelve industry applications and primary sources.
+
+| Domain | Asking price (USD) | Leading naming routes | Buy / offer |
+| :--- | ---: | :--- | :--- |
+| **prefactor.si** | $39,990 | Scientific factors / preparation / model assumptions | [View listing](https://www.dynadot.com/market/user-listings/prefactor.si) |
+| **etudes.si** | $47,990 | Musical studies / creative practice / research | [View listing](https://www.dynadot.com/market/user-listings/etudes.si) |
+| **aerogram.si** | $39,990 | Air letters / concise messages / aerial records | [View listing](https://www.dynadot.com/market/user-listings/aerogram.si) |
+| **hogwash.si** | $31,990 | Claim review / playful satire / information cleanup | [View listing](https://www.dynadot.com/market/user-listings/hogwash.si) |
+| **dewdrops.si** | $39,990 | Nature observations / fresh briefs / gentle creative tools | [View listing](https://www.dynadot.com/market/user-listings/dewdrops.si) |
+| **ninefold.si** | $31,990 | Nine-part systems / many perspectives / modular creation | [View listing](https://www.dynadot.com/market/user-listings/ninefold.si) |
+| **travelbox.si** | $39,990 | Trip workspaces / journey collections / portable kits | [View listing](https://www.dynadot.com/market/user-listings/travelbox.si) |
+| **picaro.si** | $47,990 | Clever characters / narrative exploration / creative choices | [View listing](https://www.dynadot.com/market/user-listings/picaro.si) |
+| **curbappeal.si** | $59,990 | Property exteriors / storefronts / vehicle presentation | [View listing](https://www.dynadot.com/market/user-listings/curbappeal.si) |
+| **rusher.si** | $31,990 | Momentum / sports perspectives / urgent-work preparation | [View listing](https://www.dynadot.com/market/user-listings/rusher.si) |
+| **wordcount.si** | $59,990 | Writing measurement / editorial budgets / words that matter | [View listing](https://www.dynadot.com/market/user-listings/wordcount.si) |
+
+### Explore the individual domains
+
+<details>
+<summary><strong>prefactor.si</strong> — Scientific factors / preparation / model assumptions · <strong>$39,990</strong></summary>
+
+
+### prefactor.si
+
+A scientific multiplying term, with an original pre + factor story about preparing inputs before a result. SI directions center on formulas, assumptions and readiness.
+
+**Best-fit buyers:** Researchers, project teams, mathematics educators.
+
+**SI examples:** Formula Factor Explainer; Unit and Assumption Desk; Experiment Planning Assistant; Dataset Readiness Agent.
+
+**Potential sectors:** Scientific software; Laboratory operations; Engineering education; Manufacturing analysis; Data teams; Software maintenance; Architecture; Product development.
+
+**Brand strengths:** Precise scientific vocabulary and a transparent preparation metaphor.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#prefactorsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/prefactor.si)
+
+</details>
+
+<details>
+<summary><strong>etudes.si</strong> — Musical studies / creative practice / research · <strong>$47,990</strong></summary>
+
+
+### etudes.si
+
+The plural of étude: musical studies, artistic practice and investigation. Etudes SI connects focused exercises with creative and research exploration.
+
+**Best-fit buyers:** Musicians, creative educators, research teams.
+
+**SI examples:** Etude Practice Planner; Musical Passage Explainer; Creative Exercise Atelier; Research Notebook Agent.
+
+**Potential sectors:** Music education; Art schools; Writing programs; Research teams; Language learning; Design studios; Theatre education; Engineering training.
+
+**Brand strengths:** Six letters, cultural depth and a natural library-of-studies identity.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#etudessi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/etudes.si)
+
+</details>
+
+<details>
+<summary><strong>aerogram.si</strong> — Air letters / concise messages / aerial records · <strong>$39,990</strong></summary>
+
+
+### aerogram.si
+
+An airletter, extended through original concise-message, travel-dispatch and aerial-record metaphors. Aerogram SI makes communication the product story.
+
+**Best-fit buyers:** Communication studios, aviation educators, archives.
+
+**SI examples:** Airletter Draft Agent; Travel Dispatch Editor; Aerial Note Summarizer; Aviation Training Notebook.
+
+**Potential sectors:** Travel media; Language education; Archives; Aviation education; Environmental observation; Agricultural research; Surveying support; Publishing.
+
+**Brand strengths:** A distinctive real word with a compact message and archive narrative.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#aerogramsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/aerogram.si)
+
+</details>
+
+<details>
+<summary><strong>hogwash.si</strong> — Claim review / playful satire / information cleanup · <strong>$31,990</strong></summary>
+
+
+### hogwash.si
+
+Nonsense, insincere talk and pigswill are established senses. Hogwash SI can support skeptical evidence review, playful satire or information cleanup.
+
+**Best-fit buyers:** Editors, media-literacy educators, comic creators.
+
+**SI examples:** Claim Evidence Desk; Specification Comparison Agent; Rhetoric Explanation Tool; Media Literacy Workshop.
+
+**Potential sectors:** Newsrooms; Education; Consumer research; Advertising review; Publishing; Games; Community media; Software documentation.
+
+**Brand strengths:** An expressive voice, clear skeptical story and memorable mascot potential.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#hogwashsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/hogwash.si)
+
+</details>
+
+<details>
+<summary><strong>dewdrops.si</strong> — Nature observations / fresh briefs / gentle creative tools · <strong>$39,990</strong></summary>
+
+
+### dewdrops.si
+
+Literal dew droplets support original freshness, small-insight and morning-brief metaphors. Dewdrops SI favors approachable nature, learning and creative tools.
+
+**Best-fit buyers:** Nature educators, productivity studios, creators.
+
+**SI examples:** Morning Brief Agent; Nature Observation Notebook; Micro-Lesson Librarian; Creative Dewdrop Prompts.
+
+**Potential sectors:** Education; Garden communities; Environmental communication; Writing tools; Design studios; Personal productivity; Publishing; Photography.
+
+**Brand strengths:** An immediate nature image and a coherent collection-of-small-pieces identity.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#dewdropssi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/dewdrops.si)
+
+</details>
+
+<details>
+<summary><strong>ninefold.si</strong> — Nine-part systems / many perspectives / modular creation · <strong>$31,990</strong></summary>
+
+
+### ninefold.si
+
+Nine times as much or nine parts: the structural reading suits modular systems and perspectives. Ninefold SI names a framework, with no ninefold-results promise.
+
+**Best-fit buyers:** Platform builders, facilitators, design studios.
+
+**SI examples:** Nine-Role Research Council; Modular Agent Console; Nine-Stage Lesson Planner; Creative Variation Board.
+
+**Potential sectors:** Software platforms; Education; Design studios; Research teams; Product management; Corporate workshops; Publishing; Architecture.
+
+**Brand strengths:** A real numerical word suited to finite toolkits, modules and visual grids.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#ninefoldsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/ninefold.si)
+
+</details>
+
+<details>
+<summary><strong>travelbox.si</strong> — Trip workspaces / journey collections / portable kits · <strong>$39,990</strong></summary>
+
+
+### travelbox.si
+
+Travel + a container suggests trip workspaces, portable kits and journey memories. These are independent TravelBox SI concepts, distinct from existing products.
+
+**Best-fit buyers:** Travel-tool builders, kit curators, language educators.
+
+**SI examples:** Itinerary Draft Board; Packing List Companion; Group Preference Mapper; Destination Brief Agent.
+
+**Potential sectors:** Consumer travel; Travel publishing; Group events; Retail gifting; Language education; Family history; Museums; Field education.
+
+**Brand strengths:** An easy travel-plus-container story spanning software, kits and memories.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#travelboxsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/travelbox.si)
+
+</details>
+
+<details>
+<summary><strong>picaro.si</strong> — Clever characters / narrative exploration / creative choices · <strong>$47,990</strong></summary>
+
+
+### picaro.si
+
+An English rogue/vagabond and a Spanish clever, sometimes dishonest literary character. Picaro SI can carry a clearly fictional persona or curiosity-led creative tool.
+
+**Best-fit buyers:** Game studios, language educators, creative-tool founders.
+
+**SI examples:** Picaresque Story Partner; Interactive Character Designer; Curiosity Research Guide; Language Adventure Coach.
+
+**Potential sectors:** Games; Publishing; Language education; Museums; Creative writing; Design studios; Travel media; Theatre.
+
+**Brand strengths:** Six letters and a layered literary persona for creative exploration.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#picarosi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/picaro.si)
+
+</details>
+
+<details>
+<summary><strong>curbappeal.si</strong> — Property exteriors / storefronts / vehicle presentation · <strong>$59,990</strong></summary>
+
+
+### curbappeal.si
+
+The attractiveness of property or a vehicle viewed from the street. CurbAppeal SI extends the phrase into reviewed exterior ideas and first-impression workspaces.
+
+**Best-fit buyers:** Property teams, local merchants, visual designers.
+
+**SI examples:** Exterior Concept Agent; Landscape Brief Builder; Property Photo Desk; Storefront Presentation Studio.
+
+**Potential sectors:** Real-estate marketing; Landscaping services; Exterior renovation; Property photography; Automotive retail; Local retail; Hospitality; Community planning.
+
+**Brand strengths:** An immediately useful commercial phrase spanning property and vehicle display.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#curbappealsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/curbappeal.si)
+
+</details>
+
+<details>
+<summary><strong>rusher.si</strong> — Momentum / sports perspectives / urgent-work preparation · <strong>$31,990</strong></summary>
+
+
+### rusher.si
+
+One that rushes, with a separate football association. Rusher SI can express momentum through task preparation, sports learning or original game characters.
+
+**Best-fit buyers:** Project teams, sports educators, game creators.
+
+**SI examples:** Deadline Triage Agent; Sprint Brief Builder; Fast-Start Prototype Desk; Sports Observation Notebook.
+
+**Potential sectors:** Software teams; Creative agencies; Sports education; Coaching support; Games; Event production; Publishing; Customer operations.
+
+**Brand strengths:** A concise six-letter action persona with separate everyday and sports routes.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#rushersi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/rusher.si)
+
+</details>
+
+<details>
+<summary><strong>wordcount.si</strong> — Writing measurement / editorial budgets / words that matter · <strong>$59,990</strong></summary>
+
+
+### wordcount.si
+
+An established document measure, enriched by the original words-that-matter story. WordCount SI combines explicit counting conventions with thoughtful revision.
+
+**Best-fit buyers:** Writers, publishers, educators and speakers.
+
+**SI examples:** Count Convention Desk; Length-Aware Revision Agent; Section Budget Planner; Speech Draft Companion.
+
+**Potential sectors:** Publishing; Education; Speechwriting; Technical documentation; Translation operations; Newsrooms; Advertising; Research communication.
+
+**Brand strengths:** An instantly legible utility phrase with broader editorial and learning uses.
+
+**[Full individual research, naming context and sources](docs/si-domain-research-2026-10-14-batch11.md#wordcountsi)** · [Buy / make an offer](https://www.dynadot.com/market/user-listings/wordcount.si)
+
+</details>
+
 
 ---
 
