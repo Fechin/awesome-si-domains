@@ -2,9 +2,9 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 70 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 97 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
-**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
+**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Latest additions](#latest-additions) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
 Contact **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** with the domain you want and your offer. Bundle enquiries are welcome.
 
@@ -70,21 +70,56 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**70 domains · 631 meanings and brand readings · 210 recommended naming routes**
+**97 domains · 847 meanings and brand readings · 291 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
+| **[Latest additions](#latest-additions)** | 27 | Individual profiles and complete research in a separate document. |
 | **[New arrivals](#new-arrivals)** | 11 | Individually researched words and combinations, with concise profiles and linked complete studies. |
 | **[English words](#english-words)** | 15 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
 | **[Brandable names](#brandable-names)** | 22 | Multiple readings of expressive words and word combinations, with different audiences and product promises. |
 | **[Three-letter names](#three-letter-names)** | 22 | Documented acronyms plus original phrase expansions spanning agents, data, creativity, enterprise, and science. |
 
-**Browse prices in the tables, then expand any domain for its full profile.** Start with its **strongest naming routes**, then open the full reading table to compare possible products and buyers. Each profile also develops one SI product route in depth, with eight concrete directions, then provides the name's original meaning, highlights, broader applications, and value rationale.
+**Browse prices, open the latest linked profiles, or expand the earlier entries below.** Start with its **strongest naming routes**, then open the full reading table to compare possible products and buyers. Each profile also develops one SI product route in depth, with eight concrete directions, then provides the name's original meaning, highlights, broader applications, and value rationale.
 
 All asking prices are in **USD**. Buy now, make an offer, or enquire about a **payment plan of up to six months** on Dynadot or Spaceship, subject to the options shown at checkout.
 
 ---
 
+
+## Latest additions
+
+27 individually researched names. Open a name for its meanings, three buyer positions, eight SI product ideas, twelve industry uses, brand context and sources. [Complete research](docs/batch27.md).
+
+| Domain / full profile | Asking price (USD) |
+| :--- | ---: |
+| [botid.si](docs/batch27.md#botidsi) | $14,888 |
+| [papered.si](docs/batch27.md#paperedsi) | $14,888 |
+| [mytips.si](docs/batch27.md#mytipssi) | $12,888 |
+| [buzzboard.si](docs/batch27.md#buzzboardsi) | $19,888 |
+| [agitprop.si](docs/batch27.md#agitpropsi) | $6,888 |
+| [zygotic.si](docs/batch27.md#zygoticsi) | $6,888 |
+| [myreviews.si](docs/batch27.md#myreviewssi) | $14,888 |
+| [roseate.si](docs/batch27.md#roseatesi) | $7,888 |
+| [newstream.si](docs/batch27.md#newstreamsi) | $9,888 |
+| [datamonkey.si](docs/batch27.md#datamonkeysi) | $4,888 |
+| [readouts.si](docs/batch27.md#readoutssi) | $8,888 |
+| [deckchair.si](docs/batch27.md#deckchairsi) | $9,888 |
+| [dreamcard.si](docs/batch27.md#dreamcardsi) | $14,888 |
+| [keyid.si](docs/batch27.md#keyidsi) | $14,888 |
+| [vitiligo.si](docs/batch27.md#vitiligosi) | $12,888 |
+| [giftwrap.si](docs/batch27.md#giftwrapsi) | $15,000 |
+| [equipage.si](docs/batch27.md#equipagesi) | $5,888 |
+| [geschenkidee.si](docs/batch27.md#geschenkideesi) | $7,888 |
+| [cloudgateway.si](docs/batch27.md#cloudgatewaysi) | $14,888 |
+| [datafeeds.si](docs/batch27.md#datafeedssi) | $9,888 |
+| [peerbot.si](docs/batch27.md#peerbotsi) | $6,888 |
+| [smartcms.si](docs/batch27.md#smartcmssi) | $11,888 |
+| [fluxapi.si](docs/batch27.md#fluxapisi) | $10,888 |
+| [siptrunk.si](docs/batch27.md#siptrunksi) | $14,888 |
+| [scpi.si](docs/batch27.md#scpisi) | $12,888 |
+| [opensupport.si](docs/batch27.md#opensupportsi) | $8,888 |
+| [onenode.si](docs/batch27.md#onenodesi) | $10,888 |
 
 ## New arrivals
 
@@ -5762,4 +5797,4 @@ The entries explore the value of the **name itself**: clarity of meaning, brevit
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
-**Last updated: October 14, 2026.**
+**Last updated: October 15, 2026.**
