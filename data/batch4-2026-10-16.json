@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-16",
+  "currency": "USD",
+  "priceType": "seller asking price",
+  "domains": [
+    {
+      "domain": "readon.si",
+      "price": 1499,
+      "profile": "../docs/batch4-2026-10-16.md#readonsi",
+      "label": "Reading momentum / learning journeys / document exploration"
+    },
+    {
+      "domain": "topoi.si",
+      "price": 1299,
+      "profile": "../docs/batch4-2026-10-16.md#topoisi",
+      "label": "Ideas and arguments / mathematical structures / knowledge places"
+    },
+    {
+      "domain": "servicecall.si",
+      "price": 999,
+      "profile": "../docs/batch4-2026-10-16.md#servicecallsi",
+      "label": "Customer requests / technician visits / service orchestration"
+    },
+    {
+      "domain": "inwords.si",
+      "price": 699,
+      "profile": "../docs/batch4-2026-10-16.md#inwordssi",
+      "label": "Clear expression / narrative explanations / numbers as language"
+    }
+  ]
+}

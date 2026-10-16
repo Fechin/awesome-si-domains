@@ -2,9 +2,9 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 97 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 101 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
-**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [Latest additions](#latest-additions) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
+**[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [New picks](#new-picks) · [Latest additions](#latest-additions) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
 Contact **[hedge.pike02@icloud.com](mailto:hedge.pike02@icloud.com)** with the domain you want and your offer. Bundle enquiries are welcome.
 
@@ -70,10 +70,11 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**97 domains · 847 meanings and brand readings · 291 recommended naming routes**
+**101 domains · 879 meanings and brand readings · 303 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
+| **[New picks](#new-picks)** | 4 | Reading, ideas, service and language. |
 | **[Latest additions](#latest-additions)** | 27 | Individual profiles and complete research in a separate document. |
 | **[New arrivals](#new-arrivals)** | 11 | Individually researched words and combinations, with concise profiles and linked complete studies. |
 | **[English words](#english-words)** | 15 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
@@ -86,6 +87,17 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ---
 
+
+## New picks
+
+Four new profiles with meanings, buyer positions, SI ideas, industry uses and sources.
+
+| Domain / full research | USD |
+| :--- | ---: |
+| [readon.si](docs/batch4-2026-10-16.md#readonsi) | $1,499 |
+| [topoi.si](docs/batch4-2026-10-16.md#topoisi) | $1,299 |
+| [servicecall.si](docs/batch4-2026-10-16.md#servicecallsi) | $999 |
+| [inwords.si](docs/batch4-2026-10-16.md#inwordssi) | $699 |
 
 ## Latest additions
 
@@ -5797,4 +5809,4 @@ The entries explore the value of the **name itself**: clarity of meaning, brevit
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
-**Last updated: October 15, 2026.**
+**Last updated: October 16, 2026.**
