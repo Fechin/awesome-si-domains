@@ -94,10 +94,10 @@ Four new profiles with meanings, buyer positions, SI ideas, industry uses and so
 
 | Domain / full research | USD |
 | :--- | ---: |
-| [readon.si](docs/batch4-2026-10-16.md#readonsi) | $1,499 |
-| [topoi.si](docs/batch4-2026-10-16.md#topoisi) | $1,299 |
-| [servicecall.si](docs/batch4-2026-10-16.md#servicecallsi) | $999 |
-| [inwords.si](docs/batch4-2026-10-16.md#inwordssi) | $699 |
+| [readon.si](docs/batch4-2026-10-16.md#readonsi) | $6,499 |
+| [topoi.si](docs/batch4-2026-10-16.md#topoisi) | $6,299 |
+| [servicecall.si](docs/batch4-2026-10-16.md#servicecallsi) | $5,999 |
+| [inwords.si](docs/batch4-2026-10-16.md#inwordssi) | $5,699 |
 
 ## Latest additions
 
