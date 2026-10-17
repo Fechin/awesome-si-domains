@@ -90,7 +90,7 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ## New picks
 
-Nine profiles. New five: marketplace upload pending; email the owner.
+Nine profiles. New five: Dynadot/Afternic listed; other checks pending.
 
 | Domain / full research | USD |
 | :--- | ---: |

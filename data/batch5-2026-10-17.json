@@ -2,7 +2,7 @@
   "date": "2026-10-17",
   "currency": "USD",
   "priceType": "seller asking price",
-  "marketplaceStatus": "Upload pending; active listing and verification not yet confirmed.",
+  "marketplaceStatus": "Dynadot and Afternic listed; Spaceship DNS/verification, Atom ownership and Sedo ownership review pending.",
   "requestedMinimumOffer": 500,
   "requestedMaxInstallmentMonths": 6,
   "installmentAvailability": "Where supported by the selected platform; confirm listing and checkout terms.",
@@ -37,5 +37,57 @@
       "profile": "../docs/batch5-2026-10-17.md#pakssi",
       "label": "Useful bundles / software and game archives / physical kits"
     }
-  ]
+  ],
+  "marketplaceSnapshot": {
+    "asOf": "2026-10-17",
+    "scope": "All five domains in this file; seller-account observations.",
+    "dynadot": {
+      "domainCount": 5,
+      "state": "Listed",
+      "buyNowPrices": "Match the asking prices below",
+      "makeOffer": true,
+      "minimumOfferUSD": 500,
+      "maximumInstallmentMonths": 6
+    },
+    "afternic": {
+      "domainCount": 5,
+      "state": "Listed",
+      "buyNowPrices": "Match the asking prices below",
+      "minimumOfferUSD": 500,
+      "maximumInstallmentMonths": 6
+    },
+    "spaceship": {
+      "domainCount": 5,
+      "state": "Configured; verification and DNS setup pending",
+      "buyNowPrices": "Match the asking prices below",
+      "minimumOfferUSD": 500,
+      "maximumInstallmentMonths": 6,
+      "shortDescriptions": "Saved",
+      "publicAvailability": "Not yet confirmed"
+    },
+    "atom": {
+      "domainCount": 5,
+      "sellerAccountState": "Active Standard",
+      "ownershipVerification": "Pending",
+      "exposure": "Limited pending ownership verification",
+      "buyNowPrices": "Match the asking prices below",
+      "minimumOfferUSD": 500,
+      "minimumOfferSource": "Account setting",
+      "maximumInstallmentMonths": 6,
+      "descriptions": "Saved"
+    },
+    "sedo": {
+      "domainCount": 5,
+      "state": "Submitted; not yet for sale pending ownership review",
+      "buyNowPrices": "USD prices submitted",
+      "minimumOfferUSD": null,
+      "requestedMinimumOfferUSD": 500,
+      "descriptions": "Not published; editing unavailable while listing is pending"
+    },
+    "directDomainHTTPS": {
+      "workingSalePagesVerified": false,
+      "latestCheckedDomain": "unie.si",
+      "latestOutcome": "Sale page did not load; use a marketplace listing or contact the owner."
+    }
+  }
 }
