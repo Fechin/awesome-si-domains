@@ -2,7 +2,7 @@
 
 > **Names for the Super Intelligence era.**
 >
-> 101 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
+> 106 curated .si domains. Short letters, layered meanings, and many possible homes for intelligent products.
 
 **[Email for discounted pricing](mailto:hedge.pike02@icloud.com)** · [Why .si for SI](#why-si-for-super-intelligence) · [Many ways to read a name](#many-ways-to-read-a-name) · [New picks](#new-picks) · [Latest additions](#latest-additions) · [New arrivals](#new-arrivals) · [Browse the collection](#english-words) · [Buying options](#how-to-buy)
 
@@ -70,11 +70,11 @@ The contexts above document the named fields and public products. Their possible
 
 ## Explore the collection
 
-**101 domains · 879 meanings and brand readings · 303 recommended naming routes**
+**106 domains · 919 meanings and brand readings · 318 recommended naming routes**
 
 | Collection | Names | What you will find |
 | :--- | :---: | :--- |
-| **[New picks](#new-picks)** | 4 | Reading, ideas, service and language. |
+| **[New picks](#new-picks)** | 9 | Short names with layered meanings. |
 | **[Latest additions](#latest-additions)** | 27 | Individual profiles and complete research in a separate document. |
 | **[New arrivals](#new-arrivals)** | 11 | Individually researched words and combinations, with concise profiles and linked complete studies. |
 | **[English words](#english-words)** | 15 | Literal meanings, wordplay, and metaphors for creative, practical, and personal SI products. |
@@ -90,7 +90,7 @@ All asking prices are in **USD**. Buy now, make an offer, or enquire about a **p
 
 ## New picks
 
-Four new profiles with meanings, buyer positions, SI ideas, industry uses and sources.
+Nine profiles. New five: marketplace upload pending; email the owner.
 
 | Domain / full research | USD |
 | :--- | ---: |
@@ -98,6 +98,11 @@ Four new profiles with meanings, buyer positions, SI ideas, industry uses and so
 | [topoi.si](docs/batch4-2026-10-16.md#topoisi) | $6,299 |
 | [servicecall.si](docs/batch4-2026-10-16.md#servicecallsi) | $5,999 |
 | [inwords.si](docs/batch4-2026-10-16.md#inwordssi) | $5,699 |
+| [unie.si](docs/batch5-2026-10-17.md#uniesi) | $6,995 |
+| [atua.si](docs/batch5-2026-10-17.md#atuasi) | $6,995 |
+| [neep.si](docs/batch5-2026-10-17.md#neepsi) | $6,495 |
+| [drap.si](docs/batch5-2026-10-17.md#drapsi) | $6,495 |
+| [paks.si](docs/batch5-2026-10-17.md#pakssi) | $6,295 |
 
 ## Latest additions
 
@@ -5809,4 +5814,4 @@ The entries explore the value of the **name itself**: clarity of meaning, brevit
 
 Prices are the seller's asking prices. Domain names only are offered for sale; no existing website, customer base, revenue, or search ranking is included. Acronym associations and references to public organizations do not imply affiliation, sponsorship, or endorsement by those organizations, the White House, Elon Musk, or SpaceX.
 
-**Last updated: October 16, 2026.**
+**Last updated: October 17, 2026.**

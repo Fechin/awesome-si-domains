@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-17",
+  "currency": "USD",
+  "priceType": "seller asking price",
+  "marketplaceStatus": "Upload pending; active listing and verification not yet confirmed.",
+  "requestedMinimumOffer": 500,
+  "requestedMaxInstallmentMonths": 6,
+  "installmentAvailability": "Where supported by the selected platform; confirm listing and checkout terms.",
+  "domains": [
+    {
+      "domain": "unie.si",
+      "price": 6995,
+      "profile": "../docs/batch5-2026-10-17.md#uniesi",
+      "label": "Unified tools / cooperative communities / plain design"
+    },
+    {
+      "domain": "atua.si",
+      "price": 6995,
+      "profile": "../docs/batch5-2026-10-17.md#atuasi",
+      "label": "Action and performance / embodied agents / creative worlds"
+    },
+    {
+      "domain": "neep.si",
+      "price": 6495,
+      "profile": "../docs/batch5-2026-10-17.md#neepsi",
+      "label": "Rooted everyday help / food and growing / friendly companions"
+    },
+    {
+      "domain": "drap.si",
+      "price": 6495,
+      "profile": "../docs/batch5-2026-10-17.md#drapsi",
+      "label": "Bed linen / textile operations / material and fashion design"
+    },
+    {
+      "domain": "paks.si",
+      "price": 6295,
+      "profile": "../docs/batch5-2026-10-17.md#pakssi",
+      "label": "Useful bundles / software and game archives / physical kits"
+    }
+  ]
+}
