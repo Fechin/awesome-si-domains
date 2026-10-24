@@ -1,0 +1,13 @@
+{
+  "name": "awesome-si-domains",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static GitHub Pages directory of .si domain names and researched brand possibilities",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "check": "node scripts/check-site.mjs"
+  },
+  "engines": { "node": ">=20" },
+  "devDependencies": { "marked": "18.1.1" }
+}
