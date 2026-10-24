@@ -1,5 +1,7 @@
 # FinMap.si — See where the money moves, and what changes next
 
+![FinMap.si brand artwork](../assets/domains/finmap.si.webp)
+
 FinMap.si brings the financial world into the language of a map: relationships, destinations, timing and alternative routes. Its strongest product direction is an intelligent cash-flow workspace for business owners and finance teams. Connect transactions, invoices and commitments, distinguish recorded facts from assumptions, and explain how a decision changes the path ahead. The same identity can support personal budgeting, project economics and financial learning.
 
 [Enquire about FinMap.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20finmap.si)

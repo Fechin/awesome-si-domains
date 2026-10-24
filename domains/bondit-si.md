@@ -1,5 +1,7 @@
 # BondIt.si — Connect fixed-income evidence to a clearer decision
 
+![BondIt.si brand artwork](../assets/domains/bondit.si.webp)
+
 BondIt.si combines **bond** with the active invitation **it**. Its strongest financial direction is a research terminal that connects instrument terms, issuer information, portfolio exposures and a client's questions. Analysts could move from scattered documents to comparisons they can inspect and explain. The word also carries real relationship and adhesion meanings, leaving room for distinct collaboration or materials products under the same memorable name.
 
 [Enquire about BondIt.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20bondit.si)

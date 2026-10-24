@@ -1,5 +1,7 @@
 # CareWay.si — Carry the conversation into the next step of care
 
+![CareWay.si brand artwork](../assets/domains/careway.si.webp)
+
 CareWay.si joins two familiar words into a practical promise: attentive support with a path forward. Its strongest product direction is a clinical-documentation workspace that helps professionals turn an authorized consultation into a reviewed record, an understandable follow-up and a clear handover. A care organization could introduce one useful documentation tool, then connect the information that patients, families and professionals need between encounters.
 
 [Enquire about CareWay.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20careway.si)

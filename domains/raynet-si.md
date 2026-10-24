@@ -1,5 +1,7 @@
 # RayNet.si — See the connections that make the next decision clearer
 
+![RayNet.si brand artwork](../assets/domains/raynet.si.webp)
+
 RayNet.si combines the image of a ray with the connected structure of a net. It could support two distinct software businesses: a contextual customer-relationship workspace, or an IT asset-management service. Both directions depend on understanding how individual records relate to a larger picture. A founder can choose one audience first and build a recognizable product around visibility, context and useful follow-through.
 
 [Enquire about RayNet.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20raynet.si)

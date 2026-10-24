@@ -1,5 +1,7 @@
 # Fixar.si — Turn an inspection into a precise, workable next step
 
+![Fixar.si brand artwork](../assets/domains/fixar.si.webp)
+
 Fixar.si is a five-letter name with a real Portuguese foundation: **fixar** can mean to fasten, make stable, determine precisely or retain in memory. A strong product direction is an aerial-inspection workspace that connects mission plans, imagery, asset histories and maintenance decisions. Operators and infrastructure teams could use it to move from observing a site to organizing the evidence and work that follow.
 
 [Enquire about Fixar.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20fixar.si)

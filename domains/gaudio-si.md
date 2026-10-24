@@ -1,5 +1,7 @@
 # Gaudio.si — Turn a listening goal into a considered audio workflow
 
+![Gaudio.si brand artwork](../assets/domains/gaudio.si.webp)
+
 Gaudio.si connects the Italian word for joy with a visible sound-related sequence. Its strongest software direction is an intelligent audio-processing workspace or developer API: understand the intended listening result, organize specialist tools and make each processing step reviewable. Producers, creators, developers and archive teams could each build a distinct service around the name.
 
 [Enquire about Gaudio.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20gaudio.si)

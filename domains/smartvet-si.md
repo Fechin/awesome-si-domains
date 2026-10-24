@@ -1,5 +1,7 @@
 # SmartVet.si — Give veterinary teams a clearer working record
 
+![SmartVet.si brand artwork](../assets/domains/smartvet.si.webp)
+
 SmartVet.si immediately suggests intelligent assistance for veterinary professionals. Its strongest direction is a workspace that connects consultation notes, animal histories and owner communication, helping a team carry useful context from one encounter to the next. A focused scribing tool could become the first part of a wider practice product, with specialists, shelters and teaching teams served through distinct editions.
 
 [Enquire about SmartVet.si](mailto:hedge.pike02@icloud.com?subject=Domain%20enquiry%3A%20smartvet.si)
